@@ -1,0 +1,801 @@
+lead_id,nome,origem_lead,score,status_lead,data_entrada
+1,Sr. Arthur Oliveira,Instagram,97,Contato Feito,2026-02-07
+2,Davi Luiz Pereira,Site,66,Perdido,2025-07-31
+3,Alexandre Fogaça,Google Ads,23,Perdido,2025-04-15
+4,Letícia Pires,Site,11,Perdido,2025-10-07
+5,Matheus Dias,Google Ads,52,Convertido,2024-06-19
+6,Cauã Ramos,Google Ads,85,Novo,2026-05-14
+7,Laís da Cunha,LinkedIn,42,Perdido,2024-10-15
+8,Ana Lívia Rezende,Site,36,Perdido,2026-03-23
+9,Yago Moreira,Indicação,4,Perdido,2025-07-07
+10,Natália Souza,Instagram,40,Convertido,2024-12-29
+11,Sabrina Cunha,Google Ads,14,Perdido,2026-02-03
+12,Alana Nascimento,Indicação,0,Perdido,2024-06-28
+13,Gabriela da Rosa,Site,6,Contato Feito,2025-01-09
+14,Pietra Rezende,Indicação,46,Perdido,2025-01-22
+15,Isabella Pinto,Site,97,Novo,2026-04-06
+16,Heloísa da Paz,LinkedIn,34,Contato Feito,2026-05-07
+17,Matheus da Cunha,Google Ads,56,Perdido,2024-12-29
+18,Thomas Farias,Instagram,3,Contato Feito,2025-11-07
+19,Isabelly Duarte,LinkedIn,39,Novo,2026-05-04
+20,Nina Pinto,Indicação,52,Novo,2025-04-02
+21,Joana Silveira,LinkedIn,14,Perdido,2025-02-12
+22,Srta. Evelyn Araújo,Instagram,82,Contato Feito,2025-07-20
+23,Isadora Peixoto,Site,91,Convertido,2025-04-02
+24,Laura Ribeiro,Indicação,90,Convertido,2025-10-08
+25,Luiz Gustavo Cardoso,Site,61,Perdido,2024-05-27
+26,Bryan da Costa,LinkedIn,58,Contato Feito,2025-01-29
+27,Nicole Freitas,Site,24,Contato Feito,2025-11-12
+28,Diego Aragão,Instagram,35,Perdido,2026-01-29
+29,Alana Pires,Google Ads,100,Convertido,2025-08-16
+30,João Gabriel Campos,Instagram,36,Convertido,2025-07-25
+31,Maria Sophia Aragão,Indicação,74,Perdido,2025-12-08
+32,Sabrina da Mota,LinkedIn,57,Perdido,2025-10-16
+33,Laís Alves,Google Ads,42,Perdido,2026-05-02
+34,Arthur Caldeira,Site,41,Contato Feito,2025-06-20
+35,Diego da Luz,LinkedIn,73,Perdido,2024-07-19
+36,João Vitor Ramos,LinkedIn,99,Perdido,2025-01-04
+37,Dr. Leandro Teixeira,Instagram,40,Perdido,2025-07-12
+38,André Viana,Site,49,Contato Feito,2026-01-15
+39,Gustavo Pires,Site,4,Contato Feito,2025-01-01
+40,Maria Sophia Barros,Indicação,75,Convertido,2024-10-18
+41,Heitor Correia,Instagram,56,Novo,2025-10-16
+42,Eduardo Castro,Indicação,58,Novo,2025-11-01
+43,Srta. Manuela Nogueira,LinkedIn,52,Contato Feito,2024-10-26
+44,Enzo Ferreira,Instagram,60,Convertido,2026-01-19
+45,Kevin da Rosa,Google Ads,79,Perdido,2026-03-09
+46,Matheus Nogueira,Instagram,42,Perdido,2024-09-23
+47,Sra. Laura Nogueira,Google Ads,80,Perdido,2025-05-24
+48,Stella Almeida,Indicação,4,Novo,2025-01-21
+49,Stephany Sales,LinkedIn,80,Convertido,2024-12-24
+50,Joana Correia,LinkedIn,95,Novo,2025-03-31
+51,Lívia Vieira,Site,12,Novo,2025-10-27
+52,Sr. Yuri Freitas,Site,21,Convertido,2024-08-18
+53,Paulo Lopes,Instagram,5,Convertido,2024-10-17
+54,Dra. Valentina Campos,Instagram,37,Convertido,2024-11-07
+55,Maitê Nunes,Google Ads,55,Contato Feito,2024-07-03
+56,Ana Julia da Mota,LinkedIn,67,Perdido,2025-07-17
+57,Renan Teixeira,Indicação,87,Contato Feito,2025-05-11
+58,Dra. Catarina Farias,LinkedIn,22,Novo,2024-12-27
+59,Antônio Ramos,Indicação,48,Contato Feito,2024-09-20
+60,Dra. Gabrielly Souza,Site,74,Contato Feito,2026-02-22
+61,Júlia Cunha,LinkedIn,59,Convertido,2025-12-17
+62,Raquel da Rosa,Site,32,Novo,2024-06-30
+63,Luiza Nogueira,Site,36,Contato Feito,2024-12-04
+64,Sr. Murilo Farias,Instagram,56,Convertido,2026-04-14
+65,Luiz Henrique Jesus,Indicação,38,Perdido,2026-03-23
+66,Lara Pereira,Google Ads,58,Convertido,2024-06-20
+67,Gabriel Mendes,LinkedIn,49,Perdido,2025-06-17
+68,Antônio Araújo,Instagram,30,Perdido,2026-01-31
+69,Pietra Gomes,Indicação,45,Convertido,2026-01-13
+70,Pietra Ferreira,Google Ads,2,Perdido,2025-04-29
+71,Luiz Fernando Dias,Google Ads,1,Novo,2024-12-23
+72,Milena da Paz,Indicação,95,Perdido,2024-07-21
+73,Isis da Rosa,Google Ads,99,Contato Feito,2025-12-05
+74,Sr. Rafael Viana,Indicação,45,Contato Feito,2025-04-20
+75,Samuel Oliveira,LinkedIn,79,Convertido,2025-03-06
+76,Sr. Arthur Gomes,LinkedIn,80,Novo,2025-10-15
+77,Diego Gonçalves,Instagram,39,Perdido,2025-03-23
+78,Murilo Barros,Instagram,74,Convertido,2025-03-20
+79,Sr. Breno Nunes,LinkedIn,11,Convertido,2025-08-27
+80,Lorenzo da Mata,Google Ads,95,Perdido,2024-07-30
+81,Srta. Mirella Nogueira,LinkedIn,25,Contato Feito,2026-01-03
+82,Gustavo Henrique da Conceição,Indicação,46,Convertido,2025-09-04
+83,Dr. Nathan Barros,LinkedIn,32,Perdido,2026-01-23
+84,Eduarda Melo,Google Ads,95,Convertido,2025-09-15
+85,Luigi Pereira,Instagram,59,Novo,2025-07-24
+86,Bernardo Araújo,LinkedIn,96,Contato Feito,2025-02-05
+87,Felipe Dias,Site,71,Convertido,2025-05-02
+88,Ana Júlia da Luz,Instagram,50,Novo,2025-04-13
+89,Nina Caldeira,Google Ads,68,Novo,2024-07-01
+90,Isis Moraes,Site,47,Convertido,2026-02-17
+91,Mariane Alves,Indicação,48,Convertido,2025-07-01
+92,Vitor Hugo Nunes,Instagram,86,Contato Feito,2025-10-26
+93,Bianca Freitas,Site,3,Convertido,2025-12-13
+94,Sophie Porto,Indicação,28,Novo,2025-12-22
+95,Miguel Duarte,Site,89,Convertido,2024-12-05
+96,Isabella Fogaça,Site,14,Contato Feito,2026-03-16
+97,Augusto Costela,Instagram,4,Convertido,2025-03-30
+98,Sra. Nina Almeida,Site,14,Novo,2024-11-16
+99,Ryan Ribeiro,LinkedIn,68,Contato Feito,2025-04-24
+100,João Pedro Pires,Site,58,Convertido,2026-03-12
+101,Ana Lívia Vieira,Indicação,53,Contato Feito,2024-09-21
+102,Daniela da Rocha,Site,83,Novo,2025-09-01
+103,Emanuella Porto,Site,78,Perdido,2025-04-18
+104,Pedro Miguel Silva,Google Ads,4,Convertido,2025-08-27
+105,Otávio Dias,LinkedIn,56,Perdido,2025-05-11
+106,Maria Eduarda da Costa,LinkedIn,46,Novo,2026-05-12
+107,Srta. Giovanna da Conceição,Google Ads,69,Convertido,2026-01-24
+108,Dr. Daniel Teixeira,Instagram,50,Convertido,2025-08-14
+109,Julia Ribeiro,LinkedIn,15,Perdido,2024-07-30
+110,Letícia Freitas,Instagram,84,Contato Feito,2024-08-01
+111,André Cardoso,Indicação,2,Novo,2025-12-09
+112,Ana Luiza da Luz,Google Ads,31,Contato Feito,2025-11-01
+113,Camila Oliveira,Indicação,26,Novo,2025-09-07
+114,Henrique Almeida,Indicação,26,Contato Feito,2024-09-14
+115,Sra. Maria Alice Porto,LinkedIn,42,Contato Feito,2026-02-22
+116,Fernando Alves,Indicação,0,Convertido,2025-11-06
+117,Sr. Leonardo Rocha,LinkedIn,16,Convertido,2025-01-15
+118,Benício Araújo,LinkedIn,14,Novo,2026-02-10
+119,Ana Carolina Rodrigues,LinkedIn,1,Convertido,2025-09-28
+120,Luiza Caldeira,LinkedIn,75,Convertido,2026-01-08
+121,Henrique Caldeira,Instagram,22,Convertido,2025-05-21
+122,Cauã da Paz,Instagram,16,Perdido,2024-06-05
+123,Ana Lívia Azevedo,Indicação,14,Novo,2026-03-31
+124,André Santos,Site,57,Convertido,2025-04-24
+125,Fernanda Martins,Indicação,75,Novo,2026-04-22
+126,Kamilly Pinto,Site,64,Contato Feito,2026-04-04
+127,Luiz Felipe Carvalho,Indicação,5,Convertido,2025-11-09
+128,Maysa Fogaça,Site,82,Novo,2026-01-09
+129,Luiza Barros,Instagram,61,Perdido,2024-06-27
+130,Srta. Alexia Pinto,Site,87,Novo,2025-07-20
+131,Gustavo Henrique da Conceição,Site,91,Perdido,2024-08-09
+132,Juan das Neves,Instagram,10,Convertido,2024-12-16
+133,Sr. Pedro Barbosa,Indicação,18,Novo,2026-04-21
+134,Valentina Ribeiro,LinkedIn,35,Convertido,2026-04-24
+135,Maria Azevedo,Site,76,Convertido,2025-09-18
+136,Dr. Pedro Henrique Moraes,Site,64,Perdido,2025-10-05
+137,Nicole Fernandes,Instagram,89,Novo,2025-05-05
+138,Beatriz Moura,Indicação,92,Contato Feito,2025-02-12
+139,Gabrielly Correia,Site,57,Contato Feito,2024-06-26
+140,Sra. Rafaela Cardoso,Site,43,Perdido,2024-12-18
+141,Theo Mendes,Site,53,Novo,2025-01-11
+142,Sr. Eduardo Farias,Google Ads,54,Convertido,2025-02-07
+143,Ana Vitória Silva,Google Ads,47,Contato Feito,2024-09-28
+144,Rebeca Jesus,Site,8,Novo,2025-11-29
+145,Bruna Fernandes,Instagram,11,Perdido,2026-03-12
+146,Enrico Cardoso,Instagram,95,Convertido,2025-05-06
+147,Noah Viana,LinkedIn,71,Novo,2025-11-08
+148,Lucas Gabriel Novaes,Indicação,71,Convertido,2024-09-07
+149,Dra. Alícia Fogaça,Instagram,52,Convertido,2024-12-25
+150,Alícia Rodrigues,Site,92,Novo,2025-06-24
+151,Gabriela Ferreira,Google Ads,76,Convertido,2025-02-23
+152,Emanuella da Rocha,Google Ads,13,Contato Feito,2025-02-19
+153,Enrico Pires,LinkedIn,84,Perdido,2025-08-05
+154,Dr. Cauê Azevedo,LinkedIn,13,Convertido,2025-01-09
+155,Gustavo Henrique Moraes,Indicação,47,Novo,2024-11-17
+156,Kaique Ribeiro,Google Ads,73,Contato Feito,2025-11-18
+157,Nicole Viana,Site,71,Novo,2025-01-31
+158,Maria Fernanda Lima,Indicação,84,Convertido,2025-09-13
+159,Laura Cunha,Instagram,23,Convertido,2025-01-01
+160,Maysa Moreira,Google Ads,43,Convertido,2026-03-09
+161,Beatriz Araújo,Instagram,23,Contato Feito,2025-08-31
+162,Bárbara Mendes,Indicação,84,Perdido,2024-07-04
+163,Paulo Pinto,Instagram,18,Novo,2025-07-20
+164,Murilo Rocha,Instagram,95,Contato Feito,2026-05-21
+165,Ana Ribeiro,Site,53,Perdido,2025-12-22
+166,Diogo Porto,Google Ads,20,Convertido,2026-01-13
+167,Stella Campos,Google Ads,92,Convertido,2025-03-25
+168,Bárbara Rodrigues,Indicação,76,Novo,2025-02-03
+169,Juliana Melo,Instagram,19,Contato Feito,2025-09-01
+170,Gabriel Santos,Indicação,6,Novo,2025-10-22
+171,Evelyn Pires,Google Ads,56,Perdido,2025-12-04
+172,Anthony Jesus,Site,77,Perdido,2025-12-30
+173,Marina Fernandes,Site,34,Contato Feito,2026-05-18
+174,Murilo Martins,Indicação,14,Convertido,2025-08-14
+175,Paulo da Cunha,Site,14,Convertido,2026-02-21
+176,Luiz Gustavo Costa,Indicação,62,Convertido,2024-06-12
+177,Gustavo Henrique Moura,Instagram,28,Perdido,2026-01-03
+178,Otávio da Rosa,Indicação,7,Novo,2024-07-30
+179,Joana Pinto,LinkedIn,38,Contato Feito,2026-04-12
+180,Pietra Alves,LinkedIn,97,Convertido,2025-05-27
+181,Larissa Barros,Google Ads,41,Novo,2026-02-17
+182,João Lucas Cardoso,Instagram,63,Perdido,2025-04-16
+183,Laura Silveira,LinkedIn,16,Perdido,2024-10-28
+184,Maria Clara Campos,Indicação,90,Contato Feito,2025-08-06
+185,Sra. Ana Lívia Silveira,Indicação,71,Convertido,2025-02-11
+186,Dr. Enzo Gabriel Ramos,Instagram,50,Novo,2025-07-24
+187,Maria Fernanda da Mata,Site,2,Perdido,2024-07-09
+188,Luna Almeida,Instagram,40,Perdido,2024-06-14
+189,Sra. Sophia Novaes,Indicação,51,Perdido,2026-01-09
+190,Sr. Joaquim Azevedo,Google Ads,14,Perdido,2025-02-02
+191,Juan Rezende,Instagram,41,Contato Feito,2025-03-14
+192,Dr. Leandro Almeida,Indicação,58,Convertido,2025-07-13
+193,Natália Monteiro,Instagram,55,Novo,2025-03-30
+194,Pedro Dias,LinkedIn,55,Perdido,2025-03-09
+195,Emanuella Viana,Indicação,10,Perdido,2025-05-26
+196,Emanuella Porto,Google Ads,95,Convertido,2025-07-22
+197,Joaquim da Cunha,LinkedIn,42,Contato Feito,2025-01-31
+198,Heloísa Fernandes,Instagram,65,Novo,2025-05-04
+199,Alana Campos,Indicação,65,Contato Feito,2025-01-11
+200,Marcela Ramos,Google Ads,44,Contato Feito,2026-03-18
+201,Evelyn Dias,LinkedIn,13,Contato Feito,2025-11-24
+202,Valentina Sales,Google Ads,25,Contato Feito,2025-10-13
+203,Davi Luiz Rocha,Indicação,19,Novo,2026-01-31
+204,Agatha Teixeira,LinkedIn,98,Perdido,2026-03-01
+205,Beatriz Costa,Site,96,Perdido,2025-10-05
+206,Milena Ribeiro,Indicação,82,Convertido,2026-03-05
+207,Maitê Pinto,Google Ads,19,Perdido,2024-08-10
+208,Maria Vitória da Costa,Instagram,60,Perdido,2025-03-03
+209,Sra. Letícia Carvalho,Google Ads,35,Novo,2025-11-25
+210,Gabriela da Paz,Google Ads,64,Novo,2026-04-21
+211,Isis Almeida,Google Ads,59,Perdido,2026-03-13
+212,Luigi Castro,Instagram,7,Convertido,2024-09-22
+213,Luana Barbosa,Google Ads,9,Novo,2024-09-08
+214,Breno Silveira,Indicação,76,Perdido,2024-06-27
+215,Maria Julia Nogueira,Site,74,Novo,2025-09-04
+216,Davi Lucca Cavalcanti,Site,73,Contato Feito,2025-10-23
+217,Lorena Moura,Google Ads,77,Perdido,2024-09-07
+218,Srta. Evelyn Cardoso,Indicação,19,Novo,2026-02-26
+219,Fernando da Cruz,Site,13,Convertido,2025-07-23
+220,Matheus Melo,Instagram,64,Contato Feito,2024-06-11
+221,Mirella da Rocha,Instagram,31,Perdido,2025-07-01
+222,Marcelo Silva,Site,67,Contato Feito,2026-01-21
+223,João Gabriel Rezende,Google Ads,47,Convertido,2024-09-23
+224,Davi Lucca Lima,Site,52,Convertido,2026-01-27
+225,Srta. Agatha Freitas,Indicação,6,Convertido,2025-03-05
+226,Diogo Martins,Instagram,42,Novo,2026-05-23
+227,Daniela Fernandes,Indicação,86,Perdido,2024-12-25
+228,Ana Carolina Ferreira,Google Ads,32,Contato Feito,2026-02-13
+229,Dr. Marcos Vinicius Castro,Google Ads,10,Contato Feito,2024-07-30
+230,Paulo Viana,Google Ads,39,Perdido,2024-11-27
+231,Maria Clara Azevedo,LinkedIn,76,Novo,2026-04-29
+232,Maria Cavalcanti,Google Ads,71,Perdido,2026-04-29
+233,Sra. Isabella Campos,Google Ads,16,Novo,2024-08-04
+234,Marcelo Ferreira,Site,65,Convertido,2024-10-28
+235,Vitor Hugo Santos,Instagram,46,Convertido,2025-08-11
+236,Sarah da Mata,LinkedIn,27,Convertido,2025-10-24
+237,Maria Alice Souza,Site,24,Contato Feito,2024-09-03
+238,Stephany Jesus,LinkedIn,19,Novo,2024-07-09
+239,João Pedro Gomes,Google Ads,100,Novo,2024-12-18
+240,Cecília Dias,Indicação,98,Novo,2025-03-27
+241,Júlia Pereira,Google Ads,98,Contato Feito,2026-04-25
+242,Ana Julia Pereira,Indicação,48,Contato Feito,2026-05-02
+243,Sr. Luiz Miguel Sales,LinkedIn,23,Contato Feito,2024-06-16
+244,Emanuelly da Rosa,Site,5,Perdido,2025-09-29
+245,Beatriz Gonçalves,Google Ads,86,Contato Feito,2024-06-22
+246,Vitor Gabriel Fogaça,Site,78,Convertido,2025-05-26
+247,Eloah Almeida,Site,29,Contato Feito,2025-12-27
+248,Pedro Lucas Sales,Google Ads,100,Perdido,2024-11-06
+249,Gabriela Melo,LinkedIn,47,Perdido,2025-07-09
+250,Felipe Lopes,Site,98,Convertido,2025-04-08
+251,Sra. Mirella Ribeiro,Site,64,Perdido,2025-01-19
+252,Maria Rezende,LinkedIn,25,Contato Feito,2025-05-03
+253,Gustavo Henrique Porto,Google Ads,6,Perdido,2025-08-06
+254,Fernando Costa,Google Ads,70,Novo,2024-08-04
+255,Yago Almeida,Indicação,15,Convertido,2025-02-13
+256,Dr. Miguel Cunha,Instagram,97,Contato Feito,2024-10-08
+257,Pedro Miguel Araújo,Google Ads,57,Contato Feito,2025-06-12
+258,Levi Jesus,Site,11,Contato Feito,2026-02-04
+259,Sra. Bianca da Costa,Site,44,Novo,2025-12-13
+260,Raul Silva,Site,6,Perdido,2025-04-17
+261,Dr. Ryan Mendes,Indicação,47,Contato Feito,2024-07-17
+262,Evelyn da Rocha,Site,10,Convertido,2025-03-24
+263,Olivia Pires,LinkedIn,3,Convertido,2024-07-09
+264,Stephany da Mota,Instagram,91,Convertido,2024-07-03
+265,Maria Fernanda Vieira,LinkedIn,17,Novo,2024-07-09
+266,Thomas Cardoso,Google Ads,60,Contato Feito,2025-02-13
+267,Isaac Fernandes,Site,57,Novo,2025-12-08
+268,Maria Clara Cavalcanti,Instagram,2,Convertido,2024-08-10
+269,Theo Lima,LinkedIn,19,Perdido,2025-07-01
+270,Valentina Teixeira,Instagram,99,Convertido,2026-01-05
+271,João Lucas Cunha,LinkedIn,38,Novo,2026-03-14
+272,Dr. Benjamin da Mata,Instagram,30,Perdido,2024-06-02
+273,Dra. Mariane Cunha,Indicação,58,Novo,2024-12-04
+274,Ana Clara da Costa,Instagram,63,Novo,2026-04-18
+275,Enzo Moura,Indicação,73,Contato Feito,2024-10-20
+276,Srta. Yasmin Viana,LinkedIn,37,Perdido,2024-08-06
+277,Ana Vitória Pinto,Instagram,78,Convertido,2026-02-23
+278,Luiz Gustavo Correia,LinkedIn,73,Perdido,2025-07-02
+279,João Carvalho,LinkedIn,85,Novo,2024-12-07
+280,Sra. Caroline Gomes,Indicação,46,Novo,2025-06-12
+281,Srta. Stella da Rocha,Indicação,69,Novo,2025-11-01
+282,Benjamin Barbosa,Site,60,Novo,2025-04-03
+283,Ana Júlia da Mota,Site,47,Convertido,2025-08-01
+284,Srta. Marina Cunha,Instagram,45,Novo,2024-09-10
+285,Pietra Gonçalves,Google Ads,30,Novo,2026-04-13
+286,João Gabriel Melo,Indicação,94,Convertido,2026-03-21
+287,Caio Pinto,LinkedIn,5,Convertido,2026-05-23
+288,Caroline Pinto,Indicação,43,Contato Feito,2025-09-17
+289,Dra. Rafaela Nascimento,Site,89,Perdido,2025-12-04
+290,Bárbara Jesus,LinkedIn,17,Novo,2026-04-20
+291,Alícia Melo,Site,4,Convertido,2024-08-07
+292,Olivia da Rocha,LinkedIn,5,Contato Feito,2025-11-03
+293,Ana Laura da Mota,Instagram,40,Convertido,2026-03-17
+294,Stella Souza,Indicação,50,Perdido,2025-10-12
+295,Brenda Cardoso,Google Ads,4,Contato Feito,2026-04-07
+296,Clara Pinto,Google Ads,45,Novo,2024-07-16
+297,Ana Lopes,Google Ads,34,Novo,2025-12-18
+298,Evelyn das Neves,Google Ads,55,Perdido,2024-09-18
+299,Carolina Azevedo,Site,49,Convertido,2025-03-08
+300,João Vitor Alves,LinkedIn,63,Perdido,2025-06-21
+301,Arthur Gonçalves,Google Ads,66,Convertido,2025-07-12
+302,Gustavo Henrique Lima,Instagram,93,Perdido,2024-11-02
+303,Emanuel Correia,Instagram,55,Contato Feito,2025-12-18
+304,Sr. Vinicius Viana,Indicação,37,Convertido,2025-07-10
+305,Luiz Gustavo Jesus,Instagram,10,Convertido,2025-12-07
+306,André Moura,Google Ads,39,Perdido,2025-09-10
+307,Srta. Maria Julia Jesus,Indicação,91,Perdido,2025-05-11
+308,Eloah Barros,LinkedIn,88,Perdido,2026-03-09
+309,Ana Sophia Rocha,Google Ads,57,Novo,2024-09-28
+310,Dra. Alana Rocha,Google Ads,78,Perdido,2025-07-15
+311,Enzo Gabriel Fogaça,Google Ads,81,Novo,2025-02-16
+312,Valentina da Costa,Instagram,85,Perdido,2024-06-28
+313,Larissa Cavalcanti,Google Ads,65,Contato Feito,2024-07-09
+314,Dr. Noah Ribeiro,Instagram,18,Perdido,2026-03-22
+315,Davi Araújo,Instagram,16,Novo,2025-12-19
+316,Lavínia da Rosa,LinkedIn,99,Convertido,2026-03-15
+317,Benício Santos,Google Ads,49,Novo,2025-07-23
+318,Maria Julia Gomes,Indicação,19,Perdido,2024-10-12
+319,Enzo da Rosa,Google Ads,47,Perdido,2025-02-20
+320,Luana das Neves,Instagram,73,Contato Feito,2024-08-01
+321,Srta. Ana Júlia Alves,Indicação,46,Perdido,2025-10-21
+322,Marcos Vinicius Azevedo,Google Ads,83,Convertido,2024-11-27
+323,Enzo Jesus,LinkedIn,14,Novo,2024-07-08
+324,Paulo da Luz,LinkedIn,63,Perdido,2026-04-25
+325,Paulo Rocha,Indicação,15,Convertido,2026-03-10
+326,João Vitor Sales,Google Ads,90,Perdido,2025-07-03
+327,Yago Porto,LinkedIn,78,Convertido,2024-08-01
+328,Miguel Freitas,Site,25,Novo,2025-10-26
+329,Vinicius Cardoso,LinkedIn,9,Perdido,2026-05-18
+330,Bianca das Neves,LinkedIn,91,Perdido,2025-08-22
+331,Srta. Nicole Nogueira,Instagram,87,Convertido,2024-10-04
+332,Sophia Monteiro,Google Ads,90,Novo,2025-06-18
+333,Ana Carolina Fogaça,Indicação,69,Convertido,2024-11-12
+334,João Miguel Araújo,Google Ads,20,Contato Feito,2025-06-14
+335,Dr. Vitor Gabriel Moreira,Google Ads,65,Contato Feito,2024-07-21
+336,Enrico Nascimento,Instagram,25,Contato Feito,2026-02-13
+337,Carlos Eduardo Porto,LinkedIn,63,Novo,2025-04-15
+338,Levi Pereira,Google Ads,70,Convertido,2025-04-26
+339,Marina Castro,Site,70,Contato Feito,2024-10-09
+340,Dr. Henrique da Conceição,Indicação,11,Novo,2026-01-13
+341,Clarice Gomes,Google Ads,50,Perdido,2024-06-09
+342,Vitória Ribeiro,Indicação,52,Perdido,2026-05-06
+343,Thales Santos,Indicação,9,Contato Feito,2025-11-18
+344,Maria Eduarda da Cunha,Google Ads,82,Novo,2026-02-07
+345,Sra. Marina Castro,Site,59,Convertido,2024-08-27
+346,Júlia Cardoso,LinkedIn,99,Contato Feito,2024-06-11
+347,Esther Lopes,LinkedIn,55,Novo,2025-12-12
+348,Mirella Lopes,Instagram,66,Contato Feito,2025-12-07
+349,Emanuelly Cardoso,Google Ads,21,Contato Feito,2024-12-11
+350,Srta. Maria Novaes,Google Ads,90,Contato Feito,2024-06-30
+351,Levi Ramos,Google Ads,66,Convertido,2025-09-09
+352,Dr. Carlos Eduardo Pereira,Instagram,32,Contato Feito,2024-11-03
+353,Natália Monteiro,Indicação,35,Contato Feito,2025-08-16
+354,Dra. Kamilly Souza,Google Ads,78,Novo,2024-10-18
+355,Isabelly Monteiro,Indicação,82,Contato Feito,2025-10-26
+356,Bruna da Luz,Indicação,74,Contato Feito,2024-11-23
+357,Gustavo Rocha,LinkedIn,84,Convertido,2025-07-13
+358,Caroline Novaes,Indicação,5,Novo,2024-09-09
+359,Lívia da Cruz,Instagram,5,Convertido,2026-05-23
+360,Pietra Rodrigues,LinkedIn,98,Perdido,2024-12-25
+361,Nicolas Silveira,Indicação,81,Novo,2026-01-20
+362,Nathan Cavalcanti,Site,80,Convertido,2026-02-19
+363,Marcos Vinicius Nascimento,Google Ads,61,Contato Feito,2025-11-06
+364,Emanuelly Pereira,Site,38,Perdido,2025-01-06
+365,Vitor Hugo Nascimento,Instagram,88,Novo,2025-09-29
+366,Maria Eduarda Moreira,LinkedIn,56,Perdido,2025-02-16
+367,Dra. Catarina Azevedo,Site,59,Contato Feito,2025-10-30
+368,Alícia Caldeira,Google Ads,77,Contato Feito,2026-05-14
+369,Vinicius da Cunha,Google Ads,91,Convertido,2024-07-21
+370,Emanuel Pinto,Google Ads,51,Contato Feito,2024-12-21
+371,Beatriz Lopes,Google Ads,65,Novo,2026-02-18
+372,Ana Beatriz Moura,Google Ads,30,Perdido,2024-11-13
+373,Vinicius Gonçalves,Instagram,34,Perdido,2025-08-26
+374,Maria Clara Pinto,LinkedIn,18,Novo,2024-07-16
+375,Natália Costela,Instagram,37,Perdido,2025-03-15
+376,João Rocha,Indicação,53,Contato Feito,2025-03-22
+377,Yasmin Almeida,LinkedIn,41,Convertido,2025-07-20
+378,João Miguel Mendes,LinkedIn,97,Contato Feito,2024-05-28
+379,Pedro Lucas Oliveira,Site,65,Perdido,2025-01-09
+380,Sra. Stephany Rocha,Site,39,Perdido,2025-02-09
+381,Gustavo Fogaça,Instagram,11,Perdido,2024-12-29
+382,Caio Lima,Indicação,58,Contato Feito,2025-11-14
+383,Luana Porto,LinkedIn,74,Convertido,2024-12-21
+384,Maria Rodrigues,Instagram,6,Convertido,2025-11-14
+385,Bárbara Mendes,Site,76,Perdido,2024-07-06
+386,Erick Moreira,Google Ads,68,Novo,2024-08-04
+387,Helena Porto,Instagram,55,Contato Feito,2025-05-15
+388,Yuri Nascimento,Google Ads,93,Convertido,2026-01-23
+389,Dra. Gabrielly Moreira,Site,46,Novo,2024-08-03
+390,Levi Teixeira,Site,6,Contato Feito,2025-05-07
+391,Bruno Azevedo,Google Ads,70,Convertido,2026-04-13
+392,Dr. Diego Silva,Instagram,49,Perdido,2025-08-02
+393,Laura Cunha,Indicação,35,Novo,2025-01-29
+394,Erick Souza,LinkedIn,12,Perdido,2024-06-10
+395,João Miguel Almeida,Google Ads,43,Convertido,2026-02-04
+396,Lucca Monteiro,LinkedIn,25,Perdido,2025-04-03
+397,Juan Castro,Indicação,5,Novo,2024-06-02
+398,Júlia Peixoto,Instagram,17,Convertido,2024-08-21
+399,Luiz Otávio Cardoso,Site,66,Perdido,2024-09-20
+400,Cecília Almeida,LinkedIn,77,Contato Feito,2024-08-10
+401,Laís Rodrigues,Google Ads,78,Convertido,2025-09-21
+402,Sr. Vinicius Dias,LinkedIn,50,Convertido,2025-03-27
+403,Marcos Vinicius Aragão,Indicação,43,Perdido,2025-04-22
+404,Alexia Freitas,Indicação,38,Perdido,2026-03-15
+405,Dr. Calebe Farias,Instagram,47,Convertido,2024-07-04
+406,Pedro Vieira,Instagram,53,Convertido,2025-10-18
+407,Miguel Azevedo,Instagram,76,Perdido,2025-10-02
+408,Davi Luiz Freitas,Google Ads,83,Contato Feito,2025-03-16
+409,Dr. Vinicius Freitas,Instagram,74,Perdido,2025-04-18
+410,Helena Duarte,LinkedIn,67,Perdido,2025-07-27
+411,Sra. Fernanda Barbosa,LinkedIn,87,Contato Feito,2025-05-15
+412,Lucca Cardoso,Instagram,73,Novo,2024-10-31
+413,Ian Cardoso,LinkedIn,2,Perdido,2025-05-07
+414,Murilo Vieira,Google Ads,53,Contato Feito,2024-10-21
+415,Sra. Melissa da Mata,Site,88,Contato Feito,2024-12-26
+416,Noah Caldeira,Site,64,Perdido,2024-11-03
+417,Maria Fernanda Rezende,Instagram,90,Contato Feito,2025-11-19
+418,Heitor Vieira,Indicação,26,Convertido,2025-10-25
+419,Olivia Moura,Site,67,Perdido,2026-01-24
+420,Renan Barbosa,Google Ads,22,Perdido,2024-09-30
+421,Nathan Lima,Indicação,43,Convertido,2026-03-20
+422,Dr. Benício Rodrigues,Google Ads,78,Perdido,2025-10-26
+423,Leandro Lopes,LinkedIn,31,Convertido,2026-04-20
+424,Lucca Lopes,Indicação,38,Contato Feito,2025-04-20
+425,Eloah Campos,Google Ads,98,Convertido,2026-01-07
+426,Emanuel Costa,LinkedIn,88,Perdido,2025-10-11
+427,Thomas da Rocha,Google Ads,61,Convertido,2024-07-02
+428,Ana Laura da Mata,Indicação,92,Convertido,2024-10-12
+429,Sr. Benício Lopes,Google Ads,15,Perdido,2026-01-19
+430,Luiz Felipe Carvalho,Site,44,Contato Feito,2026-05-08
+431,Natália Lima,Google Ads,5,Convertido,2024-10-16
+432,Sr. Gustavo Jesus,Instagram,44,Perdido,2026-02-13
+433,Lucca Peixoto,Google Ads,95,Perdido,2026-03-20
+434,Nina Mendes,LinkedIn,25,Convertido,2024-05-28
+435,Laís Barbosa,Indicação,89,Convertido,2025-12-04
+436,Benjamin Silva,LinkedIn,13,Contato Feito,2024-09-16
+437,Luiz Gustavo Farias,LinkedIn,6,Contato Feito,2025-12-01
+438,Ana Lívia Souza,LinkedIn,6,Novo,2024-08-21
+439,Mirella Viana,Site,42,Perdido,2025-09-11
+440,Sr. Isaac Carvalho,Instagram,87,Contato Feito,2026-04-10
+441,Sra. Rafaela Vieira,Instagram,70,Contato Feito,2024-11-30
+442,Joana Fernandes,Site,83,Perdido,2025-12-22
+443,Maria Eduarda Viana,Site,83,Contato Feito,2024-10-12
+444,Rodrigo Correia,Google Ads,41,Convertido,2025-08-21
+445,João Guilherme Campos,Instagram,98,Novo,2025-04-18
+446,Rodrigo Castro,Indicação,29,Novo,2025-08-12
+447,Bruno das Neves,LinkedIn,53,Contato Feito,2026-01-26
+448,Guilherme Gonçalves,Instagram,50,Perdido,2025-09-20
+449,Stella Nogueira,LinkedIn,95,Convertido,2026-03-25
+450,Julia Freitas,Instagram,1,Convertido,2025-06-03
+451,Lucca Fogaça,Indicação,77,Novo,2026-04-16
+452,Heloísa da Rocha,Google Ads,36,Perdido,2025-09-07
+453,Isis Carvalho,Indicação,67,Perdido,2024-06-03
+454,Pietro Peixoto,LinkedIn,64,Perdido,2024-10-15
+455,Bernardo Ramos,Google Ads,24,Novo,2025-03-18
+456,João Lucas da Paz,Google Ads,20,Perdido,2024-08-19
+457,Dra. Juliana Freitas,Google Ads,91,Contato Feito,2024-11-06
+458,Raquel Silva,Instagram,94,Convertido,2025-07-01
+459,Carolina das Neves,Google Ads,72,Contato Feito,2024-11-04
+460,Davi Lucas Almeida,LinkedIn,78,Perdido,2024-12-13
+461,Luiz Felipe Peixoto,Site,65,Convertido,2024-07-12
+462,Laura da Mota,Instagram,51,Novo,2025-11-22
+463,Calebe da Paz,LinkedIn,17,Perdido,2024-11-21
+464,Nina Fogaça,Google Ads,31,Novo,2025-04-05
+465,Thales Almeida,Google Ads,49,Contato Feito,2024-11-24
+466,Levi Silva,Site,96,Convertido,2024-07-26
+467,Dra. Maria Fernanda Barbosa,Google Ads,38,Novo,2025-04-17
+468,Igor Costa,Google Ads,83,Convertido,2025-09-27
+469,Pietra Duarte,LinkedIn,7,Novo,2025-03-24
+470,Dra. Raquel Mendes,Site,39,Contato Feito,2025-03-22
+471,Luiz Miguel da Mota,Site,87,Convertido,2024-11-25
+472,Gustavo Henrique das Neves,Instagram,81,Convertido,2025-03-08
+473,Sophie Moreira,Google Ads,78,Contato Feito,2025-04-20
+474,Davi Barros,LinkedIn,17,Perdido,2026-04-26
+475,Emanuella Sales,LinkedIn,58,Convertido,2025-08-30
+476,Dr. Vitor Hugo Fernandes,Site,89,Perdido,2025-08-22
+477,Stella Cunha,Indicação,85,Contato Feito,2025-05-30
+478,Cecília Rocha,LinkedIn,87,Novo,2024-09-16
+479,Sr. Yago Pereira,Indicação,57,Convertido,2026-03-26
+480,Isabelly Aragão,Instagram,72,Novo,2024-10-12
+481,Joana das Neves,Instagram,70,Contato Feito,2024-09-27
+482,Gabriela da Costa,Indicação,68,Contato Feito,2024-05-25
+483,Pietro Dias,LinkedIn,41,Perdido,2025-06-27
+484,Francisco Rocha,Instagram,87,Contato Feito,2025-11-20
+485,Cecília das Neves,Indicação,62,Novo,2026-03-16
+486,Olivia Ramos,Indicação,57,Novo,2026-01-08
+487,Lívia Campos,Site,16,Perdido,2026-02-17
+488,Gabriela Caldeira,Site,72,Novo,2026-03-28
+489,Yuri Nunes,Indicação,59,Convertido,2024-07-15
+490,Matheus Sales,Instagram,50,Convertido,2024-08-21
+491,Marcela Cardoso,Instagram,95,Contato Feito,2024-12-14
+492,Sr. Benício Sales,Indicação,9,Novo,2025-10-20
+493,Bernardo Porto,Site,44,Novo,2025-04-08
+494,Caroline Mendes,Indicação,7,Novo,2025-06-24
+495,João Felipe Moreira,Site,4,Convertido,2024-10-02
+496,Thiago Moraes,Site,23,Contato Feito,2026-02-02
+497,Maria Julia Nascimento,Site,47,Perdido,2026-02-07
+498,Nina Jesus,Site,48,Perdido,2024-06-22
+499,Kaique Rodrigues,Instagram,87,Contato Feito,2025-04-26
+500,Antônio Viana,Google Ads,15,Contato Feito,2025-10-20
+501,Luiz Miguel Castro,Indicação,50,Contato Feito,2025-10-16
+502,Mirella Lopes,LinkedIn,0,Novo,2024-10-24
+503,Otávio Barros,Google Ads,59,Perdido,2026-03-14
+504,Bruno Rocha,Indicação,48,Contato Feito,2025-11-30
+505,Joaquim Moreira,LinkedIn,58,Convertido,2025-12-06
+506,Clara da Luz,LinkedIn,35,Contato Feito,2024-09-16
+507,Thomas Ferreira,Instagram,4,Perdido,2026-03-25
+508,Amanda Araújo,Indicação,98,Novo,2025-12-30
+509,João Felipe Souza,LinkedIn,26,Novo,2024-08-25
+510,Dr. Davi Oliveira,Instagram,76,Novo,2025-10-09
+511,Leonardo Costela,Site,76,Novo,2026-04-17
+512,Kaique Ramos,LinkedIn,94,Novo,2025-04-25
+513,Luiz Fernando Carvalho,Site,56,Contato Feito,2025-12-08
+514,Júlia da Rosa,Indicação,27,Novo,2025-10-17
+515,Lara da Conceição,LinkedIn,64,Convertido,2024-06-09
+516,João Miguel Rodrigues,LinkedIn,93,Convertido,2025-06-05
+517,Sr. Pedro Lucas da Mata,Indicação,76,Convertido,2025-09-01
+518,Stephany Rezende,LinkedIn,38,Contato Feito,2025-12-11
+519,Clarice Pereira,Indicação,28,Perdido,2025-03-04
+520,Clarice Castro,Google Ads,35,Novo,2024-07-01
+521,Diogo Fogaça,Indicação,75,Contato Feito,2025-07-11
+522,Augusto Alves,Site,71,Perdido,2026-04-21
+523,João Lucas Pereira,Instagram,44,Perdido,2025-07-14
+524,João Guilherme Pires,Indicação,40,Perdido,2024-06-14
+525,Erick da Cruz,Site,19,Convertido,2026-04-02
+526,Srta. Luana da Costa,Site,23,Perdido,2025-04-01
+527,Maitê Araújo,LinkedIn,28,Convertido,2024-11-20
+528,Leandro Sales,LinkedIn,59,Novo,2024-09-02
+529,Clara Novaes,Indicação,52,Perdido,2025-02-08
+530,João Vitor Martins,Indicação,67,Contato Feito,2026-05-11
+531,Dra. Eduarda da Cruz,Site,31,Convertido,2025-02-21
+532,Emanuella Jesus,LinkedIn,42,Novo,2025-03-15
+533,Natália Nascimento,Site,47,Novo,2026-01-31
+534,Lucca Fernandes,Indicação,92,Contato Feito,2025-05-31
+535,Dra. Emanuella Moreira,Instagram,34,Perdido,2025-04-05
+536,Benjamin Rocha,Indicação,77,Novo,2026-05-17
+537,Maria Julia Ferreira,Instagram,24,Contato Feito,2026-05-05
+538,Dr. Kevin Araújo,Site,26,Convertido,2025-09-04
+539,Rebeca Peixoto,Google Ads,1,Contato Feito,2025-09-29
+540,Yuri Pires,LinkedIn,94,Novo,2025-02-02
+541,Isaac Martins,Site,31,Contato Feito,2025-09-20
+542,Srta. Ana Clara Nunes,Site,30,Convertido,2024-06-03
+543,Joaquim da Paz,Google Ads,48,Perdido,2025-07-10
+544,Dra. Isabella Nogueira,Indicação,83,Convertido,2025-05-16
+545,Leandro da Paz,Google Ads,33,Convertido,2025-06-29
+546,Kevin Caldeira,Indicação,63,Perdido,2025-09-18
+547,Cauã da Cunha,Instagram,92,Perdido,2025-12-22
+548,Vitor Hugo Aragão,Google Ads,26,Convertido,2025-04-08
+549,Eloah da Paz,Google Ads,52,Novo,2024-05-23
+550,Isadora Aragão,Indicação,28,Contato Feito,2024-09-26
+551,Mirella Caldeira,Instagram,33,Perdido,2024-09-27
+552,Eduarda Teixeira,Google Ads,19,Contato Feito,2025-01-10
+553,Elisa Peixoto,Google Ads,29,Perdido,2026-05-12
+554,Murilo Costa,Indicação,31,Perdido,2026-03-27
+555,Melissa Silveira,Indicação,83,Convertido,2026-01-21
+556,Luiz Otávio Melo,Google Ads,97,Perdido,2026-03-11
+557,Agatha Vieira,Site,58,Contato Feito,2024-07-17
+558,Ana Laura Lopes,Google Ads,21,Contato Feito,2025-06-29
+559,Ana Clara da Mata,Indicação,62,Contato Feito,2024-09-29
+560,Pietro da Cunha,Indicação,82,Novo,2025-05-21
+561,Pietra Pereira,Indicação,4,Novo,2024-09-24
+562,Pietra Moura,Instagram,97,Novo,2024-08-02
+563,Vitória Almeida,Site,17,Contato Feito,2024-08-28
+564,Rafaela Monteiro,Instagram,90,Contato Feito,2025-02-26
+565,Emanuel Rezende,Instagram,27,Perdido,2024-10-24
+566,Pedro Lucas Carvalho,Google Ads,7,Perdido,2026-04-07
+567,Vicente Costela,Site,2,Novo,2024-12-01
+568,Ana Luiza Costa,Indicação,70,Perdido,2024-07-10
+569,Helena Duarte,Instagram,2,Convertido,2025-08-13
+570,Ana Vitória Rezende,Indicação,36,Novo,2025-09-26
+571,Dra. Mirella da Mata,Indicação,89,Perdido,2026-04-01
+572,Sr. Davi Luiz Barros,LinkedIn,13,Novo,2026-03-21
+573,Miguel Cavalcanti,Indicação,19,Contato Feito,2025-01-13
+574,Noah Campos,LinkedIn,79,Convertido,2026-03-29
+575,Srta. Emanuelly Caldeira,Google Ads,34,Perdido,2025-10-16
+576,Lorenzo Moraes,Instagram,47,Perdido,2025-06-23
+577,Lavínia Souza,Site,72,Contato Feito,2025-10-25
+578,Srta. Fernanda Pereira,LinkedIn,38,Novo,2026-03-07
+579,Pedro Farias,Instagram,11,Perdido,2024-10-03
+580,Camila Fernandes,Site,48,Perdido,2025-08-18
+581,Sra. Maria Julia Correia,Instagram,81,Novo,2026-05-17
+582,Laís Almeida,LinkedIn,10,Perdido,2025-06-20
+583,Luiz Fernando da Rocha,Site,82,Convertido,2025-12-18
+584,Gustavo Henrique Viana,Indicação,12,Novo,2025-10-09
+585,Alexia Campos,LinkedIn,27,Perdido,2024-12-08
+586,Leandro da Cunha,Google Ads,5,Novo,2024-12-21
+587,Pedro Cardoso,Google Ads,69,Novo,2024-06-28
+588,Ana Vitória da Costa,LinkedIn,40,Novo,2026-04-07
+589,Raquel Mendes,LinkedIn,75,Contato Feito,2024-10-27
+590,Bárbara das Neves,Site,9,Convertido,2026-02-05
+591,Bernardo Teixeira,LinkedIn,72,Contato Feito,2025-12-26
+592,Dr. Thiago Sales,Indicação,49,Convertido,2025-01-24
+593,Mariane Cunha,Site,96,Contato Feito,2024-09-28
+594,Davi Lucas da Mota,Instagram,64,Convertido,2026-04-23
+595,Enzo Gabriel Vieira,Instagram,12,Perdido,2024-07-10
+596,Fernanda Nascimento,LinkedIn,9,Convertido,2024-10-11
+597,Ana Clara Barbosa,Indicação,98,Perdido,2024-07-06
+598,Sra. Alexia Vieira,Google Ads,3,Convertido,2024-10-07
+599,Emanuella Silveira,Site,62,Contato Feito,2025-10-06
+600,Luna Farias,Google Ads,70,Perdido,2026-04-27
+601,Srta. Alexia Ferreira,Site,23,Perdido,2024-05-29
+602,Luna Jesus,Instagram,98,Convertido,2025-03-05
+603,Luiz Miguel Barbosa,LinkedIn,91,Novo,2025-07-06
+604,Luiza Lopes,Instagram,34,Contato Feito,2025-01-31
+605,Thomas Cardoso,Site,91,Contato Feito,2024-08-20
+606,Pedro Henrique da Paz,Site,40,Convertido,2025-10-17
+607,Diego Nascimento,Instagram,11,Novo,2024-07-19
+608,Davi Lucas Silveira,Google Ads,56,Convertido,2025-12-02
+609,Luana Cardoso,Google Ads,13,Contato Feito,2025-08-14
+610,Alexandre Fernandes,Instagram,23,Perdido,2025-11-10
+611,Gabrielly Pereira,Site,71,Perdido,2024-11-22
+612,Srta. Stella Castro,Instagram,3,Novo,2025-05-30
+613,Ana Júlia Porto,Google Ads,70,Novo,2024-12-13
+614,Guilherme Oliveira,Indicação,76,Convertido,2024-07-21
+615,Eloah Sales,Site,1,Convertido,2025-08-14
+616,Maria Alice Cavalcanti,Site,49,Novo,2026-05-23
+617,Maysa Peixoto,Indicação,31,Contato Feito,2026-04-22
+618,Sofia Souza,Site,21,Contato Feito,2025-03-23
+619,Marcela Alves,Google Ads,38,Convertido,2025-08-16
+620,Lavínia Dias,Site,18,Novo,2025-01-31
+621,Sophie Costela,LinkedIn,55,Convertido,2024-09-21
+622,Evelyn Barbosa,Site,38,Perdido,2025-06-02
+623,Ana Clara Pereira,Instagram,46,Convertido,2025-08-19
+624,João Gabriel Freitas,LinkedIn,92,Perdido,2025-09-30
+625,Ana Beatriz da Mota,Indicação,78,Contato Feito,2026-01-03
+626,Marcos Vinicius Silva,Site,13,Contato Feito,2025-10-05
+627,Davi Lucas da Cruz,Google Ads,0,Perdido,2025-07-27
+628,Enzo Gabriel Cardoso,Google Ads,79,Perdido,2025-01-11
+629,Arthur da Luz,Google Ads,56,Convertido,2025-04-26
+630,Emilly Barbosa,Site,83,Contato Feito,2025-06-08
+631,Raul Costa,Google Ads,41,Contato Feito,2025-03-15
+632,Danilo Souza,Site,40,Contato Feito,2024-09-22
+633,Enrico Viana,Site,40,Convertido,2025-09-20
+634,Mariane Santos,Site,73,Contato Feito,2025-11-19
+635,Yasmin Cunha,Google Ads,48,Convertido,2025-06-20
+636,Gabriela Nogueira,Site,46,Novo,2024-12-01
+637,Sr. Renan Nunes,Indicação,25,Contato Feito,2025-06-01
+638,Mariana Costa,Indicação,3,Perdido,2024-10-18
+639,Clara Melo,LinkedIn,56,Convertido,2024-10-25
+640,Caio Nunes,Instagram,52,Perdido,2025-07-20
+641,Valentina Ferreira,LinkedIn,81,Convertido,2025-12-06
+642,Valentina Carvalho,LinkedIn,32,Contato Feito,2025-06-02
+643,Dra. Sarah Jesus,Site,48,Novo,2025-08-22
+644,Elisa Ferreira,Site,76,Perdido,2026-05-06
+645,Srta. Ana Laura Moreira,Indicação,51,Perdido,2025-07-29
+646,Rodrigo Martins,Indicação,4,Convertido,2025-12-04
+647,Sr. Benício Castro,Indicação,76,Novo,2025-10-05
+648,Emanuella da Paz,Instagram,98,Contato Feito,2026-04-25
+649,Ana Clara Nunes,Google Ads,21,Novo,2024-09-21
+650,Gustavo Henrique Silva,Indicação,82,Perdido,2026-03-19
+651,Luigi da Paz,Google Ads,55,Novo,2025-11-02
+652,Stephany Cunha,Instagram,12,Convertido,2025-02-18
+653,Mariane Vieira,LinkedIn,65,Contato Feito,2024-06-29
+654,Sra. Ana Luiza Silveira,Site,47,Perdido,2025-08-28
+655,Leonardo Barros,Site,98,Contato Feito,2024-08-08
+656,Vitor da Cunha,Google Ads,3,Perdido,2025-03-19
+657,Agatha Araújo,Instagram,37,Perdido,2024-11-30
+658,Dra. Mariane Cardoso,Instagram,14,Contato Feito,2026-02-21
+659,Enzo Gabriel Fernandes,Google Ads,39,Convertido,2025-02-23
+660,Breno da Paz,Site,100,Contato Feito,2025-03-05
+661,Nina Campos,Indicação,61,Convertido,2024-10-14
+662,Juliana Nascimento,Site,12,Perdido,2024-11-16
+663,Ana Laura Campos,Site,40,Novo,2026-04-20
+664,Sr. Yuri Caldeira,Google Ads,5,Novo,2025-02-19
+665,Leandro Azevedo,Instagram,43,Novo,2024-12-09
+666,Dr. Enrico Fogaça,LinkedIn,94,Contato Feito,2024-08-07
+667,Joaquim Dias,Indicação,22,Contato Feito,2026-02-15
+668,Maria Clara da Luz,Google Ads,71,Perdido,2025-02-13
+669,Pedro Miguel Fernandes,Site,29,Perdido,2026-04-07
+670,Natália da Mota,LinkedIn,23,Perdido,2025-08-03
+671,João Gabriel Cardoso,Site,3,Contato Feito,2024-11-29
+672,Agatha Vieira,Site,75,Perdido,2025-08-19
+673,Bernardo Araújo,Site,0,Contato Feito,2024-06-26
+674,Enzo Moreira,LinkedIn,35,Novo,2024-07-18
+675,Enrico das Neves,Indicação,13,Contato Feito,2025-08-12
+676,Beatriz Souza,Google Ads,41,Contato Feito,2024-08-22
+677,Bruna Caldeira,Site,14,Convertido,2024-06-29
+678,Vitor Gabriel Pinto,Site,67,Convertido,2025-02-14
+679,Heloísa Moraes,Indicação,49,Perdido,2025-02-18
+680,Lucca Barros,Indicação,14,Convertido,2025-05-11
+681,Davi Monteiro,Google Ads,58,Contato Feito,2025-02-02
+682,Srta. Bianca Novaes,Google Ads,78,Novo,2024-11-11
+683,Nathan Almeida,LinkedIn,40,Novo,2025-04-07
+684,Breno da Cunha,LinkedIn,39,Novo,2025-04-16
+685,Dra. Rebeca Duarte,LinkedIn,47,Contato Feito,2024-09-30
+686,Valentina Costa,Indicação,49,Perdido,2025-12-31
+687,Ryan Alves,Indicação,17,Perdido,2026-02-28
+688,Davi Lucca da Cruz,Site,23,Perdido,2026-04-02
+689,Lorena Silva,Indicação,88,Contato Feito,2026-03-18
+690,Rodrigo Dias,Indicação,21,Perdido,2025-01-18
+691,Vinicius Araújo,Google Ads,17,Contato Feito,2025-01-05
+692,Lorena Cardoso,Google Ads,57,Novo,2025-06-05
+693,Lívia Peixoto,Google Ads,1,Perdido,2025-01-20
+694,Clara Nunes,LinkedIn,24,Perdido,2025-08-24
+695,Sr. Juan Silva,Indicação,64,Perdido,2026-01-07
+696,Noah Nogueira,Site,87,Perdido,2025-08-25
+697,Ana Beatriz Pires,Site,90,Perdido,2024-10-18
+698,Diogo da Luz,Site,21,Novo,2025-07-29
+699,Caroline Silva,Indicação,3,Contato Feito,2024-12-09
+700,Sr. Benício Silva,Google Ads,4,Convertido,2026-03-09
+701,Sr. Pedro Henrique Santos,LinkedIn,68,Convertido,2024-07-11
+702,Eloah Costa,LinkedIn,99,Perdido,2025-11-21
+703,Yago da Paz,Indicação,95,Perdido,2026-04-03
+704,Srta. Maria Julia Barbosa,Indicação,65,Novo,2025-12-12
+705,Kaique Teixeira,Indicação,14,Convertido,2026-04-24
+706,João Lucas Campos,Indicação,46,Novo,2025-02-07
+707,Juliana Gomes,Site,69,Contato Feito,2026-02-16
+708,Cauê Souza,Site,13,Contato Feito,2025-09-12
+709,Sr. Breno Campos,Google Ads,4,Perdido,2024-05-31
+710,Davi Lucas Novaes,Google Ads,44,Novo,2025-03-26
+711,Ana Sophia Souza,Site,15,Contato Feito,2026-01-11
+712,Srta. Luana Cardoso,LinkedIn,94,Convertido,2026-01-17
+713,Eduardo Viana,Indicação,80,Perdido,2025-09-13
+714,Bárbara Melo,LinkedIn,78,Contato Feito,2024-12-04
+715,Ana Clara da Mata,LinkedIn,26,Novo,2025-08-19
+716,Bryan Cunha,Indicação,44,Convertido,2025-11-23
+717,Milena Lopes,Indicação,68,Contato Feito,2025-11-29
+718,Luna Mendes,Google Ads,90,Convertido,2025-08-01
+719,João Pedro Porto,Google Ads,73,Convertido,2026-03-01
+720,Marina Cardoso,Indicação,86,Novo,2025-04-05
+721,João Felipe Oliveira,LinkedIn,96,Perdido,2024-07-15
+722,Pedro Miguel Martins,Instagram,35,Contato Feito,2025-12-10
+723,João Miguel Almeida,LinkedIn,31,Contato Feito,2024-06-13
+724,Srta. Mariane Oliveira,Google Ads,31,Perdido,2025-07-18
+725,Ana Lívia Cardoso,Site,18,Convertido,2025-05-28
+726,Renan Aragão,Site,48,Perdido,2025-11-27
+727,Luiza Duarte,Instagram,81,Novo,2025-06-09
+728,Srta. Amanda da Costa,Site,65,Convertido,2025-03-18
+729,Srta. Valentina Ferreira,Google Ads,58,Perdido,2025-06-24
+730,Isadora Costa,Google Ads,74,Novo,2026-01-08
+731,Sophie Vieira,Instagram,93,Perdido,2026-04-20
+732,Pedro Henrique Duarte,Google Ads,8,Perdido,2024-10-13
+733,Enzo Gabriel Cardoso,LinkedIn,54,Contato Feito,2025-03-14
+734,Fernando Oliveira,Site,34,Convertido,2026-02-08
+735,Cauã Moraes,Google Ads,43,Contato Feito,2025-02-01
+736,Marina Moura,Indicação,62,Convertido,2024-09-26
+737,Bernardo Silveira,Instagram,5,Novo,2024-11-01
+738,Vitória Barros,Site,2,Novo,2025-02-20
+739,Maria Julia Barros,LinkedIn,56,Perdido,2025-03-02
+740,Maria Eduarda Silva,Instagram,54,Contato Feito,2024-12-05
+741,Pedro Miguel das Neves,LinkedIn,83,Convertido,2024-10-06
+742,Sr. João Felipe Campos,LinkedIn,35,Novo,2025-06-28
+743,Nina Farias,Google Ads,32,Novo,2024-06-05
+744,Sr. Gabriel Azevedo,Google Ads,85,Contato Feito,2025-09-02
+745,Gabriela da Conceição,Instagram,50,Convertido,2026-04-05
+746,Sr. Lucas Gabriel Teixeira,LinkedIn,54,Novo,2024-07-31
+747,Bianca Novaes,Instagram,0,Contato Feito,2025-06-04
+748,Levi da Rocha,Site,9,Contato Feito,2025-08-23
+749,João da Rosa,Indicação,28,Perdido,2024-12-24
+750,João Miguel Sales,Instagram,1,Convertido,2025-12-03
+751,Cauê Moraes,Instagram,54,Contato Feito,2025-11-29
+752,Esther Oliveira,Site,9,Contato Feito,2024-09-04
+753,Dr. Calebe Castro,Site,11,Novo,2026-05-20
+754,João Gabriel Lima,Instagram,40,Convertido,2026-01-06
+755,Isabel Souza,Google Ads,17,Perdido,2024-11-06
+756,Thomas da Cunha,LinkedIn,82,Contato Feito,2024-06-08
+757,Carlos Eduardo Barros,Instagram,67,Novo,2025-12-25
+758,Nathan da Luz,Indicação,83,Contato Feito,2024-12-13
+759,Vinicius da Cruz,Site,44,Contato Feito,2025-04-27
+760,Isabelly Freitas,LinkedIn,52,Perdido,2025-12-13
+761,Emilly Nascimento,LinkedIn,11,Novo,2025-07-12
+762,Vitor Hugo Sales,LinkedIn,96,Novo,2025-08-17
+763,Vitória Almeida,Indicação,93,Perdido,2026-03-27
+764,Renan Novaes,Google Ads,54,Convertido,2025-02-23
+765,Dr. Miguel Rezende,LinkedIn,31,Convertido,2024-09-20
+766,Maria Nogueira,Instagram,31,Convertido,2026-02-24
+767,Paulo Novaes,Instagram,84,Convertido,2026-05-02
+768,Sabrina Rezende,LinkedIn,66,Contato Feito,2025-10-11
+769,Rodrigo Rodrigues,Site,37,Novo,2025-04-11
+770,João Lucas Araújo,LinkedIn,63,Perdido,2024-09-03
+771,Maria Julia Caldeira,Instagram,30,Perdido,2024-10-28
+772,Alana Ramos,Indicação,9,Novo,2025-11-11
+773,Maria Alice Cardoso,Google Ads,40,Contato Feito,2025-09-13
+774,João Gabriel Souza,Site,72,Perdido,2024-06-13
+775,Isis Moreira,Google Ads,69,Contato Feito,2025-05-15
+776,Heitor Souza,Site,98,Novo,2025-01-31
+777,Giovanna Dias,Instagram,75,Novo,2025-08-22
+778,Dra. Kamilly da Mota,Instagram,33,Contato Feito,2025-12-09
+779,Bianca Lima,Instagram,7,Perdido,2025-08-17
+780,Pedro Cardoso,Indicação,36,Perdido,2025-08-02
+781,Dr. Francisco Oliveira,Site,89,Perdido,2024-06-30
+782,Maria Clara Nunes,Instagram,81,Contato Feito,2026-03-27
+783,Pedro Lucas Silva,Google Ads,10,Convertido,2024-07-12
+784,Rafael Rezende,Instagram,65,Contato Feito,2025-10-18
+785,Heitor Martins,LinkedIn,68,Convertido,2025-05-18
+786,Olivia Mendes,Site,75,Novo,2025-07-07
+787,Matheus Gomes,Google Ads,89,Perdido,2026-01-14
+788,Ryan Almeida,LinkedIn,7,Contato Feito,2025-12-06
+789,Breno Martins,Instagram,55,Novo,2025-12-22
+790,Ana Julia Teixeira,Site,78,Novo,2025-08-03
+791,Leandro Nunes,Google Ads,85,Contato Feito,2025-12-16
+792,Joaquim Fogaça,Instagram,1,Contato Feito,2024-05-30
+793,Dra. Sabrina Cardoso,Instagram,20,Perdido,2025-09-08
+794,Amanda Nascimento,Google Ads,66,Convertido,2025-02-26
+795,Sophia Almeida,LinkedIn,47,Contato Feito,2026-02-16
+796,Miguel Jesus,Google Ads,93,Novo,2025-12-22
+797,Nicole da Luz,Instagram,42,Perdido,2024-11-22
+798,Ian Silva,Google Ads,67,Novo,2026-04-08
+799,Catarina da Mota,Google Ads,91,Novo,2026-04-01
+800,Dr. Pedro Mendes,Site,58,Convertido,2024-10-22

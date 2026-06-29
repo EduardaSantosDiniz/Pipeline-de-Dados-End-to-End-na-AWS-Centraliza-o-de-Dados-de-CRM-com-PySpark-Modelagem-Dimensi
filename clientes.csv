@@ -1,0 +1,501 @@
+cliente_id,nome,email,telefone,cidade,estado,segmento,data_cadastro,status_cliente
+1,Thiago da Cruz,silvapedro-miguel@bol.com.br,(081) 3736-1859,da Paz do Campo,MG,Varejo,2024-03-03,Ativo
+2,Lucca Pereira,benicio52@aragao.br,61 9371-0293,Melo de Nunes,MA,Saúde,2023-06-29,Ativo
+3,João Vitor Souza,rezendelivia@goncalves.br,0300 098 6471,Novaes de Pires,MT,Tecnologia,2025-07-12,Ativo
+4,Laura Freitas,mendesana-clara@bol.com.br,0900-756-1326,Moraes do Oeste,PI,Varejo,2024-12-29,Premium
+5,Thales Cardoso,larabarbosa@moura.org,+55 (071) 7855-1165,Campos,CE,Financeiro,2023-06-16,Ativo
+6,João Rocha,tda-cruz@uol.com.br,+55 41 3760 4278,Vieira,AM,Financeiro,2024-06-23,Inativo
+7,Larissa Cavalcanti,luana68@ig.com.br,+55 84 7308 2984,Pereira,GO,Varejo,2023-06-23,Ativo
+8,Valentina da Rosa,lpinto@uol.com.br,+55 11 4841-6692,Almeida das Pedras,RO,Varejo,2026-01-12,Ativo
+9,Nicole da Rosa,nicolascaldeira@goncalves.com,51 8920 7316,Gonçalves Alegre,PB,Tecnologia,2024-08-17,Premium
+10,Dra. Laura Caldeira,emanuellaviana@ig.com.br,+55 (084) 7576-6316,Araújo da Prata,GO,Financeiro,2025-11-05,Ativo
+11,Heitor Sales,emilly29@sales.br,+55 51 5822 2902,Aragão Verde,AM,Financeiro,2025-01-17,Ativo
+12,Olivia da Rocha,pporto@ig.com.br,81 5778 6111,Costa de Viana,PI,Financeiro,2023-12-10,Inativo
+13,Brenda Fogaça,fernandeshenrique@ramos.org,(041) 4915-2586,Lima,PB,Tecnologia,2026-05-15,Inativo
+14,Pietra da Conceição,benicio46@lima.br,0900-654-7536,Porto,SP,Financeiro,2023-06-02,Inativo
+15,Leandro Carvalho,lorena53@da.com,0800 879 0256,Cardoso,AL,Varejo,2025-05-26,Ativo
+16,Clarice da Rocha,kjesus@rodrigues.br,51 0607 0058,Rezende de Farias,AP,Educação,2024-08-02,Inativo
+17,Brenda Ferreira,marcelo37@hotmail.com,(081) 4123-7096,da Mata,SP,Saúde,2026-04-11,Ativo
+18,Sra. Alana Castro,lucas26@moraes.com,(081) 9450-9282,Azevedo,SP,Tecnologia,2024-07-14,Inativo
+19,Giovanna Carvalho,maria-claramonteiro@bol.com.br,0900-303-1031,Farias,AP,Varejo,2026-04-10,Ativo
+20,Melissa Ferreira,ubarbosa@nascimento.com,(081) 2247 1491,Pires dos Dourados,RN,Educação,2026-02-23,Ativo
+21,Eduardo da Cruz,da-pazana-sophia@uol.com.br,0800-949-9334,Ramos do Galho,RO,Saúde,2023-06-24,Inativo
+22,Bernardo Pinto,gabrielmartins@yahoo.com.br,+55 81 1560-7534,Castro dos Dourados,TO,Financeiro,2024-08-06,Inativo
+23,Miguel Lopes,fogacakaique@uol.com.br,41 3018-9257,Almeida das Pedras,PB,Varejo,2024-12-04,Premium
+24,Dr. Murilo Moreira,ana-carolina24@gmail.com,+55 (011) 9888-6698,Ferreira do Norte,RN,Educação,2026-03-02,Premium
+25,Diogo Gomes,silvaemanuella@gmail.com,0500 485 7768,Gomes,SC,Varejo,2023-12-28,Inativo
+26,Pedro Lucas Gomes,igor04@santos.com,31 1298 9919,Fogaça dos Dourados,PB,Varejo,2023-11-30,Premium
+27,Isadora Ribeiro,acavalcanti@rezende.org,0300 250 0841,Azevedo,GO,Saúde,2025-11-06,Premium
+28,Enzo Gabriel Azevedo,maria-luizaporto@ig.com.br,+55 (081) 8324 7620,Cardoso,MS,Financeiro,2024-02-15,Inativo
+29,Breno da Conceição,lararamos@bol.com.br,84 5223 8752,da Rosa Alegre,SP,Financeiro,2025-04-21,Ativo
+30,Lucas Gabriel Ferreira,da-rochahenrique@peixoto.com,+55 61 1801-3592,da Conceição de Minas,RJ,Varejo,2025-03-02,Ativo
+31,Emanuel Carvalho,erickferreira@hotmail.com,(071) 7446-4274,da Mata Alegre,RS,Tecnologia,2023-11-23,Inativo
+32,Bianca Rezende,msouza@yahoo.com.br,61 8016-0900,Rezende dos Dourados,PB,Varejo,2025-05-11,Ativo
+33,Sr. Matheus Moreira,heloisa56@ig.com.br,+55 61 2742 8825,Cardoso do Norte,PE,Varejo,2023-10-04,Inativo
+34,Pedro da Cruz,icampos@da.br,0900-082-3994,Ramos de Novaes,AC,Saúde,2024-07-08,Inativo
+35,Dr. Felipe Silveira,helena10@yahoo.com.br,+55 81 5135 2360,Santos,MG,Saúde,2023-09-19,Ativo
+36,Matheus Porto,cmelo@viana.com,+55 31 3072-9582,Caldeira,SC,Saúde,2024-08-22,Inativo
+37,Paulo Novaes,gsilva@yahoo.com.br,+55 21 6266 4992,Novaes,PR,Tecnologia,2025-07-16,Premium
+38,Ana Beatriz da Paz,joanaaragao@uol.com.br,(084) 2715-0965,das Neves,PR,Saúde,2025-09-24,Premium
+39,Julia Lopes,pietrosantos@souza.br,31 5536 6897,Cardoso,PI,Varejo,2023-11-03,Premium
+40,Ana Moreira,lorena52@gmail.com,41 5984 7696,Santos de Nogueira,SP,Tecnologia,2024-08-08,Premium
+41,Pedro Lucas Fernandes,vitorda-mata@hotmail.com,(071) 8009 3601,Barbosa,PE,Tecnologia,2025-12-06,Ativo
+42,Caroline da Rosa,larissanascimento@goncalves.org,+55 (021) 9027-6204,Nascimento do Norte,SE,Educação,2024-02-13,Inativo
+43,Natália Pereira,alana18@gmail.com,+55 (081) 4616 9120,da Cruz do Sul,MS,Saúde,2025-11-01,Premium
+44,Maria Fernanda Aragão,emillyda-luz@melo.com,0500 354 2227,da Mata,PB,Financeiro,2023-07-19,Ativo
+45,Lucas Silva,luiz-felipeda-mata@hotmail.com,+55 (061) 0381-8244,Rezende,BA,Saúde,2024-05-13,Ativo
+46,Maria Fernanda Souza,fmartins@lima.net,+55 84 7280-0814,da Paz da Prata,RR,Tecnologia,2024-02-23,Ativo
+47,Sophia Silva,alicianogueira@gmail.com,+55 (071) 7360-4899,Moura,ES,Saúde,2026-05-21,Inativo
+48,Antônio Barros,gbarbosa@silveira.com,71 1990-3057,Monteiro de Carvalho,BA,Saúde,2025-09-06,Ativo
+49,Nathan Costa,pintobryan@correia.net,+55 (071) 9879-4874,Cardoso do Sul,AM,Tecnologia,2026-04-14,Premium
+50,Benjamin Santos,da-matamanuela@da.com,+55 61 7350 7647,Nascimento,AC,Saúde,2024-10-16,Ativo
+51,Rodrigo Jesus,lucasda-mata@goncalves.com,+55 (021) 9489-5136,Moraes,RJ,Educação,2024-05-12,Inativo
+52,Bruno da Cunha,murilomoraes@da.br,0900 074 9926,Farias,RN,Educação,2023-12-17,Ativo
+53,Isabel Nunes,ana-laura40@rezende.br,+55 31 4291-7979,Viana,CE,Saúde,2023-11-18,Ativo
+54,Pedro Henrique Pinto,maria-eduarda53@santos.br,0800 889 5728,Moraes do Campo,BA,Tecnologia,2024-05-30,Premium
+55,Vinicius Duarte,santosrodrigo@bol.com.br,(071) 7251 7409,Lima,MG,Financeiro,2026-03-16,Premium
+56,João Vitor Fogaça,da-motajulia@gmail.com,(071) 8164 8460,Araújo do Sul,BA,Saúde,2023-10-25,Premium
+57,Nicolas Rocha,ericknunes@bol.com.br,11 9770-2996,Rezende,MA,Financeiro,2025-03-28,Inativo
+58,Bryan Rodrigues,emanuella95@bol.com.br,61 7049-0428,Sales,RS,Financeiro,2025-12-24,Inativo
+59,Sr. Vitor Hugo Cunha,ana-juliadias@peixoto.com,+55 71 3142 5712,Oliveira de da Costa,SC,Saúde,2023-11-30,Ativo
+60,João Gabriel da Mota,fmonteiro@uol.com.br,11 2795 3629,Azevedo de Goiás,RO,Tecnologia,2024-03-31,Premium
+61,João Gabriel Barbosa,ecardoso@da.org,0500-663-3814,Cardoso,PB,Educação,2025-05-08,Ativo
+62,Sra. Olivia Ramos,isiscardoso@gmail.com,+55 (031) 9865-1392,Duarte,PB,Varejo,2023-09-05,Ativo
+63,Letícia Cavalcanti,gabrielda-costa@carvalho.br,21 2193 8568,Pinto,AC,Tecnologia,2024-06-30,Premium
+64,Thales Aragão,zaraujo@azevedo.net,41 4006-5573,da Conceição,RS,Tecnologia,2026-03-24,Premium
+65,Bruna Souza,correiabenicio@uol.com.br,(061) 0800 2399,Gomes,PB,Educação,2024-08-05,Premium
+66,Ana Clara Nogueira,arezende@uol.com.br,84 0135 1831,Jesus,SE,Varejo,2026-02-28,Inativo
+67,Sra. Brenda Barros,avieira@hotmail.com,+55 (061) 0407 1473,da Conceição Alegre,PB,Educação,2025-12-11,Premium
+68,Bernardo Cardoso,gcardoso@hotmail.com,+55 (071) 7127-0882,Correia,MA,Educação,2026-03-08,Premium
+69,Luigi da Conceição,juliamoreira@lopes.net,+55 (041) 0597-9405,Gomes de Campos,AM,Saúde,2025-01-03,Premium
+70,Lucca da Costa,mariananovaes@uol.com.br,61 6680 4721,Santos,AC,Varejo,2023-11-01,Premium
+71,Esther Cunha,eduardo25@araujo.com,21 5084 9638,Fernandes de Gomes,MA,Varejo,2026-03-28,Premium
+72,Anthony Carvalho,maria-vitoria44@uol.com.br,+55 (011) 8422-1146,Silveira de Goiás,PB,Financeiro,2024-10-13,Inativo
+73,Isadora Cunha,das-nevesalana@nascimento.com,21 4349 9331,da Cunha,AP,Saúde,2025-03-05,Ativo
+74,Ana Silva,enricoda-paz@ig.com.br,(071) 2468 7344,Cardoso,SE,Saúde,2024-10-27,Inativo
+75,Caio Fernandes,isabel39@fogaca.com,+55 (061) 9031-5068,Dias,PI,Tecnologia,2025-06-12,Inativo
+76,Sr. Vitor Hugo Correia,da-cruzkaique@nascimento.com,+55 (041) 1044-4015,Nunes,ES,Varejo,2025-04-23,Premium
+77,Clara Almeida,wfernandes@campos.net,(061) 6550-4363,da Cunha,MS,Saúde,2024-11-19,Premium
+78,Davi Luiz da Mata,duartejuan@farias.com,+55 (011) 2920 1371,Barros,SE,Tecnologia,2025-03-15,Premium
+79,Thales Melo,mourajoao-lucas@yahoo.com.br,+55 (021) 8088 0523,Moreira,AL,Varejo,2025-10-02,Premium
+80,Lara Novaes,nascimentomanuela@pinto.br,71 2095-9929,Pires de da Paz,AP,Saúde,2026-05-23,Premium
+81,Laura Castro,vitor-gabrielcaldeira@ferreira.com,+55 (081) 9699 4973,Mendes Paulista,AC,Financeiro,2024-09-12,Premium
+82,Srta. Maria Clara Souza,monteiroyuri@mendes.com,+55 (011) 4267-3215,da Rosa,PR,Tecnologia,2024-04-10,Ativo
+83,Ana Clara Monteiro,ppeixoto@ig.com.br,+55 (031) 7347-6986,Fogaça Paulista,PI,Saúde,2023-11-19,Ativo
+84,Felipe da Luz,yda-conceicao@uol.com.br,+55 61 0184 7858,da Mota Alegre,AP,Financeiro,2026-04-29,Premium
+85,Alana Carvalho,cavalcantialice@uol.com.br,(041) 9257 2505,Campos,AP,Varejo,2024-12-27,Premium
+86,Anthony da Costa,goncalvesdaniela@ig.com.br,+55 51 2934 8768,Azevedo Paulista,AP,Saúde,2023-09-09,Inativo
+87,Maria Eduarda Castro,ana-vitoria60@gomes.br,+55 61 1252-0706,da Rosa,MS,Varejo,2025-06-27,Ativo
+88,Luiz Felipe Porto,alana15@uol.com.br,81 2039-8533,Freitas,GO,Saúde,2026-03-08,Inativo
+89,Francisco Mendes,uda-paz@da.br,+55 71 6694-1527,Martins das Flores,BA,Tecnologia,2024-04-08,Ativo
+90,Helena Oliveira,fernandesmelissa@gmail.com,51 9745 9726,das Neves de Minas,CE,Tecnologia,2024-09-11,Premium
+91,Dra. Mirella da Mata,ceciliaalmeida@nascimento.br,(061) 2851 2851,Alves,RR,Varejo,2025-09-30,Ativo
+92,João Guilherme Oliveira,omelo@da.com,+55 84 9627-8486,Costa de da Rosa,AM,Educação,2025-10-31,Ativo
+93,Theo Lopes,elisa73@uol.com.br,(071) 6991 7282,da Rosa Paulista,PE,Financeiro,2023-10-04,Ativo
+94,Heitor Barros,mouralais@moreira.br,+55 81 0719-3405,Correia,GO,Tecnologia,2025-03-20,Premium
+95,Breno Silva,cdas-neves@yahoo.com.br,0300 904 7810,Lima da Praia,MA,Educação,2026-03-21,Premium
+96,Eduardo Cardoso,frocha@nogueira.org,+55 41 9558 5398,Martins de da Cunha,DF,Tecnologia,2023-06-04,Inativo
+97,Catarina Costa,paulo28@da.br,61 4089 2672,Teixeira de Nogueira,PB,Financeiro,2024-04-29,Premium
+98,Maria Eduarda Caldeira,santoseduarda@almeida.com,+55 41 1234 5687,Peixoto de Dias,AM,Educação,2025-04-04,Ativo
+99,Bruno Pinto,jesuspietro@cardoso.com,+55 (051) 2530-0260,das Neves,MG,Financeiro,2025-03-27,Premium
+100,Sophie da Costa,portoguilherme@ig.com.br,+55 81 1675-5984,Porto Verde,MA,Tecnologia,2024-07-24,Premium
+101,Ana Clara Pinto,ufernandes@moraes.net,0300-072-1825,Oliveira,CE,Saúde,2024-12-23,Inativo
+102,Lavínia da Rosa,leonardocunha@costa.br,(041) 4555 6639,Moreira das Pedras,BA,Saúde,2024-04-20,Inativo
+103,Enzo Castro,diegosantos@mendes.com,31 6144-9883,Campos,TO,Financeiro,2026-05-15,Inativo
+104,Vitória da Paz,joaquimcosta@yahoo.com.br,+55 (011) 6650-1758,Campos das Flores,AL,Varejo,2025-03-02,Ativo
+105,Maria Luiza Novaes,cauacorreia@ig.com.br,+55 31 9426-5724,Farias Paulista,CE,Tecnologia,2026-04-08,Ativo
+106,Dr. João Felipe Nogueira,noah02@ig.com.br,+55 (041) 1461-4735,da Costa dos Dourados,GO,Saúde,2023-12-17,Ativo
+107,Joaquim Carvalho,ysilva@yahoo.com.br,+55 (051) 8618 1762,da Luz,RJ,Financeiro,2025-08-16,Premium
+108,Lorena da Rosa,rafaelacardoso@yahoo.com.br,+55 31 1620-4962,da Luz das Flores,RJ,Tecnologia,2026-02-27,Premium
+109,Luiz Gustavo Alves,yasminrodrigues@uol.com.br,0500-898-2554,Silveira,AL,Tecnologia,2025-12-18,Ativo
+110,Dr. Rodrigo Dias,thales46@lopes.br,+55 81 5585 3886,Azevedo,RN,Varejo,2026-01-20,Premium
+111,Srta. Mariane Campos,larissafernandes@hotmail.com,+55 84 6579 0801,da Costa de Barros,SE,Varejo,2024-10-02,Ativo
+112,Nathan Carvalho,ramosluiz-henrique@alves.br,71 3072 1149,Novaes de Aragão,AL,Varejo,2023-09-16,Ativo
+113,Lorenzo Pires,dribeiro@pires.net,81 1134 5781,Melo,BA,Saúde,2024-08-07,Ativo
+114,Sr. Augusto Almeida,carlos-eduardocampos@campos.net,(031) 5578 7914,Peixoto dos Dourados,PA,Financeiro,2023-12-08,Ativo
+115,Heloísa Pires,lavinia75@lima.br,(084) 9363 8139,Vieira,MS,Saúde,2025-10-27,Premium
+116,Sr. Samuel Rocha,bcavalcanti@hotmail.com,+55 31 2681 7631,da Rocha,MS,Educação,2025-04-02,Ativo
+117,Alice da Costa,cavalcantistella@bol.com.br,(071) 1974 0420,Silva,SC,Financeiro,2023-09-13,Ativo
+118,Isadora da Rocha,raquelalmeida@uol.com.br,(031) 0870 6658,Porto de Goiás,SP,Financeiro,2023-10-14,Premium
+119,Luiz Henrique Moraes,maria-ceciliada-conceicao@fernandes.br,84 6852 0128,Correia das Pedras,MG,Educação,2024-08-31,Ativo
+120,Sr. Danilo Castro,lda-cruz@rodrigues.com,+55 81 1170 1810,da Rocha,BA,Educação,2025-04-29,Inativo
+121,Matheus Ramos,vianabrenda@duarte.com,(031) 3433 6878,Nogueira,MG,Tecnologia,2024-01-27,Ativo
+122,Natália Cavalcanti,almeidamaria-eduarda@da.net,(081) 8397-1961,Novaes,RJ,Varejo,2024-03-31,Premium
+123,Srta. Melissa Pereira,da-pazcaua@yahoo.com.br,+55 71 9441-7974,da Mota,MS,Educação,2024-09-05,Inativo
+124,Evelyn Jesus,ana-liviada-rosa@ig.com.br,84 9616-1954,Rocha,SC,Educação,2025-01-01,Inativo
+125,Pietra Nogueira,kamillyrodrigues@gmail.com,+55 11 8381 1948,Almeida da Mata,AM,Educação,2025-04-01,Premium
+126,Sr. Yuri Pinto,marinadias@uol.com.br,(021) 8576 0857,Nunes do Campo,BA,Varejo,2025-10-19,Premium
+127,Eduardo Nogueira,salesjoao-miguel@bol.com.br,31 7011-5155,Almeida,MG,Varejo,2025-03-29,Ativo
+128,Lívia Costela,jgomes@almeida.br,+55 51 4801 8584,Fogaça dos Dourados,PE,Educação,2024-04-06,Premium
+129,Ryan da Rosa,fernandesanthony@melo.com,(061) 5430-2643,Mendes,AC,Saúde,2023-11-26,Ativo
+130,Paulo Azevedo,erickfreitas@nunes.net,(041) 2296 3076,da Costa,GO,Tecnologia,2023-12-11,Ativo
+131,Milena da Rosa,ncunha@gmail.com,+55 41 5051 8585,da Conceição,PI,Tecnologia,2025-10-11,Premium
+132,Isis Lopes,oliveirasarah@da.com,11 0968-7497,Alves,RO,Educação,2025-09-04,Ativo
+133,Pietro Martins,heloisa83@souza.com,0900-971-2454,Campos do Sul,GO,Educação,2024-04-26,Ativo
+134,Dr. Eduardo da Cunha,ana-beatriz10@bol.com.br,31 5962 4889,Oliveira do Galho,DF,Saúde,2023-10-18,Inativo
+135,Larissa Castro,ianpinto@rocha.br,+55 81 6939-0691,da Costa do Sul,DF,Tecnologia,2026-01-31,Ativo
+136,Dr. Anthony da Rocha,asilveira@bol.com.br,+55 (031) 4445 2275,das Neves da Mata,GO,Educação,2025-02-08,Premium
+137,Dr. Miguel Santos,barrosana@gmail.com,+55 (021) 0719-0346,Caldeira da Mata,PB,Varejo,2025-03-01,Ativo
+138,João Felipe Pinto,qrodrigues@yahoo.com.br,(021) 4902 5119,da Luz,GO,Financeiro,2023-07-31,Ativo
+139,Alícia Carvalho,joao-vitorpires@costa.br,+55 (061) 4606-3371,Lopes,SP,Varejo,2023-11-24,Ativo
+140,Sra. Natália Correia,zsantos@martins.com,+55 (031) 7400-4390,Ribeiro dos Dourados,RJ,Tecnologia,2024-01-18,Inativo
+141,Dr. Murilo da Cunha,nalmeida@ig.com.br,81 6988 1531,Almeida,BA,Educação,2026-02-26,Inativo
+142,Júlia Caldeira,melomaysa@da.br,+55 (011) 0488 0126,Costela,AL,Tecnologia,2025-11-25,Inativo
+143,Ana Luiza da Rocha,nunesana-julia@pereira.com,0500 073 4488,Cunha de Jesus,ES,Varejo,2023-06-07,Ativo
+144,Thomas Rocha,raraujo@rezende.com,(041) 2515 4382,Carvalho,SP,Educação,2025-08-09,Ativo
+145,Dr. Anthony Araújo,breno24@bol.com.br,21 1761-5192,Teixeira,AP,Educação,2024-02-11,Inativo
+146,Valentina da Cruz,ribeiroana-clara@yahoo.com.br,(071) 4756-9532,Jesus de Goiás,RS,Educação,2025-09-10,Inativo
+147,Sophia Fernandes,davi-lucas98@bol.com.br,+55 71 9498 2535,Rodrigues de da Rocha,SC,Educação,2025-07-27,Premium
+148,Bianca Correia,ana-laura02@bol.com.br,21 6995 5052,da Rocha,MG,Financeiro,2025-03-23,Premium
+149,Sophia Dias,tteixeira@rodrigues.com,71 2134-2238,Fernandes,TO,Educação,2026-02-16,Ativo
+150,Dr. Bruno Pinto,alvescarlos-eduardo@gmail.com,(051) 7542-3449,Cardoso,RS,Tecnologia,2025-08-01,Inativo
+151,Dra. Laura da Paz,helena41@bol.com.br,+55 (084) 9868-4908,Nogueira do Campo,BA,Tecnologia,2025-04-18,Ativo
+152,Dr. Bruno Araújo,duarteheitor@da.org,51 1402 7884,Martins do Galho,RO,Financeiro,2026-03-11,Premium
+153,Paulo Jesus,monteirorebeca@rocha.com,(021) 9070 4655,da Cunha Grande,MS,Financeiro,2023-06-24,Ativo
+154,Renan Viana,davi-luizmoreira@dias.com,(061) 9374-3992,da Mota do Norte,GO,Saúde,2024-01-08,Ativo
+155,Beatriz Ramos,zda-cunha@yahoo.com.br,(011) 9522-0631,Cardoso,MA,Varejo,2025-09-03,Premium
+156,Antônio da Conceição,oliveiraclarice@uol.com.br,0300-678-2262,Ribeiro da Prata,SC,Educação,2023-06-12,Premium
+157,Enrico Cardoso,caldeiraana@yahoo.com.br,+55 (071) 9387-5207,da Costa,AC,Financeiro,2024-02-17,Ativo
+158,Sra. Yasmin Azevedo,luananascimento@rezende.com,+55 84 2452 9070,Oliveira Paulista,TO,Varejo,2025-04-05,Premium
+159,Henrique Alves,ynunes@viana.com,+55 11 4870 1602,Novaes,PR,Varejo,2024-03-22,Ativo
+160,Francisco Azevedo,da-mataheitor@ig.com.br,+55 41 1455 9636,Ferreira,SP,Varejo,2026-02-22,Premium
+161,Elisa Costela,lara25@bol.com.br,(011) 7359 2043,Gonçalves do Oeste,ES,Varejo,2023-10-18,Premium
+162,João Lucas Correia,almeidajuan@hotmail.com,+55 (061) 6994-1545,Cardoso de da Cruz,RJ,Tecnologia,2023-07-09,Inativo
+163,Vitor Hugo Moreira,lara08@bol.com.br,0300 963 7893,Oliveira da Mata,GO,Varejo,2024-02-08,Premium
+164,Enzo da Cunha,ana-sophiacampos@gmail.com,+55 41 5535 4514,Rodrigues,PB,Tecnologia,2025-12-21,Premium
+165,Sra. Isabelly Lopes,maria-alicecostela@sales.net,(021) 4176-2529,Cardoso,MS,Financeiro,2026-04-17,Ativo
+166,Dr. Henrique da Conceição,thomasrezende@goncalves.br,(081) 8271-2005,Sales de Minas,AP,Financeiro,2024-06-22,Ativo
+167,Amanda Martins,da-luznathan@costa.br,61 7658-2376,Pires,GO,Educação,2023-11-29,Premium
+168,Erick Farias,enricoduarte@yahoo.com.br,+55 31 0501 5358,Oliveira de Minas,MS,Financeiro,2025-03-17,Premium
+169,Eduarda Campos,ryanaraujo@oliveira.br,+55 41 2018-7620,Gonçalves da Serra,PE,Financeiro,2025-06-30,Inativo
+170,Srta. Maria Vitória Rezende,maysacardoso@gmail.com,(031) 5440 0935,Nunes do Oeste,PE,Saúde,2024-08-23,Ativo
+171,Bryan Souza,agathapeixoto@yahoo.com.br,+55 (061) 8433 0096,Ribeiro,MA,Saúde,2023-11-04,Ativo
+172,Isabel Rodrigues,silveiraalicia@uol.com.br,0800 601 5543,Ribeiro de Martins,PB,Saúde,2024-04-08,Inativo
+173,Yago Souza,cporto@yahoo.com.br,0300 169 0705,Campos,AC,Tecnologia,2024-07-11,Premium
+174,Lucca da Conceição,paulofarias@rezende.com,84 9425 3996,Alves Grande,RS,Saúde,2026-03-28,Inativo
+175,Lara Rocha,luiz-felipeda-rosa@hotmail.com,0800 582 1861,Ramos de Campos,SE,Saúde,2026-04-14,Ativo
+176,Sophie Silveira,jesusolivia@bol.com.br,+55 (084) 2213-2163,Novaes Grande,RR,Varejo,2026-03-26,Inativo
+177,Caio Silva,helena09@da.org,(061) 1981 0696,Novaes do Galho,MS,Financeiro,2025-01-07,Premium
+178,Luiz Felipe Lopes,pintoana-julia@mendes.br,+55 (011) 7056 5225,Souza de Aragão,AM,Varejo,2025-07-09,Ativo
+179,Ana Vitória Duarte,da-rosaalice@farias.br,0300 390 2485,Fogaça,PI,Financeiro,2024-03-09,Ativo
+180,Sra. Maria Alice Costela,eviana@bol.com.br,(021) 0288 8249,Rocha das Flores,MT,Financeiro,2023-07-02,Inativo
+181,Isis Campos,isales@moura.org,+55 61 7198 1829,Cunha de Minas,RN,Tecnologia,2025-01-27,Inativo
+182,Luiz Gustavo da Cunha,igor65@da.com,+55 61 4551-7301,da Mata,AP,Varejo,2023-06-07,Ativo
+183,Sophie Gomes,pintoeloah@hotmail.com,+55 21 2476 5351,Porto das Pedras,PE,Saúde,2024-04-16,Inativo
+184,Rebeca Duarte,lucasbarros@gmail.com,(084) 7935-1816,Rodrigues Paulista,MA,Tecnologia,2025-04-19,Inativo
+185,Murilo Costela,emanuelcarvalho@silveira.net,(081) 0516 6294,Carvalho,GO,Financeiro,2025-03-21,Premium
+186,Joana Porto,moraespedro@ig.com.br,21 8160 8324,Silva de Novaes,RS,Saúde,2024-09-08,Premium
+187,Breno Jesus,yago16@bol.com.br,+55 71 0041-2543,Caldeira,PA,Financeiro,2024-02-05,Ativo
+188,Ana Lívia da Mata,da-cruzfrancisco@vieira.br,+55 (051) 3186 5640,Lima,DF,Financeiro,2023-07-13,Inativo
+189,Julia Novaes,xcastro@uol.com.br,+55 31 5429-2751,Cunha da Prata,CE,Varejo,2024-02-11,Ativo
+190,Mirella Rodrigues,sophie39@martins.com,11 9835-4183,Jesus do Galho,TO,Saúde,2026-05-23,Ativo
+191,Ryan Mendes,poliveira@ig.com.br,(061) 3816-2609,Pinto do Sul,BA,Varejo,2025-05-27,Premium
+192,Augusto Pires,acaldeira@costela.net,(081) 8973-4859,Sales do Campo,CE,Financeiro,2025-08-29,Ativo
+193,Alícia da Cruz,limacaue@yahoo.com.br,+55 (071) 8955 1101,Gonçalves,RN,Saúde,2025-11-13,Inativo
+194,Thiago Novaes,dfogaca@peixoto.org,41 4466-1958,Moura,AL,Financeiro,2023-06-12,Ativo
+195,Clarice Cardoso,pintocecilia@jesus.br,(031) 2306-0271,Pires de Jesus,AM,Saúde,2026-03-08,Ativo
+196,Emilly Martins,sofiamoreira@oliveira.br,+55 11 6945-7284,da Cunha,ES,Saúde,2025-03-03,Premium
+197,Sr. Luiz Miguel Martins,costaisadora@da.br,81 0663-8860,da Mata de Aragão,RJ,Educação,2024-03-17,Inativo
+198,Alexia Ramos,marcos-vinicius78@bol.com.br,+55 84 1146 8898,Ramos de Gomes,PE,Varejo,2023-06-15,Ativo
+199,Maria Luiza Pires,dcardoso@ig.com.br,71 2447 7480,Rezende da Mata,PI,Educação,2026-02-08,Inativo
+200,Bianca Almeida,mirellaazevedo@santos.com,51 3721 0106,Vieira,PI,Varejo,2026-04-03,Ativo
+201,Ana Julia da Cunha,pereirakevin@pinto.net,+55 61 8892-4901,Moreira de da Mota,AM,Saúde,2024-04-06,Ativo
+202,Eduardo Fogaça,augusto53@pinto.com,71 5225 5376,Costa da Serra,CE,Saúde,2025-10-25,Ativo
+203,Kevin Rezende,carvalhodaniela@gmail.com,+55 21 7633-8805,Pires de Barros,PA,Educação,2023-11-05,Premium
+204,Carlos Eduardo Costela,wjesus@uol.com.br,(041) 1589 6707,Mendes do Norte,AL,Educação,2025-12-27,Premium
+205,Manuela Caldeira,jcardoso@ig.com.br,+55 71 5379 0967,Ribeiro,AM,Varejo,2025-04-22,Ativo
+206,Melissa Lima,zfarias@silva.net,(021) 9096-5279,Castro de Goiás,GO,Varejo,2025-12-23,Premium
+207,Kevin da Paz,martinsmirella@gmail.com,0800 563 4185,Moraes,PB,Tecnologia,2025-02-17,Premium
+208,Raul da Paz,antonioda-conceicao@lima.net,+55 (041) 7159 8266,Moreira,MA,Varejo,2026-03-22,Inativo
+209,Dr. Cauê Rocha,clara67@nunes.net,84 1668-2301,Monteiro,BA,Financeiro,2025-04-28,Premium
+210,Brenda da Paz,mirella68@da.net,+55 (041) 5108-5599,Rocha da Mata,CE,Tecnologia,2026-01-06,Inativo
+211,Raquel Castro,milenamoreira@bol.com.br,41 6559-9932,da Rosa de Minas,PR,Tecnologia,2024-07-03,Ativo
+212,Francisco da Luz,erick65@gmail.com,+55 (031) 1867-1032,Ferreira de Nascimento,MG,Saúde,2024-11-18,Inativo
+213,Eloah Duarte,xnascimento@yahoo.com.br,31 4902-2003,da Mata,AM,Varejo,2025-03-14,Inativo
+214,Otávio da Paz,ana-juliacorreia@da.com,+55 (011) 1087-0859,Santos,PB,Tecnologia,2024-10-24,Premium
+215,Dr. Cauã Lopes,kda-cunha@bol.com.br,+55 21 1539-0034,Pires,BA,Tecnologia,2025-05-08,Premium
+216,Nicolas da Conceição,pereiraana-carolina@rocha.br,+55 71 4636-5212,Lopes do Campo,PE,Varejo,2024-12-24,Inativo
+217,Maitê Souza,jcastro@correia.net,(031) 0337-6560,Cavalcanti do Norte,SC,Financeiro,2024-02-05,Inativo
+218,Luiz Miguel Sales,mourafernanda@hotmail.com,+55 (021) 9940-4645,da Mata do Sul,PI,Financeiro,2023-10-03,Premium
+219,Raquel Moura,limalivia@ig.com.br,+55 71 8944-9987,Lopes do Norte,PE,Tecnologia,2025-06-10,Ativo
+220,Isis Caldeira,leonardoteixeira@yahoo.com.br,(061) 5169 3791,Porto Paulista,TO,Tecnologia,2024-01-09,Ativo
+221,Marcelo da Cunha,nogueiraclara@yahoo.com.br,51 6575 1861,Oliveira da Praia,AP,Educação,2025-03-25,Ativo
+222,Maria Fernanda da Costa,da-costalavinia@bol.com.br,+55 51 1751 6988,Teixeira dos Dourados,MS,Tecnologia,2025-09-23,Premium
+223,Ana Clara Pinto,obarbosa@hotmail.com,21 9016-6776,da Paz,SP,Saúde,2023-06-21,Inativo
+224,Luiz Otávio Moura,cda-rocha@yahoo.com.br,+55 41 1456-3633,Cardoso de Vieira,CE,Tecnologia,2026-02-14,Inativo
+225,Sr. João Vitor Vieira,isabelazevedo@uol.com.br,81 4391-1222,Barros da Prata,RS,Tecnologia,2025-09-02,Premium
+226,Dra. Clara Farias,agatha17@bol.com.br,61 4646-7380,Pinto do Oeste,AM,Varejo,2024-11-17,Inativo
+227,João Guilherme das Neves,salesisabelly@ig.com.br,(061) 6273-1102,da Conceição das Pedras,SE,Varejo,2026-03-16,Inativo
+228,Srta. Larissa Aragão,dpeixoto@yahoo.com.br,11 6053 1457,Lopes de Minas,AP,Tecnologia,2024-08-13,Ativo
+229,Sra. Ana Beatriz Viana,nicolas84@ig.com.br,(011) 2378-9708,Oliveira de Minas,RN,Educação,2024-04-16,Inativo
+230,Enzo Gabriel Cunha,xda-luz@nunes.br,(061) 9734-6382,Peixoto da Mata,RS,Saúde,2025-12-25,Ativo
+231,Dra. Isabelly da Luz,martinsvitor-hugo@hotmail.com,(011) 2145 4537,da Conceição da Serra,PI,Tecnologia,2025-04-01,Ativo
+232,Gabriel Almeida,miguelmendes@hotmail.com,0900-618-7037,Almeida,AP,Tecnologia,2026-03-30,Inativo
+233,Dra. Juliana Martins,bryan56@yahoo.com.br,(081) 6875-7073,Mendes,PE,Saúde,2024-08-04,Inativo
+234,Helena Vieira,luna17@araujo.br,81 7667 7991,Azevedo da Mata,ES,Varejo,2025-02-13,Inativo
+235,Ana Vitória da Rocha,iteixeira@cunha.br,+55 41 6806 6916,Alves,RO,Saúde,2023-09-10,Premium
+236,Alexia Gomes,renanalves@uol.com.br,+55 (084) 0732-0184,da Conceição da Prata,RR,Financeiro,2024-01-07,Inativo
+237,Lorena Pires,rfogaca@costela.com,0500 215 5615,Sales,SC,Financeiro,2024-08-11,Inativo
+238,Bruno Souza,andrefernandes@carvalho.net,+55 21 5547 4261,Ribeiro,ES,Varejo,2023-08-21,Ativo
+239,Kamilly Pinto,uda-mota@rodrigues.net,84 2674-2053,da Costa,MT,Saúde,2024-05-09,Ativo
+240,Ana Beatriz Cavalcanti,moreiraheloisa@ig.com.br,+55 61 0240 4367,Carvalho,MG,Financeiro,2026-03-29,Inativo
+241,Dr. Vitor Hugo Alves,da-conceicaosofia@ferreira.com,+55 11 1718 7814,Jesus Paulista,RJ,Varejo,2024-07-09,Ativo
+242,Alana Oliveira,pedro-lucas66@hotmail.com,(051) 8141 7521,das Neves,AC,Financeiro,2023-08-27,Inativo
+243,Emanuel Moreira,alexia76@uol.com.br,+55 (021) 9531-3735,da Mota,RS,Saúde,2025-02-16,Premium
+244,Vinicius Pereira,stellasouza@hotmail.com,+55 (031) 4010 6256,da Cunha,RO,Saúde,2025-07-18,Inativo
+245,Amanda Campos,jesusjoao-miguel@ig.com.br,(011) 1965 4897,da Cruz,MA,Financeiro,2025-04-18,Premium
+246,André Cavalcanti,iancardoso@bol.com.br,0800 898 1057,Cardoso de Rodrigues,RS,Varejo,2025-12-18,Inativo
+247,Maria Cecília Novaes,ybarbosa@gmail.com,0500 279 4718,Nogueira,MG,Financeiro,2026-02-24,Ativo
+248,Fernando Barros,heitorlopes@gmail.com,+55 31 4990-7506,da Luz,SP,Saúde,2026-01-13,Ativo
+249,Marcos Vinicius Castro,marcela52@yahoo.com.br,(051) 5535-7984,Mendes,AL,Educação,2025-11-23,Ativo
+250,Anthony Moura,pedro-lucas75@viana.br,(071) 0560-9636,Lima,TO,Financeiro,2026-05-16,Premium
+251,Augusto Monteiro,wpinto@alves.br,41 9219-0739,Dias,SC,Tecnologia,2023-10-07,Inativo
+252,Kevin Moura,gcastro@gmail.com,0900-551-9795,Peixoto de Costela,DF,Educação,2026-05-08,Ativo
+253,Sra. Natália Lima,larissafreitas@duarte.br,21 3304-8713,Melo,RO,Saúde,2023-08-17,Premium
+254,Clarice Rodrigues,esilva@ig.com.br,+55 31 0983-6058,Pires de Nascimento,PI,Saúde,2023-12-11,Premium
+255,Maria Eduarda Silva,rmoura@martins.com,+55 71 8854-8126,Silva do Oeste,SC,Varejo,2026-05-05,Premium
+256,Sr. Diogo da Rosa,ana-carolinagomes@yahoo.com.br,+55 61 5915-2533,Gomes,PA,Saúde,2023-09-14,Premium
+257,Vitor Dias,ana-sophiada-cruz@correia.net,+55 41 7343-5844,da Costa,TO,Saúde,2024-01-19,Premium
+258,João Felipe Cavalcanti,alanacaldeira@santos.br,+55 (051) 2684-9263,da Rosa Paulista,MS,Educação,2024-12-11,Inativo
+259,Noah Costela,correialivia@yahoo.com.br,71 9665-2990,Sales das Flores,SE,Educação,2024-09-25,Premium
+260,Levi Ramos,francisconovaes@pereira.com,0500 753 9955,da Conceição de Minas,BA,Saúde,2024-06-10,Premium
+261,Elisa Souza,sophiamoreira@ig.com.br,(021) 1668-0191,da Mota,RN,Tecnologia,2023-10-29,Ativo
+262,Amanda Correia,souzaluiz-henrique@cardoso.com,+55 84 8251-7891,Moreira Alegre,RN,Educação,2023-08-23,Premium
+263,Ana Júlia Sales,vsantos@uol.com.br,+55 (041) 1891-3710,Mendes,RS,Educação,2024-01-11,Premium
+264,João Lucas Costela,cardosomarina@uol.com.br,0300-043-7567,Oliveira,RR,Tecnologia,2025-03-11,Premium
+265,Igor da Paz,davisilva@bol.com.br,(041) 7730 7302,Gomes,RN,Financeiro,2024-05-09,Inativo
+266,Gabriela Peixoto,jesustheo@moura.br,(031) 5205 2299,Azevedo,DF,Educação,2023-10-17,Premium
+267,Heitor Jesus,aragaoleandro@gmail.com,51 3211 4944,Novaes Grande,DF,Varejo,2026-05-05,Inativo
+268,Maysa da Cunha,ericklima@duarte.br,0800 453 2553,Fernandes de da Conceição,SC,Saúde,2025-11-27,Ativo
+269,Maria Julia Pires,sarah04@da.net,(061) 2709 2269,das Neves Grande,TO,Educação,2025-12-09,Premium
+270,Luigi da Paz,jfreitas@uol.com.br,0300 965 7057,Moura,RO,Financeiro,2024-12-22,Premium
+271,Maria Sophia das Neves,maria-clara41@correia.com,+55 (071) 7270-2429,Rocha,PA,Saúde,2024-10-26,Inativo
+272,Lucas Moreira,paulo50@yahoo.com.br,(084) 9749 0518,Jesus do Campo,PI,Educação,2023-11-25,Inativo
+273,Caroline Moraes,rebecacardoso@gmail.com,0300 079 3580,Fogaça,TO,Tecnologia,2025-07-03,Premium
+274,Isabella Freitas,ana-beatriz69@ig.com.br,(061) 0863-0990,Oliveira de Rocha,RJ,Educação,2026-02-09,Premium
+275,Elisa Carvalho,vgomes@cardoso.br,(051) 2903-6243,Cavalcanti,MG,Tecnologia,2025-07-26,Premium
+276,Maria Alice Melo,ana-carolina95@moreira.br,+55 (031) 9301 7176,Silva das Pedras,PR,Varejo,2025-07-27,Inativo
+277,Evelyn Almeida,joao-felipe76@uol.com.br,0900-158-2827,Fernandes de Goiás,RS,Financeiro,2024-07-04,Premium
+278,Kaique Silveira,nathan45@moura.br,84 4310-6983,Ramos de Fernandes,AC,Financeiro,2025-08-19,Inativo
+279,Bernardo da Cruz,gda-rosa@araujo.com,+55 (084) 3369 7138,Cunha,RN,Varejo,2024-07-25,Ativo
+280,Emanuella Cunha,enzomoreira@sales.org,+55 21 4617 5375,Caldeira,RJ,Saúde,2025-06-07,Ativo
+281,Stephany da Mata,nda-conceicao@gmail.com,+55 (031) 7653 4364,Duarte do Campo,RO,Tecnologia,2025-10-01,Ativo
+282,Noah Pereira,emanuellyviana@uol.com.br,84 2722 1686,da Rocha de Cavalcanti,MT,Varejo,2025-04-08,Ativo
+283,Dr. Cauã da Cunha,zsantos@bol.com.br,+55 (051) 5662 2379,Azevedo da Praia,SC,Tecnologia,2024-10-24,Inativo
+284,Enrico Gonçalves,jjesus@rezende.net,71 9500-8576,Monteiro de Pires,PI,Financeiro,2026-01-04,Ativo
+285,Bernardo Sales,sophiefernandes@sales.com,+55 81 8843-6067,Alves,AL,Educação,2023-10-09,Inativo
+286,Thales Cunha,anada-mata@gmail.com,0900-885-5235,Vieira,TO,Financeiro,2024-02-19,Ativo
+287,Emilly Cardoso,apeixoto@hotmail.com,+55 21 7804-3787,Caldeira Alegre,MA,Educação,2024-11-17,Inativo
+288,Danilo Cavalcanti,isadorajesus@uol.com.br,(021) 9583-8766,da Mota de Minas,GO,Educação,2024-12-25,Ativo
+289,Nathan Costa,azevedothales@costa.br,81 4921-6256,Vieira,AL,Tecnologia,2025-06-13,Premium
+290,Gabriel Barbosa,isadora31@bol.com.br,+55 41 0019 4986,Vieira,TO,Varejo,2025-12-28,Ativo
+291,Lucca Moreira,stephanyda-rosa@lopes.net,+55 84 4507-6502,Nogueira da Prata,SC,Educação,2025-07-06,Ativo
+292,Lucas Caldeira,maria-cecilia90@ig.com.br,+55 71 4941-7654,Silveira de Goiás,AM,Tecnologia,2024-07-12,Premium
+293,Dr. Bruno Ramos,ymoreira@mendes.com,+55 11 3271 4441,da Paz,BA,Financeiro,2024-09-19,Inativo
+294,Emilly Costa,zmoraes@da.br,(084) 3150 8988,Duarte Grande,AM,Varejo,2024-03-18,Premium
+295,Maria Caldeira,vitoriada-cruz@da.org,(041) 2788-1233,Pires,SC,Tecnologia,2025-02-07,Ativo
+296,Alexia Mendes,asouza@ramos.com,81 2467-5868,Aragão de Oliveira,DF,Educação,2023-10-11,Ativo
+297,João Guilherme Vieira,giovannacavalcanti@cunha.br,71 2346-9401,Rocha de Goiás,GO,Educação,2025-11-16,Premium
+298,Nathan Nogueira,silveiralorenzo@lopes.com,0800 992 2485,Pereira da Mata,DF,Financeiro,2024-07-25,Premium
+299,Sr. Arthur Alves,matheus57@novaes.com,+55 21 4153 4505,da Paz do Norte,PB,Financeiro,2025-12-21,Inativo
+300,Raquel Peixoto,cferreira@hotmail.com,+55 (031) 6714-4704,Correia do Sul,GO,Educação,2024-03-07,Premium
+301,Erick Ramos,bryan06@hotmail.com,(051) 1510-8035,Pereira dos Dourados,RO,Financeiro,2023-07-17,Inativo
+302,Igor Cardoso,piresotavio@teixeira.org,+55 21 6078 9875,Novaes,RO,Financeiro,2024-03-15,Inativo
+303,Thomas Oliveira,alicelima@yahoo.com.br,+55 (061) 0364 8453,Cardoso da Serra,RJ,Tecnologia,2025-08-09,Premium
+304,Noah Oliveira,ana-carolina79@yahoo.com.br,(081) 4862 0576,Barros de Ramos,MA,Educação,2026-02-21,Inativo
+305,Dr. Heitor Carvalho,sofia85@novaes.org,0900 471 1183,Porto,RS,Saúde,2024-12-31,Ativo
+306,Noah Rodrigues,gustavo-henriquerocha@gomes.br,+55 (051) 5247 6067,Peixoto do Norte,PR,Saúde,2025-06-09,Premium
+307,Sra. Ana Beatriz Gomes,luigi54@pinto.com,+55 31 3275-7281,Rezende,CE,Educação,2024-06-11,Premium
+308,Heitor da Conceição,isabella95@ig.com.br,0500 415 1691,das Neves de Teixeira,TO,Tecnologia,2024-11-03,Inativo
+309,Srta. Stella Fogaça,freitasjoao-miguel@rodrigues.br,+55 (061) 4128 6502,da Conceição Alegre,GO,Educação,2023-06-07,Ativo
+310,Srta. Eloah Rocha,vicentefernandes@almeida.br,+55 31 2406 9618,Araújo de Jesus,MS,Saúde,2023-10-05,Ativo
+311,Eduarda Dias,hmelo@aragao.com,(051) 6679 8597,Rodrigues,AC,Saúde,2023-08-07,Inativo
+312,Davi Lucas Caldeira,fpinto@uol.com.br,(011) 9107-6899,Melo,AC,Saúde,2025-10-22,Premium
+313,Dr. João das Neves,sophiesales@bol.com.br,+55 31 1628 1838,da Rosa,CE,Varejo,2023-06-22,Ativo
+314,Júlia Alves,biancarocha@silva.com,0800-231-9067,da Cruz de Nunes,BA,Tecnologia,2024-01-12,Ativo
+315,Igor Fernandes,leandroazevedo@bol.com.br,0300 604 4054,Dias das Pedras,AP,Educação,2024-02-04,Premium
+316,Leonardo da Cunha,davi-luiz37@ferreira.br,(041) 0427 0443,da Rocha das Flores,RO,Tecnologia,2024-06-24,Premium
+317,Pietro Carvalho,rodrigueserick@oliveira.br,+55 (011) 8683 3583,da Mata dos Dourados,PI,Tecnologia,2025-07-12,Ativo
+318,Gabrielly Farias,valentinacavalcanti@moura.br,+55 (051) 7055-0417,Nogueira,PA,Educação,2024-08-28,Inativo
+319,Ana Carolina Barros,vicente05@bol.com.br,(021) 7463 7974,da Paz,RO,Saúde,2023-09-08,Premium
+320,Ana Caldeira,amanda82@yahoo.com.br,+55 31 3615-4083,Jesus,SC,Educação,2025-06-19,Inativo
+321,Renan Vieira,lavinia39@hotmail.com,+55 84 0819 4430,Castro,PA,Varejo,2026-01-08,Ativo
+322,Letícia Farias,maysa49@yahoo.com.br,+55 84 1421 7486,Cardoso,AM,Educação,2024-03-08,Inativo
+323,Sra. Sarah Sales,jesuspedro-henrique@bol.com.br,61 0156-4797,Lima,AC,Financeiro,2023-07-24,Premium
+324,Joana Lopes,henrique61@goncalves.br,(071) 9916 5834,Silveira da Prata,MS,Varejo,2024-02-11,Premium
+325,Marcos Vinicius Cardoso,luiz-otaviocampos@lima.br,(031) 8474 3967,Barbosa,PI,Educação,2024-10-26,Inativo
+326,Agatha Cunha,lorena32@cavalcanti.br,+55 (051) 4013-9636,Moura,RN,Varejo,2025-11-03,Inativo
+327,Maysa Carvalho,jcardoso@monteiro.com,(081) 3685 9427,da Mota Verde,MS,Saúde,2024-08-06,Inativo
+328,João Felipe Correia,martinsisaac@monteiro.org,71 8007 5957,da Mata,SP,Educação,2024-05-14,Premium
+329,Lara Nogueira,moreiraleandro@ig.com.br,+55 41 4205-8522,Gonçalves,BA,Financeiro,2024-09-13,Premium
+330,Henrique Nascimento,bryancampos@hotmail.com,+55 41 5394 2154,Aragão,SP,Tecnologia,2025-03-25,Inativo
+331,Sra. Marina Cardoso,camposbrenda@uol.com.br,+55 21 3236 6877,Gonçalves,AM,Tecnologia,2025-07-24,Inativo
+332,Lavínia Pires,maria-vitoriaaragao@yahoo.com.br,81 8953 2803,Vieira,PI,Educação,2024-07-02,Inativo
+333,Gustavo Melo,ana-laura56@santos.br,(081) 7116-5710,Ribeiro do Campo,CE,Varejo,2024-12-09,Inativo
+334,Juliana da Mata,danielpeixoto@yahoo.com.br,+55 61 6447-2899,Gonçalves,MG,Saúde,2025-08-22,Premium
+335,Joana Teixeira,da-cruzyasmin@correia.br,(041) 1264-8992,Dias,AP,Educação,2025-12-04,Premium
+336,Heitor Souza,luiz-felipe59@ig.com.br,+55 (061) 9956 2487,da Mata de Goiás,RN,Tecnologia,2024-04-17,Inativo
+337,João Vitor Ribeiro,cardosoraul@ig.com.br,+55 (084) 9707-2308,Caldeira da Praia,PE,Tecnologia,2024-09-29,Premium
+338,Breno da Mata,laura40@castro.br,51 3240 1344,da Cunha da Serra,AM,Financeiro,2024-05-04,Ativo
+339,Luiz Gustavo Azevedo,onogueira@barbosa.br,+55 41 6004-1622,Cardoso Alegre,CE,Educação,2024-01-09,Premium
+340,Carolina Moura,martinscaua@da.br,84 1471-2613,Ferreira,RN,Financeiro,2024-07-07,Premium
+341,Erick Costela,da-matalara@da.com,(071) 8534-3588,Lima,PE,Varejo,2023-06-27,Ativo
+342,Vitor Lopes,brunojesus@monteiro.com,(041) 1315 7817,Freitas,PR,Educação,2024-03-03,Ativo
+343,Dr. Raul da Paz,ferreiramaria-julia@castro.com,+55 11 2898 7995,Freitas,MT,Educação,2024-05-23,Ativo
+344,Yuri Vieira,diegonunes@bol.com.br,+55 11 5667-9671,Cavalcanti,SC,Varejo,2025-06-16,Inativo
+345,Lívia Silveira,isabel14@yahoo.com.br,81 1369 8162,da Mata,PA,Educação,2025-02-22,Inativo
+346,Dra. Ana Sophia Pinto,nogueiraluiz-gustavo@uol.com.br,(071) 2177-4340,Jesus,AM,Tecnologia,2024-12-06,Inativo
+347,Maria Luiza Ramos,cauaoliveira@freitas.net,(031) 2530 6498,Gomes,ES,Saúde,2024-08-04,Inativo
+348,Bianca Mendes,meloian@fernandes.br,+55 (051) 8030-4171,Cavalcanti,MG,Educação,2025-10-15,Inativo
+349,Srta. Manuela Pires,sophiedas-neves@cardoso.com,(084) 8893 8002,da Cunha da Prata,PB,Educação,2025-09-07,Inativo
+350,Ana Beatriz Nunes,umonteiro@melo.com,(041) 9621 2470,Cardoso,PI,Varejo,2024-08-15,Inativo
+351,Noah Rodrigues,bcostela@uol.com.br,11 5324-0537,Duarte Grande,BA,Varejo,2026-02-20,Premium
+352,Francisco Melo,tda-rocha@martins.com,+55 11 6428-1556,da Mata do Amparo,PI,Financeiro,2026-01-07,Ativo
+353,Vicente Martins,ana-luizada-cruz@vieira.com,(081) 1258-4601,Lima das Pedras,RR,Saúde,2023-06-13,Ativo
+354,Daniela Dias,fribeiro@ribeiro.org,+55 (021) 5906 7372,Campos,DF,Varejo,2023-07-23,Premium
+355,Yasmin Ferreira,eduardo62@uol.com.br,+55 84 2999-2474,Fernandes,AP,Varejo,2025-07-15,Ativo
+356,André da Mota,pedro-lucas70@ig.com.br,+55 (061) 2245 9542,da Cunha das Flores,MA,Tecnologia,2026-03-19,Ativo
+357,Emilly Freitas,sabrinafernandes@gmail.com,11 4626 2734,da Costa de Moreira,MG,Varejo,2023-06-19,Premium
+358,Marina Carvalho,brunopinto@bol.com.br,61 6252 1379,da Paz do Campo,PE,Tecnologia,2024-01-24,Ativo
+359,Luiz Otávio Moraes,sofiapinto@da.br,+55 (084) 0223-3292,Fernandes de Farias,AL,Tecnologia,2024-08-16,Inativo
+360,Luana Nunes,fcaldeira@ig.com.br,0500-373-1306,Castro das Flores,AC,Varejo,2025-07-17,Premium
+361,Lorenzo Sales,xfreitas@bol.com.br,+55 61 3969 0665,Freitas da Serra,AL,Tecnologia,2025-03-12,Inativo
+362,Paulo Fernandes,daniela98@yahoo.com.br,(031) 4861-5249,Azevedo,SE,Saúde,2025-03-06,Inativo
+363,Stephany Porto,portoana-julia@gomes.com,+55 (011) 5127 4261,Pinto das Flores,RR,Tecnologia,2024-02-12,Premium
+364,Daniel Sales,maria-clara37@azevedo.br,+55 51 1694 4476,Costa de Minas,SC,Financeiro,2023-09-24,Premium
+365,Vitor Gabriel Dias,joao-gabrielda-paz@gmail.com,84 5620 2092,Farias,BA,Varejo,2024-05-06,Ativo
+366,João Miguel Moura,bpeixoto@pereira.br,+55 84 2740 8965,Rodrigues,AM,Saúde,2025-06-25,Ativo
+367,Enzo Gabriel Mendes,ninajesus@gmail.com,84 0009 9652,Barbosa,PB,Financeiro,2024-11-02,Ativo
+368,Fernando Farias,pietro85@farias.com,+55 (051) 1820-7795,Nunes de da Costa,SP,Saúde,2023-07-15,Premium
+369,Igor Rocha,mariane59@silveira.com,+55 (071) 6407-1440,da Costa Paulista,ES,Educação,2024-01-24,Inativo
+370,Srta. Maria Cecília Barbosa,salves@rodrigues.br,+55 71 8151 2932,Rodrigues de Minas,PB,Tecnologia,2023-08-11,Ativo
+371,Laís Nogueira,noahteixeira@costela.br,+55 61 2105-6129,Martins de Cavalcanti,RO,Financeiro,2023-12-17,Premium
+372,Ana Clara Duarte,julia61@martins.com,+55 (071) 5920-1596,Ferreira da Prata,AP,Tecnologia,2025-12-24,Ativo
+373,Luiza Porto,paulofreitas@das.br,41 9362-7348,Ramos,AL,Saúde,2024-04-22,Premium
+374,Kaique Duarte,qcastro@yahoo.com.br,+55 11 1446 4904,da Rocha,MA,Financeiro,2023-12-03,Ativo
+375,Daniela Cardoso,nunesjuan@novaes.com,(084) 8945 1293,da Mota das Pedras,CE,Financeiro,2026-04-15,Ativo
+376,Fernando Jesus,alice89@yahoo.com.br,+55 (084) 5697-0592,Araújo das Pedras,GO,Saúde,2025-03-10,Premium
+377,Sr. Pedro Lucas Aragão,luanapeixoto@correia.net,(061) 6149 5698,Campos,CE,Educação,2023-09-06,Premium
+378,Emilly Carvalho,joao02@aragao.br,11 3932-1906,da Rocha do Campo,MG,Saúde,2025-05-11,Ativo
+379,Otávio Porto,acostela@alves.com,+55 61 4599-2950,Araújo de Vieira,MG,Financeiro,2024-11-30,Premium
+380,Fernando Gomes,davi-luizmonteiro@viana.br,(031) 7348-3546,Rodrigues de Goiás,RN,Saúde,2024-03-23,Ativo
+381,Levi Sales,fernanda37@ig.com.br,+55 (011) 8404-9308,Fogaça de Monteiro,MS,Educação,2024-02-09,Inativo
+382,Dra. Luana Nascimento,freitasana-luiza@bol.com.br,(041) 4842 3547,Gonçalves da Mata,PB,Varejo,2024-12-02,Inativo
+383,Maria Luiza Oliveira,benjamin09@lima.org,(051) 8636 9761,Silva,RR,Saúde,2024-12-23,Premium
+384,Larissa Rocha,lporto@mendes.br,(071) 2432-2725,Jesus,MT,Educação,2025-04-11,Premium
+385,Pedro Gonçalves,cauepinto@das.org,0500-346-1840,Duarte,SP,Tecnologia,2025-08-24,Inativo
+386,Pedro Henrique da Luz,evelyn00@nogueira.com,(031) 0464-3661,Carvalho,PI,Tecnologia,2025-06-25,Premium
+387,Laura da Mata,pietrada-rosa@gmail.com,41 2366-9399,Souza,RJ,Financeiro,2024-07-08,Premium
+388,Dra. Maysa Correia,fcunha@rezende.br,31 1219 8512,da Luz,CE,Saúde,2023-11-09,Premium
+389,Levi Souza,manuela54@gmail.com,(031) 7246 8393,Lopes,MG,Financeiro,2025-10-27,Inativo
+390,Bruna Teixeira,luiz-gustavolopes@campos.com,+55 (021) 5394-6575,Fernandes,PA,Educação,2026-01-21,Inativo
+391,Pedro Lucas Rezende,anthonyribeiro@bol.com.br,(081) 4390 5970,Ramos,AP,Financeiro,2024-04-08,Inativo
+392,Gabrielly Ramos,da-cruzdavi-lucca@rezende.org,81 9651-9179,Viana,DF,Saúde,2024-01-01,Ativo
+393,Isis Pires,da-cunharaul@cavalcanti.com,84 5712-0876,da Rocha de Minas,BA,Varejo,2026-02-12,Inativo
+394,Danilo Lima,igor97@fernandes.br,31 4503 8084,Peixoto dos Dourados,RO,Educação,2023-12-01,Ativo
+395,Joaquim Cunha,da-cruzalana@ribeiro.com,71 2304 0722,Campos de Goiás,AP,Educação,2025-04-02,Premium
+396,Amanda Aragão,martinsfernanda@fernandes.net,51 8076 6830,da Cunha Verde,ES,Financeiro,2025-05-08,Premium
+397,Dr. Pedro Cavalcanti,isadoraporto@bol.com.br,+55 81 9305 2878,Lopes do Amparo,CE,Educação,2025-02-12,Inativo
+398,Luiz Otávio Gomes,livia97@ferreira.br,61 3621-2897,Porto,PR,Varejo,2023-10-24,Inativo
+399,Ana Carolina da Cruz,lais29@gmail.com,(051) 1515-2143,Araújo,SP,Saúde,2023-11-18,Ativo
+400,Lorenzo Peixoto,vieiralaura@bol.com.br,+55 31 6175 9449,Araújo de Azevedo,MG,Educação,2025-04-12,Ativo
+401,Lara Pires,maria-alice51@bol.com.br,(084) 1521-3636,Sales,RN,Saúde,2024-07-03,Inativo
+402,João Vitor Porto,gabrielribeiro@campos.br,(061) 1589 1989,Cavalcanti,GO,Saúde,2023-08-11,Inativo
+403,João Nogueira,sophie22@uol.com.br,+55 (051) 2066 4912,da Rosa,RS,Financeiro,2023-09-14,Premium
+404,Dr. Lorenzo da Rosa,fernando81@barros.com,+55 (061) 7648-4729,Melo,GO,Saúde,2025-12-18,Premium
+405,Nicole Vieira,ferreiraheitor@hotmail.com,+55 61 7010-4520,Carvalho,AC,Varejo,2025-11-10,Premium
+406,Dra. Marcela Dias,diegobarbosa@bol.com.br,81 6544-3515,Sales do Norte,ES,Tecnologia,2025-09-20,Ativo
+407,Alexia da Conceição,isouza@lopes.com,(084) 0216-7557,Peixoto,SP,Tecnologia,2024-10-21,Premium
+408,Milena Cardoso,eazevedo@peixoto.com,0800 376 5177,Jesus de Minas,RN,Educação,2025-04-30,Inativo
+409,Gustavo Gonçalves,da-costaantonio@correia.org,(081) 1998 3395,Melo,PE,Financeiro,2023-12-05,Ativo
+410,Alícia Costa,gomesyasmin@gmail.com,81 1779-4523,Cunha,MA,Educação,2025-10-26,Premium
+411,Joaquim Rezende,giovanna11@rezende.com,61 7938-1245,Gomes,PB,Educação,2025-09-18,Inativo
+412,Srta. Lívia Vieira,cardosogabrielly@alves.br,0300 052 0084,Correia de Santos,SP,Varejo,2024-07-12,Ativo
+413,Dr. Breno Souza,laura59@ig.com.br,81 8408 2402,Farias,BA,Saúde,2024-07-29,Ativo
+414,Srta. Beatriz Nunes,gda-luz@bol.com.br,+55 61 7588-4333,Gonçalves,ES,Educação,2025-02-20,Premium
+415,Heloísa Castro,giovannaaragao@hotmail.com,+55 (071) 4592 9955,Monteiro,MA,Tecnologia,2025-07-06,Inativo
+416,Dra. Isabella Gonçalves,brenda25@almeida.com,11 4943 5293,da Cruz de Araújo,AM,Financeiro,2025-09-04,Inativo
+417,Lucas das Neves,usilveira@da.br,+55 81 1700-1671,Farias,TO,Educação,2023-11-10,Premium
+418,Cauã da Costa,zalves@yahoo.com.br,+55 (031) 3897-2470,Peixoto de Alves,SE,Financeiro,2024-11-18,Inativo
+419,Rafael Cardoso,samuel69@bol.com.br,+55 51 9464 9015,Mendes,TO,Educação,2025-06-11,Premium
+420,Luiz Felipe da Mata,kcavalcanti@ribeiro.com,(051) 5589 1385,Rodrigues,PI,Financeiro,2023-07-31,Inativo
+421,Dra. Ana Beatriz da Rocha,pedro57@castro.br,(071) 6608-4783,da Cunha,MS,Saúde,2024-10-11,Premium
+422,Miguel Lima,carlos-eduardoduarte@da.com,(081) 2973 5722,Farias,RO,Educação,2023-12-01,Inativo
+423,Sr. Leandro Teixeira,anthonycardoso@uol.com.br,31 3543-1181,Silva,CE,Saúde,2025-12-10,Inativo
+424,Olivia Duarte,vianacarolina@yahoo.com.br,(071) 9600 7032,Monteiro,RO,Tecnologia,2026-01-15,Ativo
+425,Raquel Novaes,stephany51@fogaca.br,(041) 9426 6942,Dias de Silveira,RS,Tecnologia,2025-10-05,Inativo
+426,Sra. Nina Caldeira,kfernandes@freitas.net,+55 31 2874-5281,Freitas da Praia,PI,Varejo,2026-04-09,Premium
+427,Sra. Luana Nunes,knunes@da.br,51 2837 6714,das Neves,MT,Financeiro,2025-04-01,Premium
+428,Otávio da Luz,barbosaana-sophia@hotmail.com,+55 (081) 7112 6461,Teixeira de Mendes,MG,Tecnologia,2026-01-25,Ativo
+429,Helena Jesus,emanuel26@hotmail.com,(041) 6220 5461,Cardoso,AM,Tecnologia,2025-08-11,Premium
+430,Camila Silva,lorena21@martins.br,0800-784-0491,Barbosa,SE,Educação,2024-10-01,Inativo
+431,Paulo Rocha,emanuelfogaca@da.com,51 9096 9363,Martins Grande,AP,Financeiro,2026-02-03,Premium
+432,Sra. Sophia Cardoso,luanafreitas@moraes.org,(061) 3097 1073,Cardoso,ES,Financeiro,2025-09-22,Inativo
+433,Sra. Sophie Melo,teixeiradavi@silveira.br,71 4471 3179,Costa Alegre,RO,Varejo,2025-03-04,Ativo
+434,Benício Farias,brenodas-neves@sales.net,(051) 5618-1752,Freitas de Cardoso,RR,Saúde,2024-08-19,Ativo
+435,Enzo Novaes,sarah14@gmail.com,(011) 2231 6950,Mendes,SE,Saúde,2024-12-09,Ativo
+436,Vinicius da Paz,isabella34@ribeiro.com,0900-760-0490,Castro de da Cunha,MS,Saúde,2024-07-25,Ativo
+437,Maria Vitória Rodrigues,vitor-hugogoncalves@uol.com.br,(081) 1060-2300,Rodrigues do Galho,PI,Financeiro,2024-09-24,Ativo
+438,Cauê Aragão,ana-carolina78@peixoto.br,(071) 8576-4868,da Rosa de Santos,PA,Saúde,2024-07-15,Ativo
+439,Dr. Lucca Costa,henriquemartins@uol.com.br,+55 (084) 5236-9888,Dias,RO,Varejo,2025-11-29,Premium
+440,João Felipe Farias,nuneskamilly@hotmail.com,84 2485-0261,da Costa,MG,Saúde,2024-03-04,Premium
+441,Cauã Martins,lunagomes@ig.com.br,+55 (081) 4417-5782,Oliveira,ES,Tecnologia,2025-11-23,Premium
+442,Leandro Costa,unogueira@bol.com.br,(021) 7638-0358,Aragão,DF,Educação,2025-06-15,Ativo
+443,Melissa Costela,gpereira@gmail.com,+55 81 3255 2056,Nogueira,PA,Varejo,2024-02-21,Premium
+444,Ana Luiza Lopes,fariaspedro@carvalho.br,+55 (081) 4190 3518,da Mata,RS,Saúde,2024-12-27,Inativo
+445,Sophia Rocha,joaopires@ig.com.br,+55 71 1537-3819,Araújo de Goiás,AC,Educação,2025-04-04,Inativo
+446,Enrico Azevedo,hfernandes@bol.com.br,(051) 5715 7918,Moreira de da Cruz,DF,Saúde,2025-01-11,Ativo
+447,Maria Alice Costa,costalara@ig.com.br,+55 81 1008 3470,Ribeiro da Serra,RO,Varejo,2026-04-22,Inativo
+448,Emanuel da Cruz,esilveira@moraes.com,0500-871-4940,da Conceição da Praia,MT,Educação,2026-04-06,Ativo
+449,Alexia Oliveira,costaluigi@yahoo.com.br,+55 (041) 1233-1479,Lopes do Norte,RO,Varejo,2025-12-25,Inativo
+450,Catarina Aragão,novaesisabella@bol.com.br,31 9200-1988,Dias da Prata,PI,Educação,2025-11-18,Ativo
+451,Noah Teixeira,da-cunhaisadora@mendes.br,(061) 1012-1877,Rodrigues Grande,RO,Financeiro,2023-11-08,Premium
+452,Leandro Dias,jesusana-vitoria@da.net,(041) 9456 8287,Cardoso,AM,Varejo,2023-09-29,Ativo
+453,Amanda Pinto,laragao@costela.net,+55 61 2136 8688,Sales,RR,Tecnologia,2024-01-27,Premium
+454,Joana da Rosa,silveiraevelyn@uol.com.br,(031) 2914 5178,Correia,PR,Saúde,2025-11-24,Ativo
+455,Alice Porto,jesusleandro@hotmail.com,+55 71 4927-9109,Lopes,MT,Tecnologia,2026-03-06,Ativo
+456,Mariane Silveira,luizacardoso@yahoo.com.br,+55 81 7059-9867,da Rosa,MS,Financeiro,2025-10-11,Inativo
+457,Anthony Oliveira,ana-vitoriaviana@yahoo.com.br,21 4904 7826,Alves,MT,Financeiro,2023-06-05,Premium
+458,Lívia Viana,zcardoso@cardoso.br,+55 (081) 0013 3042,Novaes da Serra,AM,Financeiro,2025-08-29,Ativo
+459,Ryan Melo,ana-claracardoso@da.com,81 9344-3608,Gomes das Flores,AL,Financeiro,2025-08-11,Inativo
+460,Eduarda Gomes,danilo87@correia.org,+55 (051) 4832 7949,Santos de Barbosa,SE,Educação,2024-05-08,Inativo
+461,Lívia Ribeiro,isis50@santos.br,84 8264-9948,Freitas,DF,Saúde,2026-04-17,Premium
+462,Thales da Costa,pireslucas-gabriel@novaes.br,(061) 4058 2409,Nogueira,AC,Educação,2025-11-03,Inativo
+463,Nathan Ribeiro,ncardoso@hotmail.com,+55 11 2864-0163,Farias,PA,Financeiro,2024-11-01,Premium
+464,Leonardo Correia,upinto@bol.com.br,+55 (051) 5243-1597,da Conceição de da Rosa,RS,Varejo,2024-12-21,Premium
+465,Dr. Vitor Gabriel Sales,alice10@moraes.br,+55 (021) 1686 3175,Rezende,MT,Varejo,2025-03-30,Ativo
+466,Samuel Teixeira,samuelrocha@peixoto.org,+55 (011) 0968-6275,Nogueira,MG,Tecnologia,2024-02-17,Inativo
+467,Cauã Sales,da-costaclarice@hotmail.com,+55 51 2463 0149,Lima,RR,Varejo,2023-10-23,Ativo
+468,Melissa Azevedo,gustavoduarte@yahoo.com.br,+55 (084) 6443-6810,Almeida,PE,Tecnologia,2024-05-09,Ativo
+469,Dr. João Felipe Costa,maria-cecilialima@bol.com.br,84 7586 8714,Moura de da Rocha,AP,Financeiro,2023-09-10,Ativo
+470,Thomas Costela,castroarthur@uol.com.br,+55 61 5096 3814,Rodrigues,PI,Tecnologia,2026-01-11,Ativo
+471,Nicole da Paz,davi-luiz02@costela.com,+55 (084) 4546-4933,Santos,MA,Educação,2026-04-05,Inativo
+472,Sr. Breno Costela,alanada-luz@dias.br,+55 (031) 3951-2820,Peixoto,RN,Financeiro,2024-07-03,Inativo
+473,Maria Eduarda Oliveira,raul67@yahoo.com.br,(011) 4627 4291,Novaes da Serra,ES,Saúde,2025-04-04,Ativo
+474,Kamilly Pires,sarahlopes@uol.com.br,(071) 4574-3382,da Rosa Paulista,PB,Tecnologia,2025-07-26,Inativo
+475,Ana Vitória Fernandes,piressamuel@ig.com.br,+55 71 1330-7456,Monteiro de da Mota,PI,Saúde,2025-08-28,Premium
+476,Pedro Henrique Pires,rezendebrenda@barros.br,+55 (031) 3076-0938,Caldeira,CE,Educação,2024-11-10,Ativo
+477,Isabelly Novaes,bazevedo@teixeira.br,(081) 3399-9565,Barbosa do Oeste,PA,Tecnologia,2024-04-21,Inativo
+478,Davi Luiz Carvalho,cunhacaio@hotmail.com,(051) 5065 9636,Jesus,RJ,Financeiro,2024-12-04,Premium
+479,Maria Sophia Nascimento,rochajulia@viana.br,(031) 0295 1194,Oliveira,PI,Tecnologia,2025-12-19,Inativo
+480,Sra. Ana Laura Santos,da-paznicolas@moura.com,+55 (061) 9464 7681,Lopes de Barbosa,CE,Varejo,2024-05-22,Premium
+481,Juan da Rocha,kamilly85@goncalves.br,+55 (061) 8271-0487,Alves da Serra,MS,Tecnologia,2026-01-19,Premium
+482,Nicole Freitas,pereiradavi-lucas@hotmail.com,84 1516 4188,da Rosa,RJ,Tecnologia,2024-09-26,Inativo
+483,Sr. Luiz Miguel Dias,sophie05@gmail.com,(081) 1161-3951,Pinto,PB,Tecnologia,2023-06-02,Ativo
+484,Lucca Monteiro,leonardo78@carvalho.net,+55 84 4799 5243,Mendes da Praia,AC,Varejo,2026-01-24,Ativo
+485,Dra. Maria Cecília da Cunha,luana10@da.com,+55 81 6185 5918,Fogaça de Azevedo,MA,Saúde,2024-09-21,Premium
+486,Maysa Fernandes,joao-felipe11@da.net,+55 21 6104-2245,da Cruz,AL,Financeiro,2024-03-03,Inativo
+487,Dr. Thales Pinto,melolorena@gmail.com,+55 (081) 5030-4273,Azevedo do Campo,SE,Educação,2024-02-11,Ativo
+488,Pedro Henrique Azevedo,da-costabrenda@uol.com.br,84 0790 0107,da Mota,PR,Educação,2025-05-26,Premium
+489,Gustavo Henrique Azevedo,piresdiego@bol.com.br,(061) 9085 7213,Silveira Grande,RS,Saúde,2024-03-02,Premium
+490,Juliana Silveira,dda-mota@fernandes.br,(031) 1540 9951,Monteiro do Norte,AP,Educação,2024-12-13,Inativo
+491,Ana Laura Dias,santoslucas@gmail.com,(081) 6218 4002,Campos,GO,Financeiro,2023-07-17,Premium
+492,Bruna da Mata,nuneslucas@castro.org,+55 84 4444-0420,Peixoto,RO,Educação,2023-06-10,Inativo
+493,Alexandre Monteiro,joao-felipecosta@uol.com.br,+55 31 5793-0918,Costa,DF,Varejo,2024-02-12,Premium
+494,Leandro da Paz,araujolucca@cunha.br,+55 81 6360 8874,Cardoso,RJ,Varejo,2025-02-18,Inativo
+495,Nathan da Luz,rebeca73@hotmail.com,+55 84 1946 1121,Silveira,CE,Saúde,2025-09-08,Premium
+496,Dra. Gabrielly da Cruz,juliaalves@moura.com,(084) 4374-7125,Santos da Praia,RN,Saúde,2023-11-27,Ativo
+497,Leonardo da Cruz,juliana03@novaes.br,(051) 9373-6068,Peixoto,PA,Varejo,2025-07-29,Ativo
+498,Noah Pires,franciscomendes@hotmail.com,+55 81 7982-1523,Mendes,SP,Financeiro,2023-09-27,Premium
+499,Ana Vitória Fogaça,fariasyuri@gomes.br,+55 (021) 5629 9049,Caldeira das Pedras,PE,Varejo,2024-09-20,Premium
+500,Marina das Neves,ribeiromaria-sophia@silveira.com,11 7399-3067,Sales do Amparo,PE,Saúde,2023-07-11,Premium

@@ -1,0 +1,1201 @@
+venda_id,cliente_id,produto,valor_venda,quantidade,canal_venda,status_venda,data_venda
+1,29,Automação de Marketing,7544.19,3,Site,Concluída,2024-07-21
+2,131,Automação de Marketing,11622.6,2,WhatsApp,Em andamento,2025-10-02
+3,261,CRM Enterprise,138.27,4,Inside Sales,Cancelada,2025-08-06
+4,187,CRM Basic,5806.39,3,Inside Sales,Em andamento,2026-01-18
+5,412,Treinamento,13717.82,4,Site,Concluída,2025-08-01
+6,214,Consultoria,13746.24,5,Inside Sales,Em andamento,2024-09-02
+7,191,CRM Enterprise,1879.07,3,WhatsApp,Em andamento,2025-10-15
+8,24,CRM Enterprise,14315.78,8,Site,Cancelada,2024-09-18
+9,168,Treinamento,1387.14,1,Site,Concluída,2025-05-24
+10,150,Consultoria,8500.72,10,WhatsApp,Cancelada,2025-03-08
+11,189,Treinamento,8916.19,4,WhatsApp,Concluída,2024-12-10
+12,4,CRM Enterprise,13992.72,4,Site,Em andamento,2024-09-18
+13,430,CRM Enterprise,10432.57,6,Inside Sales,Em andamento,2025-11-21
+14,193,Consultoria,12750.19,2,WhatsApp,Em andamento,2024-11-15
+15,122,CRM Enterprise,6355.26,3,Site,Concluída,2024-11-02
+16,23,Automação de Marketing,13826.99,7,Site,Cancelada,2025-08-04
+17,499,Automação de Marketing,11243.7,2,WhatsApp,Em andamento,2024-07-15
+18,420,Automação de Marketing,5975.83,10,Inside Sales,Cancelada,2024-06-19
+19,340,CRM Basic,14466.85,5,Site,Cancelada,2025-05-30
+20,475,Consultoria,12032.17,6,Representante,Cancelada,2026-03-01
+21,120,CRM Basic,1212.84,3,Inside Sales,Concluída,2025-01-25
+22,55,Treinamento,2549.19,6,Representante,Concluída,2025-05-11
+23,275,CRM Basic,5438.48,8,Site,Cancelada,2025-05-15
+24,136,CRM Enterprise,12801.98,3,Site,Em andamento,2024-11-09
+25,357,CRM Basic,9089.21,6,WhatsApp,Concluída,2024-08-23
+26,365,Consultoria,3798.46,7,Inside Sales,Em andamento,2025-08-30
+27,154,CRM Basic,3976.49,1,Representante,Cancelada,2025-08-14
+28,285,CRM Basic,11246.37,2,Representante,Concluída,2025-06-01
+29,412,CRM Enterprise,11927.77,1,Inside Sales,Concluída,2024-11-06
+30,67,Treinamento,3052.18,6,Inside Sales,Em andamento,2024-06-19
+31,301,CRM Enterprise,3956.43,1,Inside Sales,Concluída,2026-05-06
+32,463,CRM Basic,9725.2,2,Site,Concluída,2025-01-08
+33,22,CRM Enterprise,14139.98,3,Representante,Em andamento,2026-03-13
+34,203,Treinamento,7492.28,7,WhatsApp,Cancelada,2025-04-15
+35,110,Consultoria,13633.73,5,Representante,Concluída,2024-08-28
+36,18,Automação de Marketing,9250.19,4,Site,Cancelada,2024-06-04
+37,211,Treinamento,13253.4,1,Inside Sales,Cancelada,2024-08-18
+38,197,CRM Basic,2144.82,9,WhatsApp,Em andamento,2026-02-17
+39,411,CRM Enterprise,8200.48,7,Site,Cancelada,2025-09-03
+40,279,Consultoria,11743.38,10,Site,Cancelada,2024-09-16
+41,139,Consultoria,2779.26,10,WhatsApp,Concluída,2025-02-26
+42,459,Consultoria,12179.27,1,Representante,Em andamento,2025-10-20
+43,184,CRM Basic,11525.95,3,Inside Sales,Concluída,2024-08-28
+44,337,Automação de Marketing,3693.18,1,WhatsApp,Em andamento,2025-12-03
+45,434,Treinamento,14741.7,6,WhatsApp,Concluída,2024-07-05
+46,122,Consultoria,8928.54,10,Inside Sales,Em andamento,2024-07-20
+47,359,Automação de Marketing,5340.06,10,WhatsApp,Em andamento,2024-06-13
+48,486,Treinamento,2904.68,9,Site,Concluída,2025-02-16
+49,252,CRM Enterprise,665.66,4,WhatsApp,Concluída,2025-09-23
+50,270,Consultoria,7222.04,10,WhatsApp,Concluída,2025-12-04
+51,175,Consultoria,10782.37,1,Inside Sales,Concluída,2024-06-03
+52,301,CRM Basic,10599.98,2,Site,Concluída,2025-04-06
+53,192,Treinamento,10597.62,10,Inside Sales,Cancelada,2024-09-17
+54,155,CRM Basic,4906.79,7,Representante,Em andamento,2025-08-06
+55,163,Automação de Marketing,2695.62,10,Site,Concluída,2025-04-14
+56,341,CRM Basic,8875.36,7,Site,Em andamento,2025-11-18
+57,353,CRM Basic,4488.31,1,Representante,Em andamento,2024-08-28
+58,17,Consultoria,2813.02,10,WhatsApp,Em andamento,2025-03-14
+59,290,Treinamento,1651.24,3,Site,Em andamento,2024-09-07
+60,40,Consultoria,3646.14,3,Inside Sales,Em andamento,2025-12-02
+61,344,Consultoria,9622.63,8,Inside Sales,Cancelada,2024-11-14
+62,108,CRM Enterprise,3818.16,6,Site,Concluída,2025-10-22
+63,369,Treinamento,119.09,8,Representante,Concluída,2024-11-12
+64,453,Treinamento,6268.89,6,Representante,Concluída,2026-02-01
+65,425,Automação de Marketing,7244.39,4,WhatsApp,Cancelada,2024-09-07
+66,38,CRM Enterprise,12008.0,5,Inside Sales,Cancelada,2025-09-23
+67,134,CRM Enterprise,14279.77,6,WhatsApp,Cancelada,2025-04-07
+68,83,Automação de Marketing,11006.58,2,Site,Em andamento,2024-06-23
+69,315,CRM Enterprise,13409.07,7,WhatsApp,Em andamento,2024-12-17
+70,456,CRM Enterprise,6569.59,2,Site,Concluída,2026-05-16
+71,499,Automação de Marketing,2930.77,9,Site,Em andamento,2024-11-30
+72,145,CRM Enterprise,4531.27,1,Representante,Em andamento,2024-09-11
+73,282,CRM Basic,12613.83,1,Site,Concluída,2025-09-24
+74,219,Automação de Marketing,1405.66,8,WhatsApp,Concluída,2026-04-03
+75,14,Consultoria,3183.6,2,Representante,Concluída,2026-05-07
+76,158,Treinamento,11794.66,8,Site,Concluída,2025-02-02
+77,329,CRM Basic,8207.48,6,Representante,Cancelada,2026-01-19
+78,96,Consultoria,6742.05,8,Representante,Cancelada,2024-07-29
+79,116,Automação de Marketing,12572.47,1,WhatsApp,Em andamento,2025-11-29
+80,342,Consultoria,1540.87,9,Representante,Em andamento,2024-06-19
+81,117,Treinamento,8348.67,9,Representante,Em andamento,2024-09-06
+82,352,Treinamento,13016.72,10,WhatsApp,Cancelada,2025-07-29
+83,154,CRM Enterprise,1276.43,9,WhatsApp,Concluída,2025-08-10
+84,487,CRM Basic,11382.11,3,WhatsApp,Concluída,2025-12-31
+85,65,CRM Enterprise,735.87,7,WhatsApp,Em andamento,2025-08-02
+86,76,Consultoria,12528.21,6,Inside Sales,Concluída,2026-05-07
+87,199,Automação de Marketing,8389.83,6,Site,Em andamento,2025-08-30
+88,235,CRM Enterprise,13765.71,10,Representante,Concluída,2025-05-04
+89,213,Automação de Marketing,2329.67,10,Inside Sales,Concluída,2024-07-25
+90,289,Consultoria,11715.22,9,Site,Cancelada,2025-06-29
+91,136,Treinamento,5807.35,10,Representante,Concluída,2025-04-30
+92,89,CRM Basic,4203.67,10,Representante,Concluída,2024-06-28
+93,203,Consultoria,13354.66,4,Inside Sales,Em andamento,2024-10-19
+94,244,Consultoria,13820.44,1,Site,Cancelada,2026-02-22
+95,160,Treinamento,4277.17,2,WhatsApp,Concluída,2024-06-10
+96,154,Treinamento,14615.87,6,Site,Em andamento,2024-11-16
+97,214,CRM Enterprise,9114.19,4,Representante,Concluída,2024-11-04
+98,468,Treinamento,12377.14,9,Site,Concluída,2025-10-13
+99,264,CRM Enterprise,11893.21,5,Representante,Concluída,2024-08-14
+100,400,Automação de Marketing,12784.3,1,WhatsApp,Concluída,2024-10-03
+101,449,CRM Enterprise,12510.66,4,Inside Sales,Cancelada,2026-01-19
+102,26,CRM Basic,13778.66,5,Site,Cancelada,2026-02-07
+103,259,CRM Enterprise,6014.44,1,WhatsApp,Cancelada,2025-02-15
+104,251,CRM Basic,8951.25,8,Site,Cancelada,2025-06-16
+105,84,Consultoria,12581.04,2,Site,Concluída,2025-02-14
+106,198,Automação de Marketing,839.8,4,WhatsApp,Em andamento,2025-11-27
+107,116,Consultoria,10197.66,7,Inside Sales,Em andamento,2025-01-19
+108,5,CRM Basic,7164.05,3,Inside Sales,Concluída,2025-11-23
+109,130,Consultoria,9164.32,5,Representante,Cancelada,2025-06-29
+110,437,Consultoria,5295.77,4,Representante,Cancelada,2024-12-10
+111,347,Automação de Marketing,7857.5,7,Inside Sales,Concluída,2024-06-03
+112,262,Consultoria,14991.5,9,Site,Cancelada,2025-04-14
+113,351,CRM Enterprise,1710.76,6,Site,Em andamento,2025-05-12
+114,167,Consultoria,12936.22,5,WhatsApp,Concluída,2025-03-24
+115,265,CRM Enterprise,11505.57,10,Representante,Em andamento,2024-09-04
+116,164,CRM Enterprise,10243.26,8,Site,Cancelada,2025-07-12
+117,465,Treinamento,6336.63,1,WhatsApp,Cancelada,2024-12-04
+118,372,Automação de Marketing,10729.2,8,Site,Em andamento,2026-04-26
+119,154,Automação de Marketing,12696.75,3,Site,Concluída,2025-08-30
+120,242,Consultoria,2006.37,9,WhatsApp,Em andamento,2025-11-18
+121,461,CRM Enterprise,5100.92,4,Site,Concluída,2026-02-21
+122,382,Treinamento,13084.34,6,Site,Cancelada,2025-04-24
+123,300,CRM Enterprise,4481.36,8,Inside Sales,Em andamento,2026-05-14
+124,299,Automação de Marketing,8746.67,2,Representante,Concluída,2025-08-23
+125,257,Treinamento,1885.26,9,Site,Cancelada,2025-08-04
+126,28,CRM Basic,13075.65,3,WhatsApp,Cancelada,2025-09-18
+127,210,Treinamento,14809.15,3,Site,Em andamento,2025-04-30
+128,93,Treinamento,11706.22,6,WhatsApp,Cancelada,2025-02-20
+129,325,Treinamento,964.4,5,WhatsApp,Concluída,2025-01-17
+130,296,Treinamento,11490.81,2,WhatsApp,Em andamento,2025-06-18
+131,223,Treinamento,9538.96,7,Representante,Cancelada,2024-11-22
+132,3,CRM Basic,662.11,6,Inside Sales,Cancelada,2025-05-28
+133,388,CRM Basic,12515.11,1,Inside Sales,Em andamento,2025-03-02
+134,376,Consultoria,3807.46,5,WhatsApp,Concluída,2025-02-09
+135,197,Consultoria,7599.71,3,Inside Sales,Concluída,2024-09-28
+136,153,Treinamento,14232.1,9,Site,Cancelada,2024-08-23
+137,455,CRM Basic,10333.02,6,Representante,Cancelada,2025-11-15
+138,385,Treinamento,2907.55,1,WhatsApp,Concluída,2024-09-07
+139,373,CRM Basic,14774.7,1,WhatsApp,Concluída,2025-05-03
+140,188,CRM Enterprise,10695.54,7,Site,Em andamento,2026-01-09
+141,320,CRM Enterprise,823.95,2,Inside Sales,Concluída,2025-01-01
+142,354,Treinamento,1825.27,7,Inside Sales,Em andamento,2024-08-15
+143,130,CRM Basic,7168.51,4,Inside Sales,Cancelada,2024-12-05
+144,216,Automação de Marketing,9958.8,5,WhatsApp,Cancelada,2025-03-04
+145,426,Automação de Marketing,13489.47,10,Inside Sales,Cancelada,2025-07-06
+146,59,Treinamento,11792.92,4,WhatsApp,Cancelada,2024-08-03
+147,426,CRM Basic,7894.88,6,Representante,Cancelada,2024-07-10
+148,83,Treinamento,687.15,4,Representante,Cancelada,2025-11-13
+149,121,CRM Enterprise,140.8,2,Representante,Concluída,2025-05-29
+150,487,Automação de Marketing,1442.23,2,Inside Sales,Cancelada,2025-06-30
+151,330,Consultoria,3544.29,5,Representante,Concluída,2025-02-04
+152,52,CRM Enterprise,12216.36,5,Site,Em andamento,2024-06-08
+153,161,CRM Enterprise,6447.33,2,Inside Sales,Concluída,2025-04-08
+154,437,CRM Basic,2162.08,6,Site,Cancelada,2025-02-12
+155,490,CRM Enterprise,9364.92,6,Site,Concluída,2026-02-07
+156,59,Treinamento,6071.58,5,Representante,Em andamento,2025-03-22
+157,436,Treinamento,7225.85,3,Inside Sales,Concluída,2026-03-12
+158,357,CRM Basic,10923.53,2,Representante,Em andamento,2025-05-19
+159,248,Treinamento,12053.75,3,Representante,Cancelada,2024-08-14
+160,314,CRM Basic,529.36,8,Representante,Concluída,2025-09-15
+161,455,CRM Enterprise,6228.14,2,Site,Em andamento,2024-09-12
+162,161,Automação de Marketing,284.17,10,WhatsApp,Em andamento,2025-03-03
+163,448,Automação de Marketing,5140.68,10,Inside Sales,Cancelada,2024-12-14
+164,339,Treinamento,10927.11,6,Representante,Concluída,2025-10-16
+165,430,Automação de Marketing,12413.92,1,Inside Sales,Em andamento,2025-01-25
+166,479,Treinamento,2438.22,8,WhatsApp,Concluída,2024-09-03
+167,385,CRM Basic,7425.55,6,Site,Concluída,2026-05-07
+168,260,Treinamento,3418.33,7,WhatsApp,Concluída,2024-12-09
+169,236,Automação de Marketing,6718.41,8,Inside Sales,Cancelada,2025-08-08
+170,229,Treinamento,4809.32,1,Inside Sales,Cancelada,2026-03-11
+171,212,Automação de Marketing,633.9,1,Inside Sales,Em andamento,2025-05-24
+172,494,Consultoria,9324.09,9,WhatsApp,Em andamento,2024-06-23
+173,344,Consultoria,6897.5,6,Inside Sales,Concluída,2024-06-03
+174,433,Automação de Marketing,6871.45,10,Representante,Em andamento,2025-01-29
+175,337,Treinamento,5513.09,2,Inside Sales,Em andamento,2026-04-29
+176,114,Consultoria,132.73,5,Site,Em andamento,2026-04-08
+177,55,CRM Basic,782.09,8,WhatsApp,Em andamento,2025-02-12
+178,381,CRM Enterprise,10851.23,5,WhatsApp,Concluída,2024-11-21
+179,62,Treinamento,13960.22,4,Representante,Concluída,2026-05-19
+180,367,Treinamento,5135.21,1,Inside Sales,Cancelada,2025-05-18
+181,235,Automação de Marketing,9911.0,3,Representante,Concluída,2024-07-02
+182,272,Automação de Marketing,11069.59,7,Representante,Em andamento,2025-06-13
+183,400,CRM Basic,13825.32,10,WhatsApp,Em andamento,2025-03-09
+184,418,Treinamento,2012.89,10,Site,Em andamento,2024-07-08
+185,452,Automação de Marketing,5831.47,4,Site,Cancelada,2026-03-24
+186,494,Consultoria,5208.6,8,WhatsApp,Concluída,2025-02-13
+187,212,Automação de Marketing,9077.61,5,Site,Em andamento,2025-12-19
+188,378,CRM Basic,14039.13,4,WhatsApp,Em andamento,2024-07-18
+189,366,Consultoria,4429.63,3,WhatsApp,Em andamento,2024-07-10
+190,278,Consultoria,10445.25,2,Site,Em andamento,2025-07-04
+191,246,Treinamento,8783.81,9,Site,Cancelada,2026-02-12
+192,414,CRM Enterprise,290.28,1,Representante,Concluída,2024-07-14
+193,28,CRM Basic,10086.79,5,WhatsApp,Cancelada,2025-02-05
+194,350,CRM Enterprise,3833.36,5,WhatsApp,Em andamento,2026-02-13
+195,17,Treinamento,5444.37,2,WhatsApp,Em andamento,2024-11-30
+196,332,CRM Basic,8462.93,9,Site,Em andamento,2024-08-06
+197,341,Treinamento,800.0,7,Representante,Em andamento,2024-05-27
+198,161,CRM Enterprise,14490.91,1,Site,Concluída,2026-01-22
+199,318,Treinamento,13045.86,4,Site,Em andamento,2024-11-17
+200,280,CRM Basic,11102.91,4,Site,Cancelada,2026-01-29
+201,91,CRM Enterprise,14753.45,3,WhatsApp,Em andamento,2025-11-18
+202,264,CRM Enterprise,1878.37,7,Site,Em andamento,2024-08-19
+203,136,Automação de Marketing,2037.99,5,Inside Sales,Cancelada,2025-01-10
+204,239,CRM Basic,10674.37,1,WhatsApp,Cancelada,2024-07-04
+205,306,Automação de Marketing,857.75,5,Representante,Em andamento,2025-04-13
+206,282,Consultoria,5435.48,9,WhatsApp,Concluída,2025-07-16
+207,267,Automação de Marketing,1115.83,3,Representante,Em andamento,2024-08-03
+208,275,Consultoria,6110.91,4,WhatsApp,Em andamento,2024-12-12
+209,170,Consultoria,5032.89,4,Representante,Em andamento,2025-11-24
+210,422,CRM Enterprise,11306.79,2,Site,Cancelada,2026-02-14
+211,124,Automação de Marketing,13577.0,10,WhatsApp,Concluída,2026-02-21
+212,350,Treinamento,13296.34,2,Representante,Cancelada,2025-10-24
+213,277,CRM Enterprise,10887.24,9,Site,Em andamento,2025-08-30
+214,412,Treinamento,7680.16,1,Site,Em andamento,2025-03-27
+215,99,CRM Enterprise,4872.66,2,WhatsApp,Em andamento,2026-03-15
+216,274,CRM Enterprise,209.23,4,WhatsApp,Em andamento,2025-05-11
+217,218,CRM Basic,12551.41,9,Representante,Em andamento,2025-08-25
+218,419,CRM Basic,14102.29,1,Representante,Em andamento,2025-08-10
+219,170,CRM Enterprise,664.51,1,WhatsApp,Cancelada,2024-09-02
+220,286,CRM Basic,1149.59,5,Representante,Cancelada,2026-04-03
+221,231,Treinamento,9490.24,6,Inside Sales,Cancelada,2025-02-23
+222,345,CRM Enterprise,1862.76,10,Inside Sales,Em andamento,2024-12-05
+223,300,CRM Enterprise,778.2,6,Inside Sales,Cancelada,2025-02-07
+224,403,Automação de Marketing,10319.59,2,Site,Cancelada,2024-06-08
+225,196,CRM Enterprise,5987.19,8,WhatsApp,Em andamento,2025-04-12
+226,113,Treinamento,2132.08,9,Site,Em andamento,2025-11-16
+227,74,Consultoria,4541.04,1,WhatsApp,Concluída,2025-02-05
+228,22,Automação de Marketing,174.94,7,Inside Sales,Cancelada,2024-10-27
+229,108,Consultoria,11249.62,4,Representante,Em andamento,2025-09-27
+230,436,CRM Basic,7737.04,3,WhatsApp,Em andamento,2025-07-19
+231,428,CRM Enterprise,3865.85,3,Inside Sales,Em andamento,2024-11-11
+232,237,CRM Enterprise,9705.65,5,Inside Sales,Cancelada,2025-07-18
+233,51,Automação de Marketing,3041.52,8,Site,Cancelada,2026-03-05
+234,66,CRM Basic,10102.3,2,Site,Em andamento,2025-06-16
+235,36,Consultoria,13511.77,8,Representante,Cancelada,2025-02-17
+236,316,Automação de Marketing,9925.39,3,Site,Cancelada,2025-09-08
+237,491,CRM Enterprise,6481.78,6,WhatsApp,Concluída,2025-08-21
+238,365,Treinamento,11123.26,5,Site,Concluída,2024-11-04
+239,348,Treinamento,11021.29,8,Representante,Cancelada,2025-11-14
+240,397,Automação de Marketing,4651.53,2,WhatsApp,Em andamento,2024-07-01
+241,311,Consultoria,1321.41,3,WhatsApp,Cancelada,2025-03-19
+242,376,CRM Enterprise,13306.4,2,Inside Sales,Em andamento,2024-09-16
+243,324,Automação de Marketing,564.79,10,Representante,Em andamento,2025-01-20
+244,109,Automação de Marketing,13603.92,5,Representante,Em andamento,2026-01-20
+245,397,Treinamento,2314.63,4,Site,Concluída,2026-04-11
+246,238,CRM Enterprise,7566.74,7,Site,Em andamento,2024-07-11
+247,6,Automação de Marketing,9973.91,3,WhatsApp,Cancelada,2026-02-15
+248,82,Automação de Marketing,2769.26,3,Representante,Cancelada,2025-01-28
+249,21,Treinamento,3360.4,4,Inside Sales,Cancelada,2026-03-07
+250,190,CRM Basic,3586.88,9,Site,Cancelada,2024-08-03
+251,241,CRM Enterprise,13776.74,1,Site,Concluída,2025-10-30
+252,361,Consultoria,14529.78,5,WhatsApp,Cancelada,2025-02-05
+253,335,Automação de Marketing,5739.93,2,Site,Cancelada,2025-09-09
+254,499,Automação de Marketing,13617.91,7,Site,Cancelada,2025-02-27
+255,250,Automação de Marketing,11910.6,1,WhatsApp,Cancelada,2025-03-18
+256,85,Automação de Marketing,3526.86,5,WhatsApp,Concluída,2024-06-07
+257,96,Automação de Marketing,2444.62,2,WhatsApp,Cancelada,2025-09-26
+258,416,CRM Enterprise,5020.35,8,Representante,Cancelada,2026-01-24
+259,108,Treinamento,8902.78,1,WhatsApp,Concluída,2026-04-10
+260,66,CRM Basic,8644.95,3,Inside Sales,Em andamento,2026-03-31
+261,76,Consultoria,933.09,3,Representante,Em andamento,2025-06-23
+262,497,CRM Enterprise,8497.71,5,Inside Sales,Concluída,2025-05-19
+263,230,Treinamento,9137.24,8,WhatsApp,Concluída,2025-03-25
+264,426,CRM Basic,6220.43,10,WhatsApp,Em andamento,2024-06-01
+265,338,CRM Basic,7710.99,6,Representante,Em andamento,2026-01-12
+266,303,Treinamento,1125.76,7,WhatsApp,Concluída,2024-10-21
+267,9,Automação de Marketing,3114.99,7,WhatsApp,Em andamento,2025-01-19
+268,50,Automação de Marketing,2743.59,10,Inside Sales,Em andamento,2025-12-15
+269,258,CRM Enterprise,11310.51,8,WhatsApp,Em andamento,2025-06-23
+270,277,Treinamento,12430.07,9,Representante,Cancelada,2024-11-20
+271,448,Automação de Marketing,747.23,7,WhatsApp,Cancelada,2025-02-21
+272,405,Consultoria,11553.21,10,Inside Sales,Cancelada,2025-09-02
+273,69,CRM Basic,3892.32,2,Site,Em andamento,2026-03-02
+274,449,Consultoria,8201.59,4,Inside Sales,Em andamento,2024-12-23
+275,381,Automação de Marketing,11862.39,9,Inside Sales,Em andamento,2025-07-06
+276,4,CRM Basic,5687.95,6,Representante,Cancelada,2026-05-19
+277,55,Automação de Marketing,2406.2,5,Site,Em andamento,2026-05-10
+278,217,Automação de Marketing,8513.59,5,Representante,Concluída,2025-11-09
+279,212,Automação de Marketing,8326.36,8,WhatsApp,Cancelada,2026-05-22
+280,287,Consultoria,8368.18,5,Site,Em andamento,2024-09-08
+281,204,CRM Enterprise,11063.16,4,Representante,Em andamento,2025-09-11
+282,487,CRM Basic,2510.75,9,Representante,Cancelada,2025-05-11
+283,411,CRM Enterprise,8303.59,3,Representante,Em andamento,2026-01-22
+284,3,CRM Basic,12085.1,8,Representante,Concluída,2024-10-01
+285,33,Consultoria,4020.07,2,Inside Sales,Em andamento,2024-06-25
+286,197,Treinamento,13967.21,10,Site,Em andamento,2025-10-03
+287,494,CRM Basic,9002.34,8,Representante,Concluída,2024-07-11
+288,104,Automação de Marketing,12773.46,5,WhatsApp,Concluída,2024-09-13
+289,402,Automação de Marketing,9032.77,4,WhatsApp,Em andamento,2026-05-05
+290,19,CRM Enterprise,5460.13,3,Inside Sales,Cancelada,2026-01-19
+291,400,Treinamento,6051.56,7,WhatsApp,Em andamento,2025-02-07
+292,8,CRM Enterprise,11080.19,2,Site,Em andamento,2025-05-20
+293,425,Automação de Marketing,8430.8,6,Site,Cancelada,2025-09-18
+294,116,CRM Basic,9134.81,8,Representante,Em andamento,2025-05-19
+295,3,Treinamento,3990.5,9,Inside Sales,Em andamento,2025-02-28
+296,38,Consultoria,7597.22,2,Site,Em andamento,2025-12-30
+297,417,Consultoria,11921.5,8,Representante,Em andamento,2025-03-27
+298,248,Consultoria,11572.51,8,Representante,Em andamento,2024-11-28
+299,442,CRM Enterprise,507.53,5,Inside Sales,Cancelada,2025-08-11
+300,325,CRM Basic,11850.97,4,Site,Cancelada,2025-05-27
+301,490,Automação de Marketing,5361.13,1,Site,Concluída,2024-10-12
+302,148,Consultoria,1485.84,2,WhatsApp,Cancelada,2026-02-03
+303,161,Automação de Marketing,5367.72,5,WhatsApp,Em andamento,2026-02-13
+304,350,CRM Basic,13960.8,8,WhatsApp,Concluída,2024-09-17
+305,377,Consultoria,3706.64,4,WhatsApp,Concluída,2025-07-23
+306,428,Automação de Marketing,3820.46,6,WhatsApp,Concluída,2024-06-13
+307,62,Treinamento,13810.8,10,Inside Sales,Em andamento,2025-02-06
+308,491,Treinamento,729.72,6,Site,Cancelada,2025-07-18
+309,460,Automação de Marketing,14781.88,5,Representante,Concluída,2025-03-21
+310,392,Consultoria,13748.5,7,WhatsApp,Em andamento,2026-02-05
+311,66,Treinamento,906.81,8,Inside Sales,Em andamento,2024-11-04
+312,178,CRM Basic,5966.38,8,Inside Sales,Em andamento,2025-04-23
+313,266,CRM Enterprise,6955.05,1,WhatsApp,Cancelada,2025-09-29
+314,298,Consultoria,1601.14,10,Site,Concluída,2024-11-05
+315,281,Consultoria,4016.45,8,Site,Cancelada,2025-05-24
+316,95,CRM Basic,7531.67,7,Site,Cancelada,2026-03-18
+317,438,Treinamento,6068.83,3,WhatsApp,Em andamento,2024-10-16
+318,352,CRM Enterprise,3505.64,5,WhatsApp,Em andamento,2025-03-17
+319,222,CRM Basic,12859.0,3,WhatsApp,Cancelada,2024-09-14
+320,413,Treinamento,245.16,8,WhatsApp,Em andamento,2025-07-23
+321,265,Consultoria,8056.34,8,Site,Cancelada,2024-11-24
+322,288,CRM Enterprise,12891.68,7,Inside Sales,Em andamento,2025-06-23
+323,84,Consultoria,994.54,8,Inside Sales,Cancelada,2025-05-11
+324,382,Consultoria,5086.38,6,Site,Cancelada,2025-10-01
+325,11,Consultoria,6235.24,10,WhatsApp,Em andamento,2026-01-28
+326,295,Automação de Marketing,9783.0,3,Site,Cancelada,2025-10-29
+327,167,Treinamento,10130.57,8,Inside Sales,Cancelada,2025-09-08
+328,315,CRM Basic,4369.2,3,Site,Cancelada,2026-03-01
+329,324,Treinamento,9223.42,2,Inside Sales,Concluída,2025-03-19
+330,176,Consultoria,3500.45,5,Site,Em andamento,2025-02-19
+331,331,Treinamento,5992.28,6,Representante,Cancelada,2025-09-03
+332,86,CRM Enterprise,2839.9,3,WhatsApp,Em andamento,2026-05-01
+333,129,CRM Enterprise,14112.52,4,WhatsApp,Cancelada,2024-07-03
+334,53,Treinamento,1523.75,9,Inside Sales,Concluída,2024-07-08
+335,395,CRM Enterprise,6015.49,2,Site,Em andamento,2025-07-06
+336,80,Treinamento,1356.24,5,WhatsApp,Concluída,2025-05-18
+337,378,CRM Basic,4334.21,3,WhatsApp,Concluída,2025-06-25
+338,18,Consultoria,9986.88,8,Representante,Em andamento,2024-05-23
+339,479,Treinamento,4158.97,3,WhatsApp,Em andamento,2024-08-21
+340,306,Automação de Marketing,6902.5,7,Site,Cancelada,2025-06-05
+341,247,CRM Enterprise,8141.06,8,Site,Cancelada,2025-02-03
+342,212,Consultoria,3971.12,1,Inside Sales,Em andamento,2024-10-01
+343,418,CRM Basic,11398.57,6,Site,Cancelada,2024-10-03
+344,274,Treinamento,223.92,8,Site,Concluída,2025-05-14
+345,393,Consultoria,6513.49,10,WhatsApp,Concluída,2024-12-18
+346,281,Treinamento,5667.29,9,Representante,Cancelada,2024-12-26
+347,128,Treinamento,2532.72,7,WhatsApp,Cancelada,2024-12-26
+348,41,CRM Basic,6391.37,9,Site,Cancelada,2025-02-22
+349,333,Consultoria,11169.61,7,WhatsApp,Concluída,2025-01-29
+350,94,CRM Enterprise,2135.7,8,Representante,Cancelada,2025-05-28
+351,359,CRM Basic,9379.03,6,Inside Sales,Concluída,2024-12-29
+352,26,CRM Enterprise,14548.77,3,Inside Sales,Cancelada,2025-01-10
+353,138,Treinamento,1963.08,1,WhatsApp,Concluída,2024-06-05
+354,78,CRM Basic,319.4,6,Representante,Cancelada,2025-08-05
+355,403,Consultoria,12011.99,8,Inside Sales,Cancelada,2024-06-21
+356,42,CRM Basic,12668.84,1,Site,Cancelada,2025-06-16
+357,37,CRM Basic,8193.56,4,Site,Cancelada,2025-08-01
+358,425,CRM Basic,287.97,7,Representante,Concluída,2025-02-23
+359,378,CRM Basic,14918.58,8,Inside Sales,Em andamento,2025-04-11
+360,341,Treinamento,14733.53,7,Site,Cancelada,2026-03-18
+361,82,CRM Enterprise,9474.55,9,Inside Sales,Cancelada,2025-03-13
+362,247,CRM Basic,9613.95,6,Inside Sales,Em andamento,2024-08-15
+363,112,CRM Basic,14601.78,7,Site,Concluída,2024-11-08
+364,86,Automação de Marketing,11936.42,2,Representante,Concluída,2025-05-28
+365,5,Automação de Marketing,14535.64,8,WhatsApp,Cancelada,2026-03-06
+366,395,CRM Basic,1433.25,8,Inside Sales,Em andamento,2026-01-13
+367,317,CRM Enterprise,5142.49,1,Site,Em andamento,2024-11-25
+368,79,CRM Enterprise,10549.79,3,Representante,Concluída,2025-09-26
+369,163,Consultoria,14726.97,8,WhatsApp,Concluída,2025-10-11
+370,353,CRM Basic,5728.76,5,Inside Sales,Cancelada,2026-02-04
+371,362,Consultoria,6618.75,9,Representante,Concluída,2026-04-24
+372,291,Consultoria,2880.74,6,Representante,Cancelada,2025-11-19
+373,445,Automação de Marketing,12487.11,3,Inside Sales,Em andamento,2025-04-26
+374,80,Consultoria,6795.82,9,Site,Cancelada,2026-03-20
+375,1,Automação de Marketing,11661.18,7,WhatsApp,Concluída,2024-07-01
+376,318,Automação de Marketing,12866.76,4,Site,Em andamento,2025-07-26
+377,33,Automação de Marketing,9908.51,7,WhatsApp,Em andamento,2025-08-07
+378,350,Automação de Marketing,7513.48,3,Site,Cancelada,2025-10-19
+379,210,CRM Enterprise,9649.47,2,Inside Sales,Concluída,2024-12-19
+380,428,CRM Basic,14073.21,1,WhatsApp,Concluída,2025-12-22
+381,249,CRM Enterprise,2955.09,10,Representante,Em andamento,2026-02-12
+382,251,Automação de Marketing,7934.74,5,Inside Sales,Cancelada,2024-07-18
+383,114,CRM Enterprise,9128.71,1,WhatsApp,Em andamento,2024-09-18
+384,252,CRM Enterprise,13933.22,8,Inside Sales,Cancelada,2025-01-31
+385,286,Treinamento,11177.81,6,Inside Sales,Em andamento,2025-01-26
+386,137,CRM Enterprise,7982.41,5,Inside Sales,Concluída,2024-08-27
+387,492,CRM Enterprise,7840.33,4,Representante,Concluída,2025-12-09
+388,99,CRM Basic,7940.26,10,WhatsApp,Em andamento,2024-06-03
+389,384,CRM Enterprise,8416.31,10,Site,Em andamento,2024-08-13
+390,235,Treinamento,10568.0,2,WhatsApp,Concluída,2024-11-04
+391,282,Consultoria,6083.2,3,Representante,Cancelada,2025-12-16
+392,463,Consultoria,4795.81,6,Representante,Em andamento,2025-03-14
+393,221,Consultoria,12409.71,10,WhatsApp,Em andamento,2025-02-19
+394,280,Automação de Marketing,3287.53,5,Site,Cancelada,2025-08-15
+395,230,CRM Enterprise,14401.38,1,Site,Em andamento,2025-10-26
+396,9,Consultoria,7812.38,1,Site,Concluída,2025-10-04
+397,110,CRM Enterprise,12850.23,5,WhatsApp,Concluída,2025-12-29
+398,20,CRM Basic,6959.51,3,Site,Cancelada,2025-11-12
+399,456,CRM Basic,8774.12,5,Site,Concluída,2024-09-22
+400,293,CRM Basic,6056.99,2,Site,Cancelada,2025-07-15
+401,89,Automação de Marketing,7375.32,2,Site,Concluída,2024-08-27
+402,375,Treinamento,12144.28,2,Inside Sales,Cancelada,2024-08-18
+403,179,Treinamento,13208.91,7,Inside Sales,Concluída,2025-06-14
+404,383,Automação de Marketing,9826.41,1,Representante,Concluída,2025-03-24
+405,157,Consultoria,7913.31,9,WhatsApp,Cancelada,2025-05-05
+406,258,CRM Basic,10496.75,1,Representante,Cancelada,2024-06-22
+407,386,Automação de Marketing,8967.47,2,WhatsApp,Cancelada,2026-04-25
+408,149,CRM Basic,11816.89,3,Site,Concluída,2025-09-05
+409,244,CRM Enterprise,8614.46,9,Representante,Cancelada,2024-07-02
+410,44,Treinamento,6038.05,3,WhatsApp,Cancelada,2025-12-29
+411,287,Treinamento,3051.82,10,WhatsApp,Em andamento,2025-08-12
+412,316,Automação de Marketing,14956.47,4,WhatsApp,Concluída,2025-02-15
+413,137,Consultoria,11673.9,10,Inside Sales,Concluída,2026-02-17
+414,344,Consultoria,6262.37,6,WhatsApp,Cancelada,2025-06-15
+415,177,CRM Enterprise,8948.77,5,WhatsApp,Cancelada,2024-12-12
+416,316,Treinamento,12341.6,10,WhatsApp,Cancelada,2024-12-16
+417,23,CRM Basic,13870.78,4,Site,Concluída,2026-03-24
+418,388,CRM Enterprise,10954.45,2,Inside Sales,Concluída,2024-07-09
+419,486,CRM Basic,9352.94,5,Inside Sales,Cancelada,2025-01-03
+420,356,Consultoria,12083.78,8,Representante,Concluída,2024-06-16
+421,170,Automação de Marketing,3214.24,4,WhatsApp,Em andamento,2024-05-28
+422,268,Automação de Marketing,11280.29,8,WhatsApp,Em andamento,2024-10-18
+423,358,Treinamento,10057.08,10,Inside Sales,Cancelada,2025-12-26
+424,88,CRM Basic,995.64,10,Site,Concluída,2025-02-22
+425,239,CRM Enterprise,9855.89,2,Representante,Em andamento,2025-12-16
+426,139,Consultoria,9978.43,2,Inside Sales,Cancelada,2025-10-03
+427,445,Treinamento,13262.69,4,Representante,Em andamento,2026-03-15
+428,364,Consultoria,1584.1,8,Inside Sales,Concluída,2024-09-21
+429,102,Treinamento,7559.7,9,Inside Sales,Concluída,2026-01-12
+430,127,Consultoria,13841.82,6,Representante,Cancelada,2026-01-25
+431,382,Consultoria,2439.38,6,Site,Em andamento,2026-01-05
+432,155,Automação de Marketing,3619.45,5,Inside Sales,Em andamento,2025-05-17
+433,132,CRM Enterprise,13192.29,9,Site,Concluída,2024-08-10
+434,78,Treinamento,5192.61,3,Inside Sales,Em andamento,2024-07-27
+435,196,Automação de Marketing,7858.7,4,Representante,Concluída,2025-06-18
+436,294,Consultoria,2375.96,10,Site,Cancelada,2025-05-05
+437,278,CRM Basic,2063.4,10,WhatsApp,Concluída,2024-09-24
+438,159,Automação de Marketing,10359.13,3,Representante,Concluída,2025-03-12
+439,336,CRM Basic,14002.15,6,Inside Sales,Em andamento,2024-12-26
+440,273,CRM Enterprise,14234.16,3,Site,Concluída,2025-04-20
+441,373,Consultoria,539.3,7,Representante,Cancelada,2025-08-23
+442,227,Consultoria,11209.58,3,WhatsApp,Concluída,2025-01-02
+443,68,Automação de Marketing,2852.72,10,Site,Em andamento,2024-06-06
+444,291,Automação de Marketing,9224.19,4,WhatsApp,Em andamento,2025-08-09
+445,14,Treinamento,5452.99,3,Representante,Em andamento,2025-06-25
+446,333,Treinamento,5672.0,8,Representante,Concluída,2025-05-13
+447,84,CRM Enterprise,2979.57,7,Inside Sales,Cancelada,2025-01-31
+448,487,CRM Basic,6254.36,4,Inside Sales,Concluída,2025-09-04
+449,475,Treinamento,14325.02,10,Representante,Em andamento,2024-10-18
+450,167,CRM Basic,13014.95,7,Representante,Concluída,2025-07-15
+451,312,Treinamento,11056.44,6,Representante,Em andamento,2025-11-26
+452,481,Automação de Marketing,11162.77,9,Inside Sales,Em andamento,2024-11-12
+453,56,CRM Enterprise,6828.98,4,Representante,Em andamento,2025-06-18
+454,21,Automação de Marketing,8409.74,1,WhatsApp,Cancelada,2025-08-24
+455,226,Consultoria,6030.79,5,Representante,Concluída,2025-05-28
+456,217,CRM Enterprise,4486.85,9,WhatsApp,Cancelada,2024-12-31
+457,425,CRM Enterprise,9726.91,9,Inside Sales,Concluída,2025-10-20
+458,399,Automação de Marketing,8823.17,3,Representante,Cancelada,2024-07-02
+459,166,CRM Basic,6818.2,8,WhatsApp,Cancelada,2025-03-10
+460,47,CRM Basic,3826.23,2,Inside Sales,Concluída,2025-06-08
+461,362,Consultoria,6796.04,2,Representante,Em andamento,2024-06-14
+462,406,Automação de Marketing,14630.35,3,Representante,Em andamento,2025-07-29
+463,195,CRM Basic,754.2,6,WhatsApp,Concluída,2026-03-21
+464,445,CRM Enterprise,2254.65,7,Site,Cancelada,2025-09-24
+465,374,Treinamento,11552.59,5,WhatsApp,Concluída,2025-01-17
+466,461,CRM Basic,2060.41,1,Site,Concluída,2026-01-26
+467,235,Treinamento,7514.65,9,Inside Sales,Em andamento,2026-01-20
+468,452,CRM Basic,7452.66,10,Representante,Cancelada,2025-01-05
+469,210,Automação de Marketing,6683.94,10,Inside Sales,Concluída,2026-05-01
+470,452,Automação de Marketing,8255.39,9,WhatsApp,Concluída,2024-06-09
+471,95,Consultoria,2309.02,1,WhatsApp,Concluída,2025-01-25
+472,342,Automação de Marketing,8713.58,5,Site,Concluída,2024-09-18
+473,26,CRM Basic,1722.43,3,Site,Em andamento,2024-06-29
+474,339,Automação de Marketing,10403.55,10,WhatsApp,Cancelada,2026-01-03
+475,384,CRM Enterprise,8726.6,2,Site,Cancelada,2025-04-30
+476,189,CRM Enterprise,13473.19,7,Inside Sales,Cancelada,2025-02-19
+477,242,Consultoria,2104.73,6,Representante,Em andamento,2025-07-21
+478,108,Automação de Marketing,10467.86,1,Inside Sales,Em andamento,2024-09-18
+479,374,Automação de Marketing,14692.31,2,Representante,Em andamento,2025-11-07
+480,353,Consultoria,9111.19,7,Site,Cancelada,2024-06-12
+481,270,Automação de Marketing,8669.63,6,WhatsApp,Em andamento,2026-02-10
+482,289,Treinamento,7496.31,8,WhatsApp,Em andamento,2025-02-13
+483,120,CRM Basic,10657.95,1,Inside Sales,Concluída,2025-07-03
+484,239,CRM Enterprise,9419.37,4,Representante,Cancelada,2025-06-10
+485,24,Automação de Marketing,5073.5,4,Inside Sales,Em andamento,2025-03-23
+486,104,Consultoria,10381.25,2,Site,Cancelada,2024-08-22
+487,260,CRM Enterprise,8294.9,2,Site,Cancelada,2025-10-12
+488,203,Automação de Marketing,10893.51,1,WhatsApp,Concluída,2024-10-15
+489,170,Treinamento,12524.0,8,Inside Sales,Em andamento,2025-09-20
+490,70,Treinamento,7274.28,9,Site,Cancelada,2025-06-30
+491,402,CRM Enterprise,12231.08,9,Site,Em andamento,2024-08-28
+492,372,Automação de Marketing,10205.14,9,Inside Sales,Concluída,2024-09-23
+493,296,Consultoria,10313.85,2,WhatsApp,Cancelada,2025-03-23
+494,431,Treinamento,564.48,9,WhatsApp,Em andamento,2024-11-17
+495,311,Automação de Marketing,5904.54,2,Site,Em andamento,2025-01-27
+496,440,CRM Enterprise,4786.04,5,Representante,Concluída,2025-09-27
+497,255,Consultoria,13168.03,8,Site,Concluída,2025-11-06
+498,269,CRM Enterprise,4604.54,6,Inside Sales,Concluída,2024-12-17
+499,468,Automação de Marketing,1479.8,1,Representante,Em andamento,2024-12-11
+500,79,Treinamento,2934.15,9,Site,Cancelada,2025-12-06
+501,74,CRM Enterprise,11565.27,9,WhatsApp,Concluída,2024-08-04
+502,371,Treinamento,644.63,9,Inside Sales,Concluída,2025-09-12
+503,160,Automação de Marketing,13991.83,2,Site,Cancelada,2025-02-22
+504,456,Automação de Marketing,787.48,5,Inside Sales,Em andamento,2024-10-31
+505,389,CRM Basic,4750.93,6,WhatsApp,Concluída,2025-09-13
+506,147,Consultoria,4222.08,8,Inside Sales,Cancelada,2025-05-13
+507,77,CRM Enterprise,2446.69,1,Inside Sales,Concluída,2025-12-20
+508,278,Consultoria,5319.74,5,WhatsApp,Em andamento,2024-09-22
+509,412,CRM Basic,4320.69,3,Inside Sales,Cancelada,2026-01-09
+510,314,Automação de Marketing,13394.42,8,Inside Sales,Concluída,2025-08-22
+511,15,CRM Enterprise,7113.96,2,Representante,Concluída,2025-03-17
+512,45,CRM Basic,6454.34,10,Representante,Em andamento,2026-04-09
+513,183,CRM Basic,4755.37,9,Inside Sales,Cancelada,2025-03-11
+514,291,Treinamento,2063.75,2,Representante,Cancelada,2026-01-20
+515,351,Treinamento,9701.84,8,WhatsApp,Concluída,2025-01-06
+516,74,Automação de Marketing,12930.33,5,Site,Cancelada,2025-01-27
+517,94,Consultoria,10524.26,6,Representante,Cancelada,2025-02-01
+518,16,CRM Enterprise,1073.94,6,Representante,Cancelada,2025-07-30
+519,434,Consultoria,2644.94,10,WhatsApp,Em andamento,2025-08-19
+520,53,CRM Enterprise,6144.72,6,Inside Sales,Cancelada,2026-02-21
+521,273,Automação de Marketing,6968.53,7,WhatsApp,Em andamento,2025-06-30
+522,125,Treinamento,8264.44,7,Inside Sales,Cancelada,2025-05-04
+523,107,Automação de Marketing,12227.34,7,Representante,Em andamento,2026-05-10
+524,404,CRM Basic,5198.79,3,Inside Sales,Em andamento,2025-01-12
+525,477,Treinamento,10707.44,2,Representante,Cancelada,2025-12-14
+526,285,Treinamento,1555.04,3,Site,Cancelada,2025-09-11
+527,36,Automação de Marketing,9014.06,7,Site,Cancelada,2025-08-13
+528,331,CRM Enterprise,9936.45,4,WhatsApp,Em andamento,2025-02-15
+529,463,CRM Enterprise,11349.33,3,WhatsApp,Cancelada,2026-03-21
+530,273,Automação de Marketing,4443.4,10,Representante,Concluída,2025-08-14
+531,106,Consultoria,10254.6,5,Site,Cancelada,2025-08-15
+532,368,Consultoria,14740.45,2,Inside Sales,Em andamento,2025-12-16
+533,262,CRM Basic,6122.54,5,Inside Sales,Cancelada,2025-09-20
+534,462,CRM Enterprise,8278.39,1,Site,Concluída,2024-10-02
+535,441,CRM Enterprise,4304.92,4,Representante,Em andamento,2026-01-01
+536,303,Consultoria,5974.6,7,Representante,Cancelada,2025-10-19
+537,223,CRM Basic,8222.27,8,WhatsApp,Concluída,2024-10-18
+538,285,Consultoria,5830.47,7,WhatsApp,Cancelada,2025-01-09
+539,447,CRM Basic,10083.98,1,Inside Sales,Em andamento,2025-02-03
+540,9,Treinamento,2245.54,7,WhatsApp,Concluída,2025-07-07
+541,71,Treinamento,9669.42,8,Representante,Em andamento,2025-12-11
+542,93,Treinamento,6870.48,9,Representante,Cancelada,2025-04-08
+543,182,Treinamento,3463.54,10,Inside Sales,Em andamento,2025-11-05
+544,256,CRM Basic,12717.38,9,Site,Cancelada,2024-08-14
+545,475,Consultoria,8237.88,1,Inside Sales,Em andamento,2026-01-22
+546,248,CRM Enterprise,10602.75,10,Representante,Em andamento,2025-03-22
+547,41,Automação de Marketing,2217.1,5,Representante,Em andamento,2024-11-22
+548,41,Automação de Marketing,7898.02,2,WhatsApp,Cancelada,2026-03-12
+549,323,CRM Enterprise,11151.12,9,Site,Em andamento,2026-01-14
+550,28,Automação de Marketing,13563.42,1,Representante,Cancelada,2024-10-02
+551,263,Automação de Marketing,13600.22,6,Representante,Cancelada,2025-04-27
+552,492,Consultoria,14668.63,5,WhatsApp,Concluída,2025-05-24
+553,356,Consultoria,13850.68,10,Site,Concluída,2025-09-21
+554,323,CRM Basic,7150.09,10,Inside Sales,Em andamento,2025-01-30
+555,150,Automação de Marketing,12152.55,1,Site,Cancelada,2024-11-08
+556,43,CRM Enterprise,1989.64,5,Site,Concluída,2025-11-19
+557,316,Consultoria,4286.48,1,Inside Sales,Em andamento,2024-06-16
+558,90,CRM Basic,13660.96,8,Site,Concluída,2026-03-12
+559,134,CRM Basic,11759.66,8,WhatsApp,Em andamento,2024-06-08
+560,442,CRM Enterprise,593.05,3,WhatsApp,Cancelada,2025-03-21
+561,386,Treinamento,14904.43,4,Representante,Em andamento,2025-02-18
+562,327,Automação de Marketing,2592.52,6,Inside Sales,Em andamento,2024-10-26
+563,136,CRM Enterprise,11356.71,1,WhatsApp,Cancelada,2024-10-17
+564,205,Treinamento,7195.86,9,WhatsApp,Cancelada,2025-06-22
+565,350,Treinamento,10613.56,5,WhatsApp,Em andamento,2025-05-23
+566,446,Consultoria,6577.54,8,Representante,Em andamento,2024-07-25
+567,162,CRM Enterprise,14430.26,2,Site,Cancelada,2025-02-25
+568,313,Consultoria,13778.83,6,Site,Cancelada,2024-11-27
+569,411,Automação de Marketing,1564.32,7,Representante,Em andamento,2025-05-04
+570,384,Automação de Marketing,3702.77,4,Site,Em andamento,2026-01-05
+571,354,Consultoria,14898.9,9,Inside Sales,Em andamento,2024-07-01
+572,5,CRM Enterprise,12492.17,7,Inside Sales,Em andamento,2025-02-15
+573,54,Consultoria,10313.94,4,Site,Cancelada,2024-10-13
+574,99,Automação de Marketing,607.22,2,Inside Sales,Em andamento,2026-01-11
+575,337,CRM Basic,13420.11,10,Inside Sales,Em andamento,2024-11-30
+576,491,Automação de Marketing,1887.66,3,Representante,Em andamento,2024-07-12
+577,392,Automação de Marketing,13508.47,3,Inside Sales,Em andamento,2025-07-18
+578,95,Treinamento,3874.7,2,Representante,Cancelada,2024-12-15
+579,394,Consultoria,6462.05,5,WhatsApp,Concluída,2025-11-03
+580,142,Treinamento,11678.88,7,Site,Concluída,2025-08-16
+581,133,Consultoria,14338.52,3,Representante,Concluída,2025-05-28
+582,252,CRM Basic,14693.39,10,Representante,Concluída,2025-05-07
+583,331,CRM Basic,7431.65,9,Representante,Concluída,2025-12-05
+584,315,Treinamento,9685.74,5,Inside Sales,Concluída,2025-03-05
+585,38,Consultoria,1149.14,8,Inside Sales,Cancelada,2025-03-11
+586,77,CRM Enterprise,9827.69,1,Representante,Cancelada,2025-06-13
+587,78,Treinamento,10530.82,10,Inside Sales,Em andamento,2026-04-08
+588,363,Treinamento,14104.67,8,Representante,Cancelada,2026-01-09
+589,433,CRM Enterprise,10943.73,9,WhatsApp,Concluída,2026-04-14
+590,197,Treinamento,14316.91,2,Site,Cancelada,2025-06-11
+591,350,CRM Enterprise,4612.14,2,Site,Em andamento,2025-12-05
+592,437,CRM Enterprise,14417.79,8,Site,Em andamento,2025-05-23
+593,104,CRM Enterprise,2731.61,7,WhatsApp,Cancelada,2026-05-12
+594,357,CRM Enterprise,5912.56,6,Representante,Concluída,2025-11-08
+595,454,CRM Basic,9528.59,3,Inside Sales,Concluída,2024-06-24
+596,13,Automação de Marketing,10824.11,4,Representante,Cancelada,2025-02-01
+597,33,Consultoria,11911.81,8,Representante,Concluída,2026-03-17
+598,19,Consultoria,5155.35,1,Representante,Concluída,2025-09-10
+599,109,Automação de Marketing,12125.85,8,WhatsApp,Em andamento,2026-02-24
+600,297,CRM Enterprise,3571.49,1,WhatsApp,Cancelada,2025-01-02
+601,335,Automação de Marketing,384.04,1,WhatsApp,Em andamento,2025-05-06
+602,333,CRM Basic,2045.01,1,Site,Concluída,2024-05-25
+603,234,Automação de Marketing,9207.27,2,Inside Sales,Concluída,2025-10-10
+604,255,Automação de Marketing,8965.16,4,Inside Sales,Concluída,2025-04-04
+605,219,Treinamento,5126.41,6,Inside Sales,Em andamento,2024-11-27
+606,295,Consultoria,8233.68,4,Inside Sales,Em andamento,2025-10-27
+607,89,CRM Enterprise,5099.01,5,WhatsApp,Cancelada,2025-03-13
+608,87,Automação de Marketing,10474.81,3,Representante,Concluída,2025-03-03
+609,474,CRM Basic,8771.59,2,Representante,Concluída,2025-08-06
+610,9,CRM Enterprise,13206.44,1,Inside Sales,Concluída,2024-10-22
+611,475,Automação de Marketing,1428.2,5,Representante,Em andamento,2026-03-14
+612,414,Treinamento,11904.39,3,WhatsApp,Concluída,2026-02-10
+613,328,Treinamento,4137.15,7,WhatsApp,Concluída,2024-10-25
+614,313,Automação de Marketing,10405.94,3,Representante,Em andamento,2025-05-04
+615,487,Consultoria,1411.52,6,Representante,Concluída,2025-09-07
+616,286,CRM Enterprise,3611.02,9,Inside Sales,Em andamento,2025-11-11
+617,186,Automação de Marketing,12954.69,9,WhatsApp,Cancelada,2025-09-23
+618,395,CRM Basic,9434.32,5,Inside Sales,Concluída,2025-12-04
+619,58,Treinamento,11969.53,8,WhatsApp,Concluída,2025-09-24
+620,344,CRM Enterprise,13847.83,6,Site,Concluída,2026-02-03
+621,223,Automação de Marketing,3845.59,8,Inside Sales,Concluída,2026-02-14
+622,380,Automação de Marketing,881.6,3,WhatsApp,Concluída,2024-09-19
+623,249,CRM Enterprise,7772.07,4,Representante,Em andamento,2025-11-07
+624,297,CRM Basic,4956.99,6,WhatsApp,Concluída,2024-12-12
+625,167,CRM Basic,3493.95,7,WhatsApp,Cancelada,2025-01-12
+626,457,Treinamento,3387.88,10,Representante,Concluída,2024-06-10
+627,456,CRM Basic,6594.39,10,Representante,Concluída,2025-11-15
+628,199,Treinamento,5664.93,4,Site,Cancelada,2026-05-22
+629,104,CRM Enterprise,5104.78,10,Inside Sales,Cancelada,2025-04-20
+630,70,Treinamento,1755.53,8,Representante,Concluída,2026-03-31
+631,390,Consultoria,5219.28,10,WhatsApp,Em andamento,2025-10-05
+632,488,CRM Basic,9211.77,10,WhatsApp,Concluída,2025-10-27
+633,211,Treinamento,12868.91,4,Representante,Cancelada,2026-04-08
+634,143,Treinamento,316.11,4,WhatsApp,Cancelada,2025-08-12
+635,223,Automação de Marketing,8734.06,3,Inside Sales,Cancelada,2024-12-24
+636,23,Treinamento,696.87,9,Inside Sales,Cancelada,2025-05-29
+637,272,CRM Enterprise,5975.37,8,Representante,Concluída,2026-04-26
+638,43,CRM Enterprise,8421.46,7,WhatsApp,Concluída,2024-09-25
+639,184,CRM Enterprise,4507.28,1,Representante,Em andamento,2026-01-25
+640,157,Treinamento,2510.86,10,Inside Sales,Cancelada,2026-01-30
+641,238,Treinamento,11600.34,3,Site,Em andamento,2026-03-18
+642,238,CRM Enterprise,10588.14,2,Representante,Em andamento,2025-05-21
+643,171,Consultoria,8010.71,7,Site,Em andamento,2024-10-21
+644,485,Automação de Marketing,9226.27,4,Inside Sales,Em andamento,2025-01-02
+645,451,CRM Enterprise,5101.85,9,Site,Concluída,2025-06-17
+646,57,Treinamento,5806.03,10,Inside Sales,Cancelada,2024-06-10
+647,188,Automação de Marketing,2711.48,2,WhatsApp,Concluída,2025-11-13
+648,172,CRM Enterprise,3655.63,8,WhatsApp,Em andamento,2024-07-06
+649,390,Consultoria,3459.01,5,Representante,Cancelada,2024-08-05
+650,28,Consultoria,1044.2,8,Representante,Em andamento,2025-11-21
+651,270,Treinamento,12460.44,9,Site,Cancelada,2025-01-03
+652,318,CRM Enterprise,5585.37,4,Representante,Concluída,2024-06-29
+653,42,CRM Basic,5921.17,5,Inside Sales,Concluída,2026-03-02
+654,85,CRM Basic,4211.55,8,WhatsApp,Concluída,2024-12-23
+655,267,CRM Enterprise,14286.36,5,Representante,Em andamento,2025-09-20
+656,278,Treinamento,13982.65,6,Representante,Cancelada,2025-09-06
+657,378,Consultoria,9705.8,4,Inside Sales,Concluída,2025-02-13
+658,447,Automação de Marketing,12049.64,6,Representante,Em andamento,2024-09-01
+659,176,Consultoria,9870.83,8,Representante,Cancelada,2025-11-19
+660,156,Consultoria,8552.05,3,Site,Concluída,2024-12-19
+661,248,Consultoria,5641.34,1,WhatsApp,Cancelada,2025-05-06
+662,146,CRM Basic,6893.31,10,WhatsApp,Em andamento,2026-01-23
+663,275,CRM Basic,4350.17,3,WhatsApp,Concluída,2025-06-26
+664,60,Consultoria,713.16,10,WhatsApp,Cancelada,2025-12-28
+665,134,CRM Basic,5608.11,9,Inside Sales,Em andamento,2026-03-26
+666,163,CRM Basic,14672.54,6,Representante,Em andamento,2024-12-10
+667,500,Consultoria,2522.7,2,Inside Sales,Cancelada,2026-03-02
+668,477,CRM Basic,7541.31,8,Site,Concluída,2025-06-18
+669,3,Automação de Marketing,14555.24,9,Site,Em andamento,2024-10-21
+670,362,Consultoria,4503.8,10,WhatsApp,Em andamento,2025-01-18
+671,374,Treinamento,13612.52,6,Inside Sales,Em andamento,2025-01-29
+672,246,CRM Basic,13512.6,9,Inside Sales,Cancelada,2025-12-08
+673,13,CRM Basic,6084.29,8,Site,Concluída,2024-07-25
+674,168,CRM Basic,920.0,10,WhatsApp,Cancelada,2025-07-08
+675,101,Automação de Marketing,435.97,8,Inside Sales,Em andamento,2024-09-04
+676,202,Consultoria,2997.31,10,Inside Sales,Em andamento,2024-07-09
+677,185,Treinamento,6023.61,6,Representante,Cancelada,2025-04-29
+678,7,Consultoria,4341.29,5,Representante,Em andamento,2026-05-18
+679,45,Treinamento,3313.86,7,Representante,Cancelada,2025-05-19
+680,84,Treinamento,12104.52,7,WhatsApp,Em andamento,2025-07-06
+681,307,CRM Basic,1382.56,5,Representante,Em andamento,2025-01-14
+682,172,Automação de Marketing,1085.13,7,Inside Sales,Concluída,2025-06-09
+683,210,Consultoria,9618.21,7,WhatsApp,Em andamento,2024-06-06
+684,237,CRM Basic,10682.68,4,WhatsApp,Cancelada,2025-07-08
+685,149,CRM Enterprise,8352.62,5,Site,Cancelada,2024-07-31
+686,287,CRM Basic,11123.85,1,Inside Sales,Concluída,2026-05-06
+687,135,Treinamento,4572.52,2,Site,Cancelada,2025-11-07
+688,92,CRM Basic,7429.11,1,Inside Sales,Cancelada,2025-06-29
+689,253,CRM Enterprise,14915.56,10,Site,Em andamento,2026-04-13
+690,247,Consultoria,8527.06,8,Inside Sales,Cancelada,2026-03-21
+691,263,CRM Enterprise,11021.06,5,WhatsApp,Em andamento,2025-06-26
+692,30,Treinamento,2277.44,3,Site,Concluída,2025-08-14
+693,28,Treinamento,4162.79,6,Inside Sales,Cancelada,2026-05-19
+694,150,CRM Enterprise,7991.22,9,WhatsApp,Em andamento,2026-02-22
+695,94,Automação de Marketing,11493.87,3,Site,Cancelada,2025-01-07
+696,424,Consultoria,12690.42,5,Site,Concluída,2025-12-16
+697,274,CRM Basic,8742.69,1,WhatsApp,Em andamento,2026-02-02
+698,145,Treinamento,5657.91,7,Site,Concluída,2026-04-24
+699,53,Automação de Marketing,3346.36,4,WhatsApp,Em andamento,2024-08-03
+700,315,Automação de Marketing,10375.83,9,Inside Sales,Cancelada,2025-01-22
+701,236,CRM Enterprise,13748.86,3,Inside Sales,Cancelada,2025-12-12
+702,179,Consultoria,4742.44,3,Representante,Em andamento,2024-06-12
+703,268,Consultoria,11477.48,3,Site,Concluída,2024-10-27
+704,382,CRM Basic,12237.15,3,WhatsApp,Em andamento,2026-03-31
+705,117,CRM Basic,4680.68,3,Inside Sales,Cancelada,2025-11-29
+706,354,CRM Enterprise,11469.05,2,Inside Sales,Cancelada,2026-05-02
+707,388,CRM Basic,6525.59,2,Inside Sales,Em andamento,2024-09-06
+708,263,Treinamento,8938.32,2,Site,Concluída,2025-09-09
+709,34,CRM Enterprise,4594.52,2,Inside Sales,Em andamento,2025-05-17
+710,106,CRM Basic,8855.29,3,Site,Concluída,2025-05-23
+711,47,Consultoria,2268.8,10,Site,Cancelada,2025-03-22
+712,83,Automação de Marketing,12841.56,4,Inside Sales,Concluída,2024-09-28
+713,420,CRM Enterprise,8714.19,9,WhatsApp,Em andamento,2025-10-05
+714,99,CRM Basic,14467.53,9,Inside Sales,Em andamento,2025-07-21
+715,51,Automação de Marketing,13871.06,8,Site,Em andamento,2024-09-20
+716,302,CRM Enterprise,2858.37,3,Site,Cancelada,2025-03-22
+717,218,CRM Basic,3292.68,7,Inside Sales,Cancelada,2025-10-16
+718,64,Automação de Marketing,7041.94,3,Representante,Cancelada,2025-01-08
+719,361,CRM Enterprise,4395.24,2,Site,Cancelada,2025-12-19
+720,60,Treinamento,5833.24,10,Site,Em andamento,2025-08-20
+721,500,CRM Basic,12632.24,9,Representante,Cancelada,2024-06-01
+722,438,CRM Enterprise,6476.63,8,Site,Concluída,2026-02-02
+723,7,Treinamento,14980.98,2,Representante,Cancelada,2025-11-03
+724,268,CRM Enterprise,9912.37,2,WhatsApp,Cancelada,2025-01-11
+725,206,CRM Enterprise,10456.05,3,Inside Sales,Cancelada,2026-03-27
+726,500,CRM Basic,3066.39,10,Representante,Concluída,2026-01-24
+727,120,Treinamento,12587.83,5,Site,Em andamento,2025-05-28
+728,483,Treinamento,6063.51,10,Representante,Cancelada,2025-01-23
+729,262,Treinamento,4255.47,2,Inside Sales,Cancelada,2026-03-30
+730,251,CRM Basic,7509.38,1,Inside Sales,Em andamento,2025-05-01
+731,28,Treinamento,12471.66,1,WhatsApp,Cancelada,2025-01-05
+732,310,CRM Basic,10220.14,5,Inside Sales,Concluída,2025-12-21
+733,339,Treinamento,11298.99,8,WhatsApp,Cancelada,2024-08-16
+734,339,Automação de Marketing,7518.7,5,Site,Em andamento,2024-12-30
+735,280,CRM Enterprise,363.29,7,Inside Sales,Cancelada,2024-06-08
+736,231,Treinamento,4786.93,8,Representante,Concluída,2024-11-22
+737,17,Consultoria,2735.35,3,Representante,Cancelada,2025-11-24
+738,69,Treinamento,4755.65,8,Inside Sales,Em andamento,2025-02-16
+739,346,Automação de Marketing,7409.25,9,Representante,Cancelada,2024-07-24
+740,288,Automação de Marketing,12829.84,1,Representante,Cancelada,2025-12-22
+741,254,Treinamento,8906.57,10,Site,Cancelada,2025-11-30
+742,165,Automação de Marketing,1015.22,1,WhatsApp,Cancelada,2025-11-27
+743,179,Automação de Marketing,12162.35,1,Site,Cancelada,2024-07-15
+744,50,Consultoria,6479.41,7,Site,Concluída,2026-02-18
+745,339,CRM Basic,3739.01,5,Inside Sales,Em andamento,2025-02-20
+746,34,CRM Enterprise,13047.21,6,WhatsApp,Concluída,2025-05-03
+747,276,Treinamento,4959.14,7,Representante,Cancelada,2024-06-27
+748,11,Automação de Marketing,10469.78,1,Site,Cancelada,2026-02-20
+749,293,Automação de Marketing,5915.48,2,Representante,Concluída,2026-04-04
+750,354,Consultoria,10159.16,8,Site,Concluída,2025-11-12
+751,315,Treinamento,4562.86,4,Representante,Em andamento,2025-10-10
+752,434,CRM Enterprise,14614.2,9,WhatsApp,Cancelada,2025-10-03
+753,136,Automação de Marketing,808.22,7,WhatsApp,Em andamento,2025-11-10
+754,381,Automação de Marketing,14373.32,2,Site,Cancelada,2024-12-16
+755,35,Automação de Marketing,8539.78,8,Representante,Concluída,2024-10-31
+756,178,Consultoria,11955.21,9,Site,Cancelada,2024-10-19
+757,340,CRM Basic,8145.22,7,Representante,Cancelada,2025-03-06
+758,320,Automação de Marketing,7779.0,3,Inside Sales,Em andamento,2025-05-01
+759,361,CRM Basic,7791.74,10,Representante,Concluída,2026-01-24
+760,339,Treinamento,14435.54,5,Representante,Em andamento,2024-10-31
+761,373,Automação de Marketing,9438.7,4,Site,Cancelada,2026-02-02
+762,76,Consultoria,3681.57,7,Representante,Cancelada,2025-07-14
+763,441,CRM Enterprise,12470.19,4,Representante,Cancelada,2025-05-18
+764,422,CRM Basic,4376.96,5,WhatsApp,Cancelada,2025-11-01
+765,123,CRM Basic,1792.02,1,WhatsApp,Cancelada,2026-05-12
+766,238,Treinamento,7332.2,7,Inside Sales,Concluída,2025-06-28
+767,82,CRM Enterprise,4163.41,5,Site,Em andamento,2025-03-09
+768,282,CRM Enterprise,2722.18,8,Inside Sales,Concluída,2025-09-26
+769,441,Consultoria,13457.93,10,Site,Concluída,2025-05-29
+770,462,Consultoria,14330.82,2,Representante,Em andamento,2025-06-26
+771,432,CRM Enterprise,2194.35,10,Inside Sales,Em andamento,2024-10-21
+772,341,Automação de Marketing,12451.83,5,Representante,Concluída,2025-05-03
+773,122,Consultoria,9037.34,6,Representante,Em andamento,2025-08-29
+774,381,Treinamento,3615.48,4,WhatsApp,Concluída,2026-01-28
+775,90,Consultoria,3290.22,8,Representante,Cancelada,2024-10-23
+776,442,Treinamento,8883.27,9,Site,Em andamento,2025-04-01
+777,486,Automação de Marketing,1783.12,7,Representante,Em andamento,2025-05-16
+778,127,CRM Basic,14453.4,6,Representante,Em andamento,2025-11-21
+779,189,CRM Enterprise,12338.34,10,Inside Sales,Em andamento,2024-10-27
+780,340,CRM Enterprise,12004.23,4,Site,Em andamento,2025-02-24
+781,197,Consultoria,4708.1,2,WhatsApp,Cancelada,2026-01-15
+782,199,Treinamento,217.2,5,Site,Concluída,2026-02-10
+783,480,CRM Basic,12358.35,5,WhatsApp,Concluída,2024-07-05
+784,469,Consultoria,6638.8,7,Inside Sales,Cancelada,2025-05-20
+785,444,Treinamento,1293.41,8,Representante,Cancelada,2025-05-22
+786,368,CRM Enterprise,6393.25,3,Site,Em andamento,2024-05-26
+787,34,Automação de Marketing,5342.66,9,Site,Cancelada,2025-04-12
+788,356,CRM Enterprise,507.53,3,Representante,Em andamento,2024-08-18
+789,70,CRM Basic,145.83,5,Site,Em andamento,2026-02-13
+790,43,CRM Basic,1751.34,9,WhatsApp,Em andamento,2025-01-05
+791,352,Consultoria,6213.71,8,Representante,Em andamento,2024-08-04
+792,69,Automação de Marketing,3984.13,6,Site,Concluída,2024-12-04
+793,44,CRM Basic,6276.0,7,Representante,Em andamento,2024-07-26
+794,115,CRM Enterprise,408.95,9,WhatsApp,Concluída,2026-01-07
+795,499,Consultoria,6990.13,3,Inside Sales,Cancelada,2024-05-28
+796,317,Consultoria,6490.66,3,Inside Sales,Cancelada,2024-12-04
+797,88,CRM Enterprise,14213.93,1,Representante,Cancelada,2025-10-17
+798,424,CRM Enterprise,10136.79,4,WhatsApp,Concluída,2024-11-10
+799,485,Consultoria,12942.86,5,Representante,Cancelada,2025-07-17
+800,67,CRM Basic,6526.5,10,WhatsApp,Cancelada,2024-09-05
+801,373,Treinamento,10190.11,3,Representante,Concluída,2024-09-21
+802,15,Consultoria,4423.88,4,Representante,Concluída,2025-03-26
+803,190,Treinamento,8785.26,2,Inside Sales,Cancelada,2025-02-02
+804,69,Treinamento,13084.51,4,Representante,Em andamento,2025-03-06
+805,217,Consultoria,11067.95,2,Inside Sales,Em andamento,2025-02-04
+806,31,CRM Basic,876.48,8,Site,Em andamento,2024-09-08
+807,481,Automação de Marketing,10094.79,1,Inside Sales,Cancelada,2025-10-27
+808,259,Consultoria,9332.9,7,Site,Concluída,2024-11-25
+809,496,CRM Enterprise,13394.17,10,WhatsApp,Cancelada,2024-06-05
+810,87,Consultoria,7605.83,8,WhatsApp,Concluída,2025-01-28
+811,163,Treinamento,10682.81,3,Site,Concluída,2025-11-21
+812,161,CRM Basic,758.02,8,Site,Em andamento,2024-08-23
+813,185,Consultoria,13900.93,5,Site,Em andamento,2025-11-24
+814,161,CRM Basic,6593.05,6,Representante,Concluída,2025-06-28
+815,285,Treinamento,12810.2,1,WhatsApp,Concluída,2025-05-14
+816,28,CRM Enterprise,3524.92,8,Site,Concluída,2026-01-21
+817,362,CRM Enterprise,7060.28,8,Inside Sales,Cancelada,2024-09-07
+818,183,Automação de Marketing,14833.4,8,Representante,Cancelada,2025-05-28
+819,58,CRM Basic,12702.99,2,Site,Concluída,2024-12-23
+820,105,CRM Basic,13035.78,3,Site,Em andamento,2025-08-16
+821,457,CRM Basic,9980.75,10,Inside Sales,Em andamento,2025-09-22
+822,393,Treinamento,8604.74,2,WhatsApp,Cancelada,2024-11-03
+823,347,Consultoria,1505.15,1,Site,Em andamento,2024-12-07
+824,349,Consultoria,1917.67,10,Inside Sales,Cancelada,2025-05-28
+825,79,Treinamento,530.23,8,Representante,Em andamento,2024-07-22
+826,490,CRM Enterprise,4112.84,6,Inside Sales,Em andamento,2025-10-29
+827,319,Consultoria,14268.35,10,WhatsApp,Concluída,2024-07-20
+828,442,Consultoria,825.37,6,Inside Sales,Em andamento,2025-02-25
+829,37,Automação de Marketing,8252.63,7,Inside Sales,Cancelada,2025-11-13
+830,131,Treinamento,2752.36,2,Inside Sales,Concluída,2026-04-10
+831,84,Treinamento,5888.69,5,WhatsApp,Concluída,2025-08-06
+832,153,Treinamento,7413.59,5,WhatsApp,Cancelada,2025-05-08
+833,341,Consultoria,1532.06,9,WhatsApp,Cancelada,2025-02-16
+834,229,Treinamento,13292.65,5,Representante,Concluída,2026-02-04
+835,388,Consultoria,6395.79,10,WhatsApp,Cancelada,2025-01-06
+836,323,CRM Enterprise,6447.65,9,Site,Cancelada,2024-08-13
+837,347,CRM Basic,3441.03,8,Inside Sales,Cancelada,2024-07-27
+838,240,Treinamento,6616.6,5,WhatsApp,Concluída,2025-07-03
+839,351,CRM Basic,13553.26,9,Representante,Cancelada,2024-11-26
+840,292,CRM Enterprise,811.15,1,Inside Sales,Em andamento,2024-05-25
+841,218,Treinamento,6253.99,10,Site,Cancelada,2025-08-16
+842,131,Automação de Marketing,8824.96,1,Inside Sales,Em andamento,2024-08-13
+843,339,CRM Basic,6996.9,7,Inside Sales,Concluída,2024-10-20
+844,214,Consultoria,13163.65,6,Representante,Em andamento,2024-11-27
+845,231,Consultoria,9394.77,6,WhatsApp,Concluída,2024-10-10
+846,95,Automação de Marketing,1265.49,5,Inside Sales,Cancelada,2025-05-25
+847,274,Treinamento,366.94,2,Inside Sales,Concluída,2025-08-18
+848,336,Treinamento,7209.09,10,Representante,Cancelada,2026-05-03
+849,317,Automação de Marketing,12215.67,6,Representante,Cancelada,2025-01-07
+850,45,CRM Enterprise,1963.83,4,Inside Sales,Concluída,2025-06-01
+851,357,CRM Enterprise,14560.75,4,Representante,Em andamento,2026-05-07
+852,75,Treinamento,9781.12,9,WhatsApp,Concluída,2025-09-28
+853,155,CRM Basic,11568.85,8,Representante,Concluída,2025-08-01
+854,60,CRM Basic,2574.97,8,Representante,Cancelada,2024-07-20
+855,11,Automação de Marketing,12910.97,4,WhatsApp,Cancelada,2025-03-07
+856,292,Treinamento,12458.82,1,Site,Concluída,2024-07-19
+857,53,Treinamento,9493.11,7,Representante,Em andamento,2024-11-04
+858,297,Automação de Marketing,8978.01,5,Inside Sales,Cancelada,2026-02-25
+859,205,Automação de Marketing,7342.9,10,Representante,Concluída,2025-01-02
+860,366,CRM Enterprise,1004.5,7,Site,Em andamento,2024-06-26
+861,33,Treinamento,4090.95,8,Inside Sales,Cancelada,2025-05-29
+862,319,Consultoria,14090.57,8,Representante,Concluída,2025-01-10
+863,83,CRM Basic,4391.36,8,Site,Cancelada,2025-03-29
+864,119,Automação de Marketing,7663.78,6,Representante,Concluída,2025-08-17
+865,453,Treinamento,4471.57,7,Site,Cancelada,2024-08-19
+866,410,CRM Basic,14567.03,10,WhatsApp,Cancelada,2024-10-31
+867,354,Treinamento,11263.89,3,WhatsApp,Concluída,2025-12-24
+868,81,CRM Enterprise,9125.66,7,Representante,Cancelada,2025-04-26
+869,121,CRM Enterprise,3220.55,1,Site,Cancelada,2026-03-26
+870,183,CRM Basic,10186.23,9,Inside Sales,Concluída,2024-10-30
+871,173,Automação de Marketing,6516.24,4,Inside Sales,Em andamento,2024-06-15
+872,115,Consultoria,7346.84,6,Inside Sales,Em andamento,2024-07-22
+873,137,Automação de Marketing,13455.13,10,Inside Sales,Em andamento,2025-10-03
+874,26,Treinamento,13906.82,8,Inside Sales,Concluída,2025-08-29
+875,401,CRM Enterprise,9197.53,9,Inside Sales,Em andamento,2025-02-06
+876,54,CRM Enterprise,2588.99,4,Site,Concluída,2025-05-25
+877,373,Treinamento,4452.63,9,Representante,Em andamento,2025-03-30
+878,446,Consultoria,1579.48,6,WhatsApp,Concluída,2024-09-07
+879,435,Treinamento,3108.17,1,WhatsApp,Cancelada,2024-08-07
+880,175,CRM Basic,4372.7,2,Site,Cancelada,2025-11-19
+881,367,Consultoria,11347.19,4,WhatsApp,Em andamento,2025-05-31
+882,216,CRM Basic,11829.51,7,Representante,Cancelada,2025-10-21
+883,460,Automação de Marketing,6935.42,6,Inside Sales,Cancelada,2025-02-22
+884,75,Automação de Marketing,11575.26,2,Inside Sales,Cancelada,2025-11-24
+885,162,CRM Basic,6084.6,7,Inside Sales,Cancelada,2024-06-30
+886,389,CRM Basic,652.7,10,Inside Sales,Em andamento,2025-04-21
+887,366,Automação de Marketing,12006.15,5,Representante,Cancelada,2025-01-03
+888,454,Automação de Marketing,10244.97,5,Site,Cancelada,2025-10-05
+889,5,Automação de Marketing,12422.35,10,WhatsApp,Em andamento,2025-01-20
+890,207,CRM Basic,6748.22,9,Representante,Em andamento,2025-12-12
+891,177,Treinamento,13326.36,4,Site,Concluída,2025-06-29
+892,19,Treinamento,8107.76,3,Site,Concluída,2024-10-06
+893,48,Consultoria,7723.91,9,Site,Em andamento,2025-06-30
+894,82,Automação de Marketing,448.98,10,Site,Concluída,2025-04-21
+895,427,Treinamento,11634.95,9,Inside Sales,Em andamento,2026-05-23
+896,31,Consultoria,12639.59,9,Site,Concluída,2026-05-17
+897,25,CRM Enterprise,11372.74,8,Site,Em andamento,2026-03-06
+898,378,Consultoria,177.68,4,WhatsApp,Cancelada,2025-05-19
+899,154,Automação de Marketing,4339.58,3,Representante,Em andamento,2024-10-13
+900,378,Consultoria,3789.74,9,WhatsApp,Cancelada,2025-09-28
+901,233,Treinamento,1560.02,7,Inside Sales,Concluída,2024-08-04
+902,32,CRM Basic,6430.81,8,WhatsApp,Cancelada,2025-12-30
+903,40,Automação de Marketing,5602.48,7,Representante,Cancelada,2024-10-12
+904,300,Treinamento,7532.53,8,Representante,Em andamento,2025-03-17
+905,499,CRM Basic,6312.14,3,WhatsApp,Cancelada,2025-04-30
+906,365,Automação de Marketing,6919.92,9,Inside Sales,Em andamento,2025-06-24
+907,109,CRM Enterprise,6885.94,3,Site,Concluída,2026-02-15
+908,309,CRM Enterprise,12799.54,2,Site,Em andamento,2024-12-31
+909,149,CRM Basic,700.2,2,Site,Cancelada,2026-02-08
+910,192,Treinamento,4618.58,1,WhatsApp,Concluída,2024-10-08
+911,402,CRM Enterprise,8885.4,5,Site,Concluída,2025-04-07
+912,94,Treinamento,12304.96,1,Inside Sales,Em andamento,2025-08-20
+913,179,CRM Enterprise,1106.71,7,Representante,Em andamento,2024-07-09
+914,159,Consultoria,8529.88,7,Representante,Em andamento,2026-02-25
+915,427,CRM Basic,9125.07,9,Representante,Cancelada,2025-01-18
+916,342,Consultoria,6791.21,2,Representante,Cancelada,2024-11-24
+917,120,Consultoria,13513.64,9,Inside Sales,Em andamento,2025-07-14
+918,456,Consultoria,6702.13,2,WhatsApp,Em andamento,2025-02-26
+919,13,Consultoria,8622.72,9,Inside Sales,Em andamento,2026-03-03
+920,287,Automação de Marketing,1368.77,9,Inside Sales,Em andamento,2024-12-06
+921,268,Treinamento,2922.0,9,Inside Sales,Concluída,2026-03-20
+922,338,CRM Basic,14049.11,1,Site,Concluída,2026-05-18
+923,126,Automação de Marketing,12462.39,8,Inside Sales,Em andamento,2025-05-29
+924,311,Automação de Marketing,4874.42,1,Representante,Concluída,2025-11-20
+925,175,Treinamento,6611.56,1,Site,Cancelada,2024-09-23
+926,132,CRM Enterprise,1456.27,9,WhatsApp,Cancelada,2026-02-20
+927,74,CRM Enterprise,2821.77,3,Site,Cancelada,2025-05-30
+928,348,Automação de Marketing,2620.95,6,WhatsApp,Concluída,2024-08-09
+929,366,Treinamento,971.68,2,Site,Concluída,2026-03-08
+930,212,Consultoria,13405.86,7,Inside Sales,Concluída,2024-11-08
+931,104,Automação de Marketing,3670.38,10,WhatsApp,Cancelada,2024-06-14
+932,261,Treinamento,11310.61,2,Site,Concluída,2026-05-06
+933,163,Treinamento,7025.87,2,Representante,Concluída,2025-01-12
+934,209,CRM Enterprise,9539.77,5,Inside Sales,Concluída,2025-12-04
+935,391,CRM Basic,8365.14,5,Representante,Cancelada,2025-01-18
+936,43,Automação de Marketing,12709.54,4,WhatsApp,Cancelada,2025-04-01
+937,277,CRM Basic,14781.1,9,Representante,Em andamento,2026-02-08
+938,232,Treinamento,722.7,10,Site,Em andamento,2025-08-17
+939,498,CRM Enterprise,2593.99,8,Site,Em andamento,2026-04-01
+940,129,Treinamento,12608.37,6,WhatsApp,Em andamento,2025-01-19
+941,431,CRM Enterprise,7703.89,3,Inside Sales,Cancelada,2025-05-30
+942,46,CRM Enterprise,5990.04,3,Site,Cancelada,2026-01-05
+943,108,Consultoria,9195.64,6,Site,Em andamento,2026-04-23
+944,232,Consultoria,4167.9,6,WhatsApp,Cancelada,2026-02-04
+945,492,CRM Enterprise,9032.75,3,Inside Sales,Em andamento,2026-01-23
+946,244,CRM Enterprise,163.76,3,Representante,Em andamento,2024-08-26
+947,459,Treinamento,10477.7,7,Inside Sales,Em andamento,2025-11-10
+948,334,CRM Enterprise,1255.09,8,Inside Sales,Cancelada,2026-05-11
+949,498,Automação de Marketing,12210.44,6,Representante,Concluída,2025-09-18
+950,430,CRM Enterprise,11542.69,2,Representante,Cancelada,2025-06-01
+951,480,CRM Enterprise,2975.56,4,Inside Sales,Cancelada,2026-02-08
+952,349,Consultoria,13828.84,4,Inside Sales,Em andamento,2025-12-07
+953,321,CRM Basic,4617.36,4,Representante,Cancelada,2025-07-14
+954,19,Automação de Marketing,4283.27,4,Inside Sales,Concluída,2024-06-25
+955,421,CRM Enterprise,9612.7,5,Representante,Concluída,2025-06-01
+956,283,Automação de Marketing,2987.18,10,WhatsApp,Concluída,2024-07-14
+957,302,CRM Enterprise,2010.87,3,Site,Em andamento,2025-02-24
+958,439,Automação de Marketing,3496.68,5,WhatsApp,Em andamento,2026-03-20
+959,12,Automação de Marketing,14880.08,10,Site,Em andamento,2024-12-25
+960,287,CRM Enterprise,13258.22,7,Inside Sales,Cancelada,2024-12-09
+961,222,Treinamento,12680.69,5,Inside Sales,Em andamento,2025-06-26
+962,266,Consultoria,7052.14,9,Inside Sales,Em andamento,2025-12-14
+963,115,Treinamento,799.77,9,Representante,Cancelada,2025-06-09
+964,3,Consultoria,5938.7,2,Inside Sales,Em andamento,2025-09-01
+965,116,Treinamento,14673.62,2,WhatsApp,Concluída,2025-10-25
+966,85,CRM Enterprise,5005.45,2,Inside Sales,Cancelada,2025-07-05
+967,222,Automação de Marketing,12140.08,6,Site,Concluída,2025-03-12
+968,56,Consultoria,7156.29,1,Site,Em andamento,2025-06-27
+969,407,CRM Enterprise,3627.48,10,Representante,Concluída,2026-04-29
+970,321,CRM Enterprise,6752.2,2,Inside Sales,Concluída,2025-06-02
+971,194,CRM Enterprise,4767.86,3,Inside Sales,Cancelada,2024-09-11
+972,29,Treinamento,4591.92,2,Inside Sales,Em andamento,2024-08-28
+973,29,Consultoria,8432.94,7,Representante,Concluída,2024-07-20
+974,317,CRM Basic,11304.25,10,Inside Sales,Cancelada,2025-06-03
+975,197,Treinamento,7016.72,10,Inside Sales,Cancelada,2025-11-08
+976,334,CRM Enterprise,14070.01,8,Site,Em andamento,2024-05-24
+977,99,CRM Enterprise,1709.3,10,Inside Sales,Em andamento,2024-08-21
+978,405,Automação de Marketing,12627.61,3,Site,Cancelada,2025-04-15
+979,216,Automação de Marketing,7272.85,8,WhatsApp,Concluída,2025-05-09
+980,71,CRM Enterprise,11975.68,3,Site,Em andamento,2026-05-19
+981,224,Consultoria,7745.57,5,WhatsApp,Concluída,2026-04-01
+982,241,Consultoria,4699.25,5,Site,Concluída,2025-01-06
+983,266,CRM Basic,8837.95,1,WhatsApp,Em andamento,2026-01-27
+984,420,CRM Enterprise,12544.11,7,Site,Concluída,2025-02-05
+985,500,CRM Basic,3085.54,2,Site,Concluída,2024-10-02
+986,342,Treinamento,7188.3,10,Site,Em andamento,2026-05-08
+987,290,Automação de Marketing,14449.67,5,Representante,Cancelada,2024-07-13
+988,84,CRM Enterprise,1662.23,8,WhatsApp,Concluída,2025-04-23
+989,328,CRM Basic,3423.07,8,WhatsApp,Concluída,2025-07-13
+990,247,Consultoria,11045.33,7,WhatsApp,Cancelada,2024-09-06
+991,95,CRM Enterprise,12408.66,6,Inside Sales,Concluída,2025-08-25
+992,184,CRM Enterprise,547.26,3,Site,Cancelada,2026-01-06
+993,100,Consultoria,9506.89,1,Inside Sales,Concluída,2025-09-28
+994,102,CRM Basic,4333.1,5,WhatsApp,Cancelada,2024-09-15
+995,434,CRM Basic,8362.12,4,Inside Sales,Concluída,2026-05-21
+996,432,CRM Enterprise,4000.65,1,WhatsApp,Cancelada,2025-07-23
+997,336,CRM Enterprise,11832.47,6,WhatsApp,Cancelada,2026-04-08
+998,234,Consultoria,3678.23,3,Representante,Em andamento,2025-04-06
+999,34,CRM Basic,1865.55,4,WhatsApp,Em andamento,2025-02-17
+1000,194,Consultoria,10445.87,10,Representante,Em andamento,2025-11-04
+1001,126,Automação de Marketing,13823.1,10,WhatsApp,Em andamento,2024-11-23
+1002,151,Consultoria,11864.86,4,Inside Sales,Em andamento,2025-01-07
+1003,408,CRM Basic,4273.09,9,Representante,Concluída,2025-10-16
+1004,373,Treinamento,1312.97,10,Inside Sales,Concluída,2025-02-02
+1005,261,Automação de Marketing,5882.93,6,Representante,Em andamento,2024-10-13
+1006,238,Consultoria,2767.08,9,Representante,Em andamento,2026-04-23
+1007,490,Consultoria,7472.4,10,Representante,Em andamento,2024-11-29
+1008,472,CRM Enterprise,11880.3,4,WhatsApp,Concluída,2025-06-17
+1009,232,Treinamento,12961.21,4,Site,Cancelada,2026-03-03
+1010,456,CRM Basic,5718.54,6,Site,Em andamento,2025-07-14
+1011,44,CRM Enterprise,2101.52,5,Representante,Em andamento,2025-08-02
+1012,181,CRM Enterprise,3529.65,8,Site,Cancelada,2026-05-14
+1013,231,Treinamento,7066.51,6,Representante,Cancelada,2026-05-18
+1014,140,CRM Basic,5797.33,8,WhatsApp,Cancelada,2024-09-09
+1015,331,CRM Enterprise,1230.74,5,Inside Sales,Cancelada,2025-03-18
+1016,475,CRM Enterprise,3493.35,2,Site,Concluída,2025-01-07
+1017,280,CRM Basic,3084.57,6,Site,Cancelada,2025-04-02
+1018,382,Consultoria,12251.92,4,WhatsApp,Em andamento,2025-09-22
+1019,379,Consultoria,8192.57,1,Site,Cancelada,2024-12-31
+1020,422,Treinamento,5264.82,7,Inside Sales,Cancelada,2026-02-18
+1021,335,CRM Basic,7738.44,7,WhatsApp,Concluída,2025-03-18
+1022,371,Treinamento,11262.14,4,Representante,Em andamento,2025-12-17
+1023,417,CRM Enterprise,6974.88,6,WhatsApp,Cancelada,2026-02-10
+1024,395,Treinamento,14134.75,4,Representante,Cancelada,2025-05-10
+1025,437,Consultoria,8420.86,3,WhatsApp,Cancelada,2025-05-03
+1026,483,Treinamento,11093.3,6,Site,Concluída,2025-11-08
+1027,215,Treinamento,6443.22,9,Site,Cancelada,2024-10-18
+1028,301,CRM Enterprise,446.27,3,WhatsApp,Cancelada,2025-11-23
+1029,291,Automação de Marketing,9484.61,10,Representante,Cancelada,2025-04-22
+1030,105,CRM Enterprise,14235.52,9,Representante,Concluída,2025-12-08
+1031,244,Automação de Marketing,1718.71,8,Site,Concluída,2026-05-10
+1032,88,Automação de Marketing,1654.27,3,Inside Sales,Em andamento,2026-02-08
+1033,309,CRM Basic,7380.34,4,Inside Sales,Cancelada,2025-01-06
+1034,146,Consultoria,3167.8,9,Inside Sales,Cancelada,2024-10-18
+1035,30,CRM Enterprise,5592.92,3,Site,Cancelada,2024-11-29
+1036,201,CRM Enterprise,2439.83,3,Representante,Cancelada,2026-03-29
+1037,381,CRM Basic,1124.57,3,WhatsApp,Cancelada,2025-04-24
+1038,222,Treinamento,12286.65,3,Site,Em andamento,2025-01-27
+1039,104,Treinamento,7586.88,5,WhatsApp,Concluída,2025-05-06
+1040,74,Treinamento,6741.4,10,WhatsApp,Em andamento,2026-01-05
+1041,169,Treinamento,13663.51,8,Representante,Em andamento,2025-05-07
+1042,21,Consultoria,11085.63,8,Site,Em andamento,2026-01-11
+1043,432,Consultoria,10703.55,7,WhatsApp,Cancelada,2025-07-23
+1044,128,Automação de Marketing,2775.71,7,Representante,Cancelada,2024-07-10
+1045,467,Automação de Marketing,9920.29,2,Representante,Em andamento,2026-03-09
+1046,485,CRM Basic,750.6,5,Site,Em andamento,2025-03-23
+1047,470,CRM Basic,1094.48,8,Representante,Em andamento,2025-03-24
+1048,63,CRM Enterprise,14930.21,2,Site,Cancelada,2024-10-02
+1049,231,CRM Basic,2556.1,9,Inside Sales,Cancelada,2026-05-19
+1050,14,Treinamento,1190.61,7,Site,Em andamento,2025-10-07
+1051,205,Treinamento,12851.02,1,Inside Sales,Cancelada,2025-12-11
+1052,59,CRM Basic,10665.58,6,Representante,Cancelada,2026-01-27
+1053,237,Automação de Marketing,1116.73,4,Representante,Concluída,2025-04-23
+1054,242,CRM Basic,12324.36,3,Inside Sales,Em andamento,2024-06-02
+1055,52,CRM Enterprise,2740.83,9,Representante,Concluída,2024-07-17
+1056,40,CRM Enterprise,10103.74,5,WhatsApp,Cancelada,2025-12-21
+1057,184,CRM Enterprise,2751.31,9,WhatsApp,Cancelada,2026-04-25
+1058,357,Automação de Marketing,811.56,2,Representante,Em andamento,2024-10-23
+1059,158,Automação de Marketing,6715.4,1,Inside Sales,Cancelada,2025-06-15
+1060,393,CRM Basic,3105.9,6,WhatsApp,Concluída,2025-01-15
+1061,47,CRM Enterprise,338.97,1,Site,Concluída,2025-09-26
+1062,349,CRM Basic,10067.35,2,WhatsApp,Em andamento,2024-07-14
+1063,86,Automação de Marketing,755.79,2,Site,Cancelada,2025-10-22
+1064,288,Automação de Marketing,9439.12,4,Representante,Cancelada,2026-01-03
+1065,62,CRM Enterprise,3562.88,6,Site,Concluída,2025-12-01
+1066,8,Consultoria,6091.88,1,Representante,Concluída,2024-07-01
+1067,235,Consultoria,3379.43,10,Site,Concluída,2024-10-16
+1068,35,Treinamento,13293.35,5,Representante,Concluída,2025-01-22
+1069,365,Automação de Marketing,8089.1,3,Site,Concluída,2025-07-20
+1070,308,Treinamento,4932.88,3,Site,Concluída,2025-06-30
+1071,326,Consultoria,11449.57,8,Inside Sales,Cancelada,2024-06-17
+1072,10,Automação de Marketing,9167.15,8,Representante,Em andamento,2026-05-03
+1073,328,Automação de Marketing,11153.03,10,Inside Sales,Concluída,2025-09-25
+1074,11,CRM Enterprise,9283.6,5,WhatsApp,Em andamento,2025-09-11
+1075,220,Automação de Marketing,11382.96,2,Inside Sales,Concluída,2025-04-17
+1076,192,CRM Basic,7531.02,3,Representante,Concluída,2025-07-11
+1077,329,Automação de Marketing,664.81,8,Site,Concluída,2026-01-28
+1078,143,CRM Enterprise,4831.33,9,Representante,Em andamento,2024-11-29
+1079,417,CRM Enterprise,4397.98,4,Site,Cancelada,2025-05-06
+1080,125,CRM Enterprise,3166.68,4,WhatsApp,Em andamento,2024-06-01
+1081,447,Consultoria,5784.14,3,Representante,Em andamento,2025-04-21
+1082,4,Treinamento,1062.79,2,WhatsApp,Concluída,2025-03-30
+1083,325,CRM Basic,14880.99,3,Inside Sales,Concluída,2025-03-02
+1084,304,CRM Basic,8277.82,4,Inside Sales,Cancelada,2025-04-13
+1085,372,CRM Basic,7059.41,4,WhatsApp,Cancelada,2026-02-24
+1086,91,Consultoria,9127.18,5,Representante,Em andamento,2025-09-11
+1087,104,Treinamento,4150.73,2,Site,Cancelada,2024-08-03
+1088,194,Treinamento,2599.71,7,Representante,Concluída,2025-11-11
+1089,420,Treinamento,14310.99,1,Representante,Cancelada,2026-01-20
+1090,438,Consultoria,1340.17,10,WhatsApp,Em andamento,2025-02-13
+1091,373,Treinamento,2717.92,8,Site,Cancelada,2025-06-21
+1092,146,Automação de Marketing,5689.69,8,Inside Sales,Cancelada,2025-06-10
+1093,70,CRM Basic,10751.46,3,WhatsApp,Concluída,2025-07-02
+1094,7,Consultoria,12938.66,8,Representante,Cancelada,2025-09-13
+1095,482,Consultoria,5980.28,7,Representante,Cancelada,2025-08-24
+1096,329,CRM Enterprise,14814.08,7,Inside Sales,Concluída,2024-12-20
+1097,198,CRM Basic,13988.73,4,Representante,Cancelada,2024-11-29
+1098,395,Consultoria,13704.98,9,Representante,Em andamento,2025-10-15
+1099,353,CRM Enterprise,5585.89,7,Representante,Em andamento,2026-03-12
+1100,127,CRM Enterprise,3711.06,6,Inside Sales,Em andamento,2024-09-10
+1101,341,Consultoria,9715.47,10,Representante,Em andamento,2025-04-28
+1102,76,Automação de Marketing,3888.89,10,WhatsApp,Concluída,2024-10-16
+1103,60,Treinamento,11587.49,7,Inside Sales,Em andamento,2024-12-03
+1104,466,Treinamento,2913.47,3,Representante,Cancelada,2025-02-09
+1105,355,Automação de Marketing,4603.07,7,Site,Em andamento,2025-05-13
+1106,211,CRM Enterprise,11311.69,2,Site,Concluída,2025-03-31
+1107,138,Treinamento,11256.08,5,Inside Sales,Concluída,2026-04-23
+1108,418,CRM Enterprise,7426.68,2,Representante,Em andamento,2025-11-27
+1109,214,Treinamento,9852.37,3,WhatsApp,Cancelada,2025-02-02
+1110,96,CRM Basic,10590.3,8,WhatsApp,Em andamento,2024-11-07
+1111,486,Automação de Marketing,1742.55,4,WhatsApp,Concluída,2025-07-07
+1112,31,CRM Basic,11273.74,5,Representante,Cancelada,2025-05-19
+1113,321,CRM Enterprise,13703.27,3,Inside Sales,Cancelada,2024-05-31
+1114,44,Consultoria,5728.16,2,Site,Concluída,2024-07-07
+1115,300,Treinamento,3598.22,2,Inside Sales,Concluída,2025-06-13
+1116,137,CRM Enterprise,11301.8,10,Inside Sales,Concluída,2025-09-20
+1117,109,CRM Enterprise,7882.78,7,Site,Cancelada,2026-01-07
+1118,243,Automação de Marketing,11377.98,7,Site,Cancelada,2026-03-04
+1119,350,Consultoria,13363.27,4,Site,Em andamento,2025-06-29
+1120,205,CRM Enterprise,5738.69,6,Site,Concluída,2025-07-17
+1121,2,Treinamento,6908.1,3,Inside Sales,Em andamento,2025-03-13
+1122,63,Consultoria,13048.18,4,Site,Cancelada,2025-10-31
+1123,317,Treinamento,10324.15,9,Representante,Em andamento,2025-10-01
+1124,97,Consultoria,146.62,1,Site,Concluída,2026-01-16
+1125,497,Consultoria,12132.61,8,WhatsApp,Em andamento,2024-07-02
+1126,249,Automação de Marketing,6062.46,2,Site,Cancelada,2024-12-05
+1127,481,Treinamento,13979.1,2,Representante,Cancelada,2025-11-02
+1128,311,CRM Basic,3006.65,9,Inside Sales,Concluída,2026-03-18
+1129,255,Consultoria,11972.63,9,Representante,Concluída,2024-12-17
+1130,459,CRM Enterprise,6749.67,8,WhatsApp,Concluída,2026-03-26
+1131,109,CRM Enterprise,2639.45,2,Representante,Em andamento,2025-11-11
+1132,15,Consultoria,2487.51,7,Site,Concluída,2025-11-12
+1133,369,Treinamento,3938.67,2,WhatsApp,Em andamento,2025-02-07
+1134,325,CRM Enterprise,10908.67,6,WhatsApp,Em andamento,2026-03-07
+1135,393,CRM Enterprise,13865.33,6,Representante,Em andamento,2024-09-19
+1136,381,Treinamento,11066.44,9,Representante,Concluída,2024-09-19
+1137,115,Consultoria,3960.5,2,Inside Sales,Concluída,2026-04-17
+1138,175,CRM Basic,11134.66,2,Site,Concluída,2025-07-08
+1139,437,Treinamento,4769.25,10,Inside Sales,Cancelada,2025-09-01
+1140,32,CRM Basic,8891.89,7,Representante,Cancelada,2026-04-01
+1141,395,CRM Basic,5538.86,9,WhatsApp,Concluída,2025-03-20
+1142,203,Treinamento,236.91,6,WhatsApp,Cancelada,2026-05-23
+1143,429,Treinamento,3361.67,3,Site,Concluída,2025-08-08
+1144,383,CRM Enterprise,10013.73,10,Site,Cancelada,2024-12-20
+1145,258,CRM Enterprise,14855.99,5,Representante,Em andamento,2026-04-13
+1146,425,Consultoria,3314.01,7,Inside Sales,Cancelada,2026-03-16
+1147,79,CRM Basic,12435.48,4,Inside Sales,Concluída,2025-07-26
+1148,439,Treinamento,7363.82,5,WhatsApp,Concluída,2025-03-08
+1149,281,Treinamento,5945.06,8,Site,Cancelada,2025-09-10
+1150,201,Consultoria,1170.17,5,WhatsApp,Em andamento,2024-09-05
+1151,439,CRM Enterprise,8265.35,3,Site,Em andamento,2025-04-17
+1152,444,Consultoria,12095.57,8,WhatsApp,Em andamento,2024-07-25
+1153,71,Treinamento,6684.07,5,WhatsApp,Concluída,2024-06-04
+1154,112,CRM Basic,12084.94,1,Site,Em andamento,2024-12-08
+1155,439,CRM Basic,8677.66,7,Representante,Em andamento,2025-05-27
+1156,431,CRM Enterprise,2606.52,2,Site,Cancelada,2026-02-26
+1157,92,CRM Enterprise,14181.44,9,Site,Em andamento,2024-07-31
+1158,223,Treinamento,14548.93,4,Inside Sales,Concluída,2024-11-27
+1159,124,Consultoria,6010.01,10,WhatsApp,Em andamento,2025-01-22
+1160,382,CRM Enterprise,5693.04,8,Representante,Cancelada,2025-01-30
+1161,324,Consultoria,9832.61,1,Inside Sales,Concluída,2024-12-15
+1162,43,Automação de Marketing,1918.57,4,Inside Sales,Em andamento,2025-09-10
+1163,294,Treinamento,14811.51,5,Inside Sales,Em andamento,2025-01-29
+1164,93,Treinamento,5821.0,5,WhatsApp,Concluída,2024-10-27
+1165,167,Automação de Marketing,1046.12,3,Representante,Em andamento,2025-04-16
+1166,11,Automação de Marketing,5967.57,9,Representante,Concluída,2026-04-21
+1167,266,Automação de Marketing,12573.44,2,WhatsApp,Em andamento,2026-02-15
+1168,460,Automação de Marketing,1848.16,3,Inside Sales,Em andamento,2025-09-23
+1169,229,CRM Enterprise,12027.64,1,WhatsApp,Em andamento,2025-05-30
+1170,106,CRM Enterprise,9824.34,9,Site,Concluída,2025-04-21
+1171,44,Automação de Marketing,14700.93,5,Site,Em andamento,2024-10-24
+1172,88,CRM Enterprise,6403.46,4,Site,Concluída,2025-12-09
+1173,485,Consultoria,14192.34,9,Representante,Concluída,2025-08-02
+1174,296,Consultoria,7407.6,9,Site,Em andamento,2025-01-28
+1175,276,CRM Enterprise,7707.8,1,WhatsApp,Concluída,2026-03-27
+1176,97,CRM Basic,2210.84,3,WhatsApp,Em andamento,2024-09-15
+1177,184,Automação de Marketing,4233.2,7,Inside Sales,Em andamento,2025-07-23
+1178,131,CRM Basic,3984.05,7,Representante,Concluída,2025-08-27
+1179,484,Treinamento,3887.27,3,WhatsApp,Concluída,2024-05-24
+1180,323,CRM Basic,11016.86,6,WhatsApp,Cancelada,2026-03-11
+1181,421,Treinamento,2387.02,7,Inside Sales,Em andamento,2025-12-22
+1182,127,CRM Enterprise,1255.12,9,Inside Sales,Em andamento,2025-08-20
+1183,281,Consultoria,6161.04,2,Site,Cancelada,2024-12-10
+1184,399,CRM Basic,4171.47,5,Inside Sales,Concluída,2024-07-14
+1185,194,CRM Basic,14694.33,7,Inside Sales,Concluída,2024-12-21
+1186,90,Consultoria,7944.49,10,Representante,Concluída,2024-10-05
+1187,271,Automação de Marketing,5298.61,5,Site,Em andamento,2026-04-15
+1188,51,CRM Basic,13458.9,6,Representante,Concluída,2024-11-01
+1189,177,Automação de Marketing,12110.67,9,Representante,Cancelada,2024-08-21
+1190,304,CRM Enterprise,2000.83,9,WhatsApp,Em andamento,2026-03-22
+1191,65,Automação de Marketing,2225.79,5,Inside Sales,Em andamento,2024-11-08
+1192,328,CRM Basic,14620.05,10,Representante,Em andamento,2024-06-16
+1193,235,Consultoria,2828.26,8,Site,Cancelada,2025-05-23
+1194,488,CRM Basic,6473.7,5,Inside Sales,Cancelada,2025-03-17
+1195,209,CRM Enterprise,11581.62,2,Inside Sales,Em andamento,2025-09-27
+1196,123,CRM Basic,14178.52,10,Inside Sales,Concluída,2025-03-21
+1197,381,Treinamento,4359.18,1,Representante,Em andamento,2026-01-21
+1198,261,CRM Basic,13993.38,8,Representante,Em andamento,2025-11-08
+1199,351,Automação de Marketing,14969.52,2,Representante,Concluída,2026-05-17
+1200,316,CRM Enterprise,2933.74,7,Site,Concluída,2025-01-17

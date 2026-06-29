@@ -1,0 +1,2501 @@
+interacao_id,cliente_id,tipo_interacao,responsavel,duracao_minutos,satisfacao_cliente,data_interacao
+1,379,Suporte,Sr. Luiz Henrique Rocha,92,5,2026-03-27 20:18:38
+2,22,Suporte,Matheus Almeida,62,2,2026-03-09 09:53:53
+3,346,Suporte,Cauê Teixeira,120,2,2025-10-02 11:37:01
+4,90,Ligação,Enzo Peixoto,51,2,2026-02-13 06:46:27
+5,264,WhatsApp,Manuela Gomes,11,4,2025-07-22 03:45:48
+6,254,Reunião,Pedro Lucas Duarte,26,3,2026-02-23 04:53:21
+7,497,Ligação,Nathan Teixeira,48,2,2026-03-06 07:16:41
+8,426,Suporte,Sra. Emanuelly Novaes,113,1,2026-05-15 03:31:44
+9,149,WhatsApp,Ian da Mota,66,3,2026-01-25 13:04:20
+10,136,E-mail,Heitor Sales,5,5,2025-09-14 05:47:02
+11,202,E-mail,Sra. Alice Peixoto,44,5,2025-12-31 10:26:57
+12,423,Ligação,Sra. Brenda Cavalcanti,64,5,2025-07-30 17:42:27
+13,435,Reunião,Milena Novaes,12,3,2026-03-23 07:21:51
+14,4,Suporte,Sr. Enzo Gabriel Azevedo,63,3,2025-06-21 01:27:30
+15,153,WhatsApp,Benício Gomes,18,1,2026-03-28 22:56:09
+16,180,E-mail,Breno Pires,56,3,2025-08-09 10:23:36
+17,5,Ligação,Dr. Bernardo Correia,60,4,2025-10-28 03:33:39
+18,102,Ligação,Marcelo da Cruz,72,5,2025-12-23 07:31:18
+19,461,E-mail,Raquel Azevedo,57,1,2025-09-20 18:52:57
+20,468,Reunião,Dr. Enrico Nunes,5,2,2025-09-13 12:24:24
+21,394,WhatsApp,Francisco Duarte,33,4,2026-02-02 05:43:28
+22,203,WhatsApp,Lara da Rosa,43,3,2025-11-21 06:01:01
+23,220,E-mail,Bruna Porto,73,3,2026-04-16 17:44:17
+24,56,Reunião,Alexandre Cardoso,89,4,2025-11-21 16:47:03
+25,83,E-mail,Esther Ribeiro,50,4,2025-08-20 17:35:47
+26,3,WhatsApp,Marcela Araújo,118,2,2025-06-08 19:33:45
+27,57,E-mail,Clarice Caldeira,41,1,2026-05-04 07:46:32
+28,69,Reunião,João Lucas Freitas,58,3,2025-09-10 01:03:56
+29,462,Ligação,Luiz Miguel Costela,25,2,2026-04-23 10:14:28
+30,486,Reunião,Dr. Thiago das Neves,90,3,2025-08-09 19:44:14
+31,61,Reunião,João Lucas Barros,67,5,2026-05-04 14:07:37
+32,254,E-mail,Augusto Monteiro,46,4,2026-02-25 17:48:28
+33,257,Reunião,Gabrielly Castro,21,1,2025-08-24 20:49:19
+34,491,Ligação,Srta. Maitê Carvalho,106,1,2025-11-12 00:52:27
+35,65,E-mail,Heloísa Ribeiro,49,5,2025-10-17 11:59:03
+36,7,E-mail,Luiz Otávio Aragão,11,3,2026-05-18 02:30:46
+37,220,Suporte,Heitor Correia,99,1,2025-10-17 21:48:41
+38,223,Reunião,Davi Luiz Sales,42,3,2025-07-09 18:54:19
+39,249,Ligação,Rafaela Vieira,102,4,2025-07-28 00:56:29
+40,127,Suporte,Breno Azevedo,24,5,2025-06-22 06:45:24
+41,96,E-mail,Natália Fernandes,40,1,2025-07-17 08:28:17
+42,443,WhatsApp,Luiz Miguel da Mata,94,2,2025-10-12 08:29:08
+43,342,Reunião,Maria Alice Carvalho,30,4,2026-03-16 04:08:18
+44,362,Ligação,Dra. Lívia Carvalho,94,5,2026-04-30 09:13:56
+45,313,E-mail,Dr. Emanuel da Mata,29,5,2026-01-25 02:27:03
+46,323,E-mail,Fernando Freitas,34,1,2025-09-02 15:01:10
+47,68,Reunião,Alana Moraes,9,3,2026-04-27 16:51:57
+48,99,E-mail,João Gabriel Araújo,59,1,2025-07-08 20:20:44
+49,316,E-mail,Dr. Theo Moreira,16,1,2025-08-14 01:04:00
+50,195,Reunião,Dra. Stephany Rocha,72,3,2025-10-13 07:20:35
+51,359,E-mail,Lívia Araújo,33,3,2025-10-03 00:40:32
+52,219,Reunião,Enrico Oliveira,12,5,2026-03-16 05:13:05
+53,219,Ligação,Laís Cunha,43,1,2026-02-06 08:30:21
+54,138,WhatsApp,Luiz Felipe Monteiro,40,3,2025-12-06 01:33:19
+55,365,Reunião,Esther Ribeiro,36,3,2025-06-13 06:25:57
+56,459,Ligação,Emanuelly da Rocha,28,1,2025-06-19 09:45:58
+57,1,Ligação,Ana Beatriz Fernandes,89,3,2025-10-08 11:41:56
+58,109,WhatsApp,Paulo Ferreira,65,3,2025-12-26 10:10:52
+59,466,Suporte,Kamilly Pereira,17,4,2026-05-13 06:52:39
+60,95,WhatsApp,Beatriz Aragão,67,3,2026-01-30 21:52:47
+61,172,WhatsApp,Davi Costa,19,1,2025-08-28 22:36:10
+62,343,Ligação,Lara da Paz,92,5,2025-09-18 21:41:52
+63,395,E-mail,João Pedro Ribeiro,47,3,2025-07-15 22:12:30
+64,380,WhatsApp,Nicolas Rodrigues,100,5,2025-05-27 16:38:00
+65,271,Suporte,André Silveira,52,2,2025-11-19 09:33:33
+66,333,WhatsApp,Thales Fogaça,31,5,2026-02-24 02:37:15
+67,197,Ligação,Theo Ramos,118,1,2025-07-17 17:30:20
+68,67,Suporte,João Felipe Gomes,20,1,2026-05-11 09:51:49
+69,301,E-mail,André Aragão,29,4,2025-08-17 02:41:21
+70,474,Ligação,Dr. Lucca Cavalcanti,14,5,2025-09-28 13:37:06
+71,317,WhatsApp,Paulo Oliveira,43,4,2025-09-02 06:25:35
+72,390,E-mail,Thomas Jesus,73,2,2025-10-24 00:23:29
+73,23,E-mail,João Vitor Souza,29,4,2025-10-30 10:07:08
+74,282,WhatsApp,Luiz Otávio Cardoso,119,5,2025-06-01 22:28:56
+75,500,WhatsApp,Sr. Vicente Caldeira,119,3,2025-08-27 17:02:20
+76,230,Ligação,Leonardo Araújo,60,1,2025-11-03 17:00:40
+77,248,Reunião,Nicolas Souza,72,5,2026-03-12 10:29:55
+78,405,Ligação,Maria Alice Cardoso,26,5,2025-07-28 02:08:49
+79,141,E-mail,Theo Melo,42,1,2026-03-08 15:16:03
+80,490,Suporte,Maitê Cardoso,12,2,2025-11-03 22:31:13
+81,380,Reunião,Guilherme Gomes,68,5,2025-05-28 16:55:02
+82,446,Suporte,Dr. Calebe da Rosa,14,2,2026-04-11 18:53:31
+83,225,Suporte,Camila Santos,54,5,2025-12-18 10:57:39
+84,400,Reunião,Sr. Davi Lucas da Cunha,56,5,2025-09-29 09:22:24
+85,140,E-mail,Danilo Gonçalves,28,1,2025-07-18 13:04:56
+86,82,Suporte,Mariana Farias,32,5,2026-05-16 04:16:23
+87,357,Ligação,Augusto da Conceição,117,5,2026-04-14 15:56:23
+88,234,Suporte,Sr. Samuel da Mota,95,5,2026-01-08 14:14:40
+89,133,WhatsApp,Sr. João Lucas Gonçalves,114,2,2025-07-07 10:21:51
+90,152,WhatsApp,Vitor Gabriel da Conceição,75,1,2026-01-17 19:30:23
+91,88,E-mail,Maria Fernanda Almeida,10,5,2025-08-12 21:38:21
+92,122,WhatsApp,Arthur Fogaça,10,2,2026-04-22 21:24:25
+93,483,WhatsApp,Dr. Leandro Rocha,22,3,2025-06-30 06:08:18
+94,448,Ligação,Rafaela Moreira,87,2,2025-06-20 07:33:24
+95,422,E-mail,Lavínia da Cruz,73,1,2025-07-29 02:02:34
+96,1,WhatsApp,Anthony Oliveira,85,5,2025-12-25 18:15:00
+97,498,WhatsApp,Srta. Emilly Rezende,46,1,2026-05-21 17:04:28
+98,485,Suporte,Letícia Pinto,38,2,2025-07-07 17:19:46
+99,210,Suporte,Nicole Barbosa,42,3,2025-06-05 15:24:51
+100,30,Ligação,Srta. Yasmin Santos,110,3,2025-10-30 00:17:59
+101,113,WhatsApp,Vicente Pires,27,3,2025-06-20 02:15:13
+102,498,Ligação,Rebeca Mendes,73,5,2025-09-17 22:17:11
+103,55,Reunião,Danilo Souza,88,3,2025-10-08 14:20:56
+104,446,Suporte,Ana Carolina Oliveira,75,2,2025-10-04 16:36:35
+105,419,Reunião,Dra. Alana da Rocha,33,3,2025-10-25 17:42:58
+106,138,E-mail,Clara Campos,79,4,2025-08-16 10:26:11
+107,80,Reunião,Luna Carvalho,34,4,2025-06-18 19:18:08
+108,189,E-mail,Paulo da Conceição,120,4,2025-11-21 05:51:57
+109,48,Reunião,Sra. Fernanda Viana,28,4,2026-02-07 08:49:52
+110,95,E-mail,Lara Porto,29,5,2025-09-17 06:01:07
+111,252,E-mail,Calebe da Rocha,87,3,2026-01-27 07:54:49
+112,11,WhatsApp,Giovanna Peixoto,25,2,2025-10-13 02:13:34
+113,419,Reunião,João Lucas Aragão,92,5,2025-07-14 16:32:55
+114,97,Ligação,Raquel Pires,23,1,2025-07-30 03:26:10
+115,219,E-mail,Luiz Otávio Vieira,63,4,2025-09-14 19:54:56
+116,52,Suporte,Bárbara Costela,22,1,2025-07-24 03:49:27
+117,309,Ligação,Otávio Nascimento,53,4,2025-12-10 09:44:44
+118,11,Ligação,João Guilherme da Mota,110,1,2025-07-12 07:44:20
+119,391,Ligação,Julia Lima,21,2,2026-02-26 02:52:25
+120,395,Ligação,Ana Luiza da Cruz,39,2,2026-05-14 00:36:40
+121,481,Suporte,Esther Barros,6,1,2025-10-20 20:40:38
+122,491,Ligação,Ana Clara Gomes,74,3,2026-04-25 22:26:16
+123,437,Ligação,Lucca Novaes,30,2,2025-07-07 15:35:23
+124,246,Suporte,Mirella Azevedo,119,4,2026-03-01 11:42:23
+125,418,E-mail,Ana Júlia das Neves,44,3,2025-09-18 12:38:39
+126,246,E-mail,Cauê Mendes,36,1,2025-09-17 23:13:03
+127,279,WhatsApp,Marcos Vinicius Cardoso,85,5,2025-12-24 02:03:45
+128,64,Ligação,Ana Beatriz Melo,110,1,2025-10-01 01:23:38
+129,53,Suporte,Sofia Silva,42,1,2026-04-27 14:47:52
+130,262,Reunião,Luiz Henrique da Mota,23,1,2025-08-07 15:43:39
+131,468,E-mail,Lívia Porto,8,2,2026-02-07 18:14:43
+132,219,Reunião,João Gabriel Freitas,23,3,2025-11-02 21:20:47
+133,336,WhatsApp,Bruno Nunes,33,4,2026-04-30 04:23:24
+134,352,Ligação,Erick Barbosa,67,2,2025-09-13 17:08:50
+135,57,E-mail,Srta. Mirella Costela,18,3,2026-05-20 22:18:56
+136,183,Ligação,Marcela da Cunha,83,3,2025-10-04 02:37:07
+137,61,WhatsApp,Dr. Calebe Novaes,15,1,2026-02-17 03:41:24
+138,310,E-mail,Matheus Peixoto,27,4,2026-02-27 16:09:18
+139,272,WhatsApp,Stephany Souza,81,2,2025-11-18 22:56:35
+140,348,Reunião,Melissa Jesus,24,3,2025-08-21 01:21:53
+141,320,WhatsApp,Letícia Duarte,49,1,2025-11-05 23:41:30
+142,139,Reunião,Srta. Milena Moura,89,3,2026-02-08 01:58:36
+143,478,WhatsApp,Lorena Lima,108,1,2025-06-22 02:17:06
+144,404,Ligação,Emanuella Lima,115,2,2025-06-26 09:47:56
+145,399,E-mail,Theo Mendes,45,2,2025-06-09 13:15:45
+146,200,Reunião,Dra. Gabriela Lima,97,4,2026-01-19 22:07:08
+147,418,Ligação,Enzo da Cruz,19,5,2025-07-27 22:36:20
+148,219,WhatsApp,Ana Sophia Santos,23,1,2026-02-07 20:32:47
+149,166,E-mail,Evelyn Rocha,28,4,2025-06-14 16:52:00
+150,181,WhatsApp,Sra. Heloísa da Mota,68,4,2026-04-21 19:00:44
+151,247,Reunião,Yago Cavalcanti,82,3,2026-04-23 02:30:29
+152,71,E-mail,Lara da Rocha,54,4,2026-02-03 06:49:33
+153,282,Reunião,Sr. João Guilherme da Conceição,73,5,2025-07-11 14:11:06
+154,253,Suporte,Sr. Kevin da Costa,73,2,2025-10-05 08:01:14
+155,197,Ligação,João Guilherme Caldeira,79,4,2025-07-20 23:54:06
+156,270,Suporte,Rebeca Viana,104,2,2025-12-23 19:18:38
+157,360,Ligação,João Vitor Santos,35,3,2025-12-11 07:39:07
+158,2,E-mail,Dr. Noah Teixeira,113,1,2025-12-31 23:33:44
+159,186,Suporte,Srta. Ana Julia Nogueira,65,2,2026-02-01 18:54:22
+160,472,Ligação,Luiz Felipe Teixeira,12,3,2025-09-24 09:14:38
+161,185,E-mail,Marcela da Mota,42,4,2025-07-31 05:22:51
+162,74,Suporte,Luna Cardoso,58,2,2025-08-20 04:19:39
+163,108,E-mail,Benjamin Sales,12,2,2026-05-08 12:49:38
+164,61,E-mail,Lívia Oliveira,53,1,2025-08-30 14:27:59
+165,357,Reunião,Maria Alice Oliveira,52,1,2026-03-09 18:57:05
+166,360,Ligação,Isaac da Paz,89,5,2025-09-01 07:41:02
+167,38,Reunião,Daniela Ramos,112,5,2026-04-10 06:16:50
+168,446,E-mail,Emanuella Santos,8,2,2025-07-18 23:16:23
+169,188,E-mail,Maitê Vieira,15,2,2025-08-01 11:27:35
+170,40,Ligação,Dr. Vinicius Peixoto,77,4,2025-06-09 17:27:43
+171,77,E-mail,Maria Cecília Oliveira,65,2,2025-10-26 06:45:16
+172,384,Suporte,Ana Vitória Moraes,94,3,2025-07-03 11:32:26
+173,241,Reunião,Guilherme da Cruz,97,3,2025-05-26 12:52:02
+174,228,Ligação,Maria Cecília Cavalcanti,41,1,2025-10-25 10:02:46
+175,80,Ligação,Augusto Pereira,117,1,2025-06-21 04:45:31
+176,310,E-mail,Lucca Duarte,69,2,2025-10-18 05:08:12
+177,6,Reunião,Emanuella Costa,111,4,2026-03-18 22:22:33
+178,349,Reunião,Lara Gomes,75,3,2025-12-05 18:32:39
+179,471,Suporte,Dr. Matheus Porto,69,3,2025-12-16 09:23:10
+180,364,E-mail,Bruna Carvalho,59,2,2025-11-21 17:24:07
+181,140,Ligação,Caio da Cruz,71,4,2026-04-21 22:29:16
+182,487,E-mail,Maria Alice Costa,100,2,2025-09-30 04:46:43
+183,206,Suporte,Marcos Vinicius Nogueira,12,2,2025-11-08 03:20:38
+184,201,E-mail,Pedro Lucas da Costa,110,5,2025-10-05 08:46:21
+185,310,Ligação,Renan Martins,109,4,2025-06-10 10:51:10
+186,245,WhatsApp,Ana Porto,88,4,2026-01-28 02:04:59
+187,424,Reunião,Vitor Hugo Araújo,26,1,2026-03-30 02:04:10
+188,412,WhatsApp,Luiz Henrique Moura,87,4,2025-07-31 15:15:57
+189,100,WhatsApp,Ana Sophia da Paz,18,1,2025-08-13 16:07:53
+190,40,WhatsApp,Dr. Luigi Mendes,82,3,2026-02-21 11:47:27
+191,15,E-mail,Catarina Rodrigues,41,2,2025-07-22 06:00:07
+192,278,Ligação,Leandro Sales,13,2,2025-09-21 13:15:50
+193,306,Ligação,Kevin da Rocha,101,3,2025-09-18 11:58:40
+194,97,Suporte,Manuela da Cunha,30,1,2025-11-12 21:15:25
+195,124,WhatsApp,Sophie Gonçalves,15,5,2025-09-21 10:37:55
+196,290,Ligação,Sr. Marcos Vinicius Araújo,77,4,2025-08-30 18:32:10
+197,24,Ligação,Eloah Azevedo,45,1,2025-05-23 22:14:18
+198,484,WhatsApp,Sr. Vitor Gabriel Cunha,6,3,2025-12-25 13:57:04
+199,385,WhatsApp,Julia Mendes,55,5,2025-07-31 18:13:43
+200,100,WhatsApp,Dra. Lívia Barbosa,101,4,2026-04-04 20:47:53
+201,372,WhatsApp,Gustavo da Luz,21,1,2026-01-24 14:15:17
+202,170,Reunião,João Guilherme da Costa,119,5,2025-11-01 19:36:40
+203,52,Suporte,João Guilherme Fogaça,108,2,2026-04-18 02:32:35
+204,13,Suporte,Vitor Mendes,106,4,2026-01-21 02:01:06
+205,245,Suporte,Eduardo da Rocha,116,1,2025-09-28 11:52:12
+206,149,E-mail,Thomas das Neves,24,4,2026-05-07 15:55:26
+207,41,Ligação,Fernando Sales,96,2,2026-04-11 18:50:42
+208,453,E-mail,Eduarda Porto,108,2,2026-05-09 15:33:20
+209,394,E-mail,Diego da Mota,69,5,2025-11-25 17:04:05
+210,374,Suporte,Theo Costela,88,5,2026-03-12 03:36:29
+211,477,WhatsApp,Larissa Rodrigues,62,2,2025-11-26 18:05:38
+212,174,WhatsApp,Sr. Yago Nogueira,51,5,2025-11-05 10:54:07
+213,439,Reunião,Stephany Moraes,10,4,2025-10-23 14:09:15
+214,123,E-mail,Danilo da Mota,83,5,2025-07-08 08:55:25
+215,39,E-mail,Clara da Paz,77,4,2025-09-19 12:48:48
+216,50,Ligação,Letícia Cardoso,23,3,2026-02-26 09:51:28
+217,281,Ligação,Dr. Renan Cardoso,68,1,2026-01-23 07:48:18
+218,233,WhatsApp,Lorena Freitas,26,3,2025-06-30 09:07:08
+219,83,Ligação,Fernanda Teixeira,40,5,2025-11-21 00:04:05
+220,187,WhatsApp,Benjamin da Paz,16,1,2026-02-19 01:12:52
+221,92,Reunião,Matheus Novaes,38,4,2025-08-09 09:24:57
+222,132,Reunião,Cecília Silveira,88,2,2025-09-13 05:40:41
+223,482,Ligação,Leonardo Pereira,77,4,2025-06-30 16:43:10
+224,21,WhatsApp,Guilherme Cunha,114,3,2025-10-11 20:52:23
+225,206,Reunião,Pietro Souza,114,5,2026-01-01 13:08:36
+226,470,E-mail,Stephany da Conceição,61,3,2025-07-04 01:33:15
+227,263,Suporte,Erick Alves,45,3,2025-05-30 15:49:20
+228,43,Reunião,Alícia Costela,69,4,2025-10-19 23:01:08
+229,135,Ligação,Gustavo Freitas,84,1,2025-07-25 05:05:27
+230,380,E-mail,João Pedro Sales,94,5,2025-06-23 08:51:19
+231,5,E-mail,Emilly da Cruz,114,1,2026-05-11 03:33:12
+232,149,Reunião,Srta. Lavínia Campos,25,5,2025-11-12 15:57:15
+233,205,Ligação,Otávio Lima,33,4,2025-10-20 20:31:26
+234,448,Reunião,Sr. Nicolas Pinto,90,1,2025-11-19 02:29:33
+235,179,Reunião,Sra. Júlia da Rosa,64,5,2025-06-16 09:48:28
+236,461,Reunião,João Gomes,18,1,2025-09-21 16:23:21
+237,93,Ligação,Beatriz Vieira,55,4,2025-11-29 07:57:42
+238,103,Reunião,Beatriz Vieira,47,1,2026-01-08 16:37:40
+239,163,WhatsApp,Isabella Farias,82,4,2026-01-26 14:52:01
+240,109,Reunião,Luiz Miguel da Paz,19,3,2025-11-15 07:01:35
+241,233,Ligação,Thiago Costela,74,2,2025-06-22 07:08:45
+242,486,Reunião,Camila Gomes,23,2,2025-10-27 19:53:37
+243,164,Suporte,Marcela Viana,9,5,2025-11-05 22:49:04
+244,397,Reunião,Catarina Lopes,12,3,2025-06-01 15:10:21
+245,405,Reunião,Mariane Costa,65,2,2025-06-16 06:05:25
+246,28,E-mail,Mirella Pinto,116,1,2025-08-16 22:04:28
+247,488,Reunião,Yago Alves,39,3,2025-06-27 15:36:05
+248,326,E-mail,Pedro Miguel Pires,15,2,2026-03-07 17:23:57
+249,36,WhatsApp,Sr. Carlos Eduardo Pereira,56,1,2025-09-30 20:43:13
+250,153,Reunião,Diego Oliveira,116,4,2026-05-09 19:07:05
+251,269,E-mail,Dr. Igor Peixoto,90,3,2025-10-17 00:54:33
+252,95,Ligação,Marcelo Aragão,16,4,2025-12-30 21:04:41
+253,176,WhatsApp,Igor Novaes,26,2,2026-05-03 17:58:30
+254,179,Reunião,Caio Fernandes,66,4,2025-08-13 20:59:03
+255,275,E-mail,Maria Cecília Barros,94,4,2026-02-06 14:01:39
+256,182,Suporte,Francisco Melo,54,1,2025-07-21 10:29:53
+257,288,Suporte,Matheus Moura,30,1,2026-02-25 22:34:33
+258,371,Suporte,Gabriela Santos,83,2,2025-05-23 21:21:57
+259,166,WhatsApp,Larissa Fernandes,6,2,2026-04-12 14:46:34
+260,460,Reunião,Sr. Antônio Campos,23,4,2026-03-23 07:59:25
+261,443,WhatsApp,Beatriz Ferreira,19,4,2026-05-11 16:29:04
+262,135,Suporte,João Lucas Porto,97,1,2025-11-17 00:10:00
+263,231,E-mail,Isabel Moreira,86,4,2025-10-09 03:16:52
+264,328,Suporte,João Felipe Viana,17,1,2025-08-03 03:16:34
+265,112,E-mail,Dr. Enzo Gabriel Correia,58,5,2025-09-17 10:36:26
+266,397,E-mail,André Gomes,81,4,2025-10-05 10:48:40
+267,111,WhatsApp,Luna da Rocha,31,2,2026-04-01 11:46:36
+268,498,Suporte,Laura Ferreira,6,3,2025-10-17 05:17:33
+269,417,WhatsApp,Nicolas Gonçalves,7,3,2026-02-26 04:33:28
+270,460,WhatsApp,Daniela da Conceição,69,1,2025-09-10 03:30:13
+271,359,Reunião,Pedro Miguel da Mota,88,4,2026-05-23 07:51:58
+272,212,Reunião,Sophie Cardoso,50,3,2025-06-11 19:17:16
+273,425,Suporte,Maria Correia,59,5,2025-10-14 01:06:49
+274,499,WhatsApp,Luana Melo,19,2,2026-03-15 22:09:29
+275,235,Reunião,Ana Vitória Melo,52,2,2026-01-16 01:25:41
+276,284,Suporte,Sra. Agatha Gomes,25,5,2025-11-10 13:50:46
+277,224,Reunião,Pietra Ferreira,41,4,2025-08-28 08:11:14
+278,325,WhatsApp,Laura Gonçalves,94,5,2026-05-01 22:12:15
+279,481,Ligação,Gustavo Henrique da Conceição,16,1,2025-09-05 12:06:45
+280,46,Ligação,Rafael da Mota,83,4,2025-09-22 13:43:41
+281,54,Reunião,Catarina Campos,100,5,2026-03-18 10:59:54
+282,475,Suporte,Sra. Sabrina Barbosa,17,4,2025-09-14 11:44:35
+283,258,Suporte,Stephany Barros,108,1,2026-04-01 13:24:25
+284,342,WhatsApp,João Miguel Correia,114,4,2025-12-01 00:57:47
+285,109,E-mail,Alícia Nascimento,104,4,2026-03-06 23:09:16
+286,283,Reunião,Brenda Carvalho,19,2,2025-10-29 06:55:15
+287,439,Reunião,Lorena Castro,20,3,2025-10-14 18:22:34
+288,496,Reunião,Srta. Eloah Cavalcanti,57,4,2025-10-08 06:30:15
+289,4,WhatsApp,Marcelo da Paz,105,2,2025-06-05 11:38:35
+290,260,WhatsApp,Nicolas Barros,39,3,2025-09-22 11:27:05
+291,158,Reunião,Murilo Souza,91,2,2025-09-08 07:57:10
+292,3,Reunião,Maria Eduarda da Luz,9,1,2025-09-20 02:53:40
+293,14,E-mail,Srta. Brenda Duarte,106,3,2026-01-13 17:15:39
+294,431,Suporte,Vitor Gabriel da Cruz,109,5,2025-11-13 10:14:56
+295,163,WhatsApp,Alexia Freitas,26,5,2025-06-01 10:38:29
+296,221,E-mail,Sra. Emanuelly Melo,76,4,2025-09-23 08:44:18
+297,99,Suporte,Marina da Paz,87,4,2025-09-03 21:56:01
+298,425,Ligação,Davi Lucca Lima,107,5,2025-09-26 15:44:59
+299,220,E-mail,Vitor Hugo Santos,86,4,2025-11-30 15:11:54
+300,373,E-mail,Camila Ferreira,56,3,2025-10-02 07:57:12
+301,265,E-mail,Caroline Ribeiro,60,2,2026-04-24 23:45:17
+302,51,E-mail,Theo Duarte,69,1,2025-10-23 17:13:49
+303,324,Suporte,Isaac Nunes,105,4,2025-09-15 22:35:39
+304,432,WhatsApp,Maria Luiza Freitas,112,5,2025-06-14 07:56:49
+305,82,WhatsApp,Maria Clara da Paz,31,1,2025-06-21 05:23:06
+306,48,Ligação,Gabriel Lopes,60,1,2025-10-12 09:13:20
+307,322,Suporte,Isaac Farias,24,1,2025-08-26 21:40:42
+308,317,Suporte,Sra. Sofia Almeida,15,5,2025-06-23 22:45:55
+309,196,Ligação,Alice Barros,100,2,2026-01-09 12:09:35
+310,233,WhatsApp,João Vitor Caldeira,28,2,2026-01-07 13:41:18
+311,335,E-mail,Clara Moreira,43,2,2026-05-09 23:08:11
+312,275,E-mail,Gabriela Teixeira,97,4,2026-01-12 13:30:39
+313,395,WhatsApp,Diogo Fernandes,89,1,2026-04-17 12:52:42
+314,141,Ligação,Luigi Ribeiro,23,1,2026-04-07 06:14:52
+315,327,Suporte,Lara Martins,115,1,2026-03-20 01:54:37
+316,57,Reunião,Srta. Elisa Pereira,81,1,2026-05-12 15:01:08
+317,55,E-mail,Srta. Luiza Araújo,41,3,2026-03-23 11:46:17
+318,459,E-mail,Stella Duarte,16,1,2026-01-05 18:24:01
+319,254,WhatsApp,Maitê Correia,112,2,2026-01-26 14:33:29
+320,201,Ligação,Juan Ramos,67,1,2025-10-12 01:25:42
+321,212,Ligação,Giovanna Costela,67,1,2025-11-05 12:26:30
+322,108,Reunião,Luana Peixoto,53,3,2025-06-06 03:11:41
+323,325,Reunião,Pietra da Rosa,108,2,2026-03-28 23:52:31
+324,93,WhatsApp,Levi das Neves,6,2,2025-05-31 21:47:42
+325,338,Suporte,Isis da Mata,85,5,2025-09-01 05:18:31
+326,438,Ligação,Gabrielly Ferreira,20,3,2026-01-27 03:50:25
+327,178,Reunião,Nathan Silva,83,5,2025-09-21 18:54:39
+328,280,Ligação,Beatriz Ramos,25,5,2025-11-13 20:50:31
+329,380,WhatsApp,Juan Almeida,20,2,2025-05-25 15:36:41
+330,311,Ligação,Isabel Araújo,73,1,2026-02-16 06:11:59
+331,266,Suporte,Sr. Yuri Cavalcanti,102,2,2025-11-10 13:50:18
+332,111,WhatsApp,Isaac Silva,19,2,2026-03-12 19:17:15
+333,16,WhatsApp,Manuela Cardoso,22,2,2026-03-29 02:53:56
+334,43,E-mail,Carolina Moraes,39,3,2026-04-28 15:09:53
+335,247,E-mail,Ana Vitória Fogaça,16,3,2025-07-21 23:07:44
+336,363,Suporte,Noah Cardoso,88,3,2026-04-21 13:46:35
+337,240,Reunião,Alana Ramos,60,5,2025-10-14 03:31:50
+338,485,Reunião,Dr. Luigi Santos,29,3,2026-02-22 00:33:37
+339,89,E-mail,Samuel Vieira,92,3,2026-02-07 22:29:19
+340,493,Reunião,Letícia da Rocha,18,5,2025-10-11 08:46:13
+341,407,Suporte,Srta. Maria Cecília Almeida,44,2,2025-07-17 13:07:09
+342,407,E-mail,Dr. Leonardo Pires,97,4,2026-04-02 17:27:57
+343,222,Reunião,Antônio Martins,59,5,2025-09-23 12:48:18
+344,383,WhatsApp,Samuel Barbosa,109,3,2025-12-24 07:03:40
+345,319,Ligação,Carolina Moura,82,4,2025-08-08 17:43:45
+346,220,E-mail,Bruno Rocha,77,3,2026-05-22 07:41:55
+347,192,Ligação,Leonardo Pereira,62,2,2026-02-06 04:16:07
+348,456,Ligação,Maysa Silveira,70,3,2025-11-11 18:48:33
+349,301,Reunião,Lavínia Teixeira,42,5,2025-10-23 16:31:16
+350,424,Suporte,Maria Julia Pires,50,4,2025-12-29 08:19:29
+351,16,Ligação,Lucca da Cunha,28,3,2026-02-18 15:39:15
+352,220,E-mail,Sra. Ana Sophia Lima,50,2,2025-09-07 03:13:31
+353,38,E-mail,Raul Cunha,89,3,2025-12-04 21:59:30
+354,191,E-mail,Srta. Daniela Mendes,104,3,2025-07-26 05:14:03
+355,63,Ligação,João Lucas Nogueira,45,1,2026-03-15 03:46:41
+356,368,WhatsApp,Emilly Viana,32,4,2025-07-22 09:19:37
+357,291,WhatsApp,Pedro Miguel Sales,120,2,2025-11-09 09:09:42
+358,288,Ligação,João Guilherme Moraes,54,3,2026-03-16 14:38:13
+359,309,E-mail,Bianca Martins,72,2,2025-10-19 09:28:06
+360,53,Suporte,Sr. Lorenzo Moraes,40,5,2025-06-29 04:36:52
+361,485,Ligação,Sr. Fernando Pires,78,4,2025-10-19 03:52:44
+362,350,Reunião,Mariana da Mata,45,3,2025-07-30 08:56:08
+363,102,E-mail,Lívia Gonçalves,11,4,2026-02-11 06:25:05
+364,256,Ligação,Emanuelly Dias,40,4,2025-12-01 01:51:23
+365,62,Ligação,Yuri Nunes,62,2,2026-03-06 02:42:48
+366,308,WhatsApp,Cauê Pinto,80,4,2026-04-05 15:32:51
+367,122,Suporte,Srta. Stephany Ribeiro,7,3,2025-09-21 06:16:01
+368,10,Suporte,Lucas da Conceição,5,4,2025-08-22 19:37:44
+369,146,E-mail,Srta. Bruna das Neves,112,4,2025-11-03 12:52:09
+370,19,Suporte,Amanda Pires,72,1,2025-12-30 08:45:00
+371,173,Ligação,Yasmin Sales,13,4,2026-01-27 11:38:00
+372,49,Reunião,Dr. Diego Aragão,97,3,2025-08-24 01:43:23
+373,141,WhatsApp,Rafaela Cardoso,101,3,2026-03-23 20:09:34
+374,205,Ligação,Gabriela Gonçalves,76,3,2026-03-12 21:19:05
+375,253,Suporte,Melissa Vieira,11,4,2026-04-09 15:59:43
+376,153,Reunião,Dra. Amanda Rocha,68,1,2026-02-11 04:31:14
+377,432,WhatsApp,Sra. Fernanda Farias,84,1,2025-10-03 05:07:21
+378,15,E-mail,Theo Porto,11,1,2025-09-18 06:33:37
+379,72,Ligação,Cauê Barros,46,4,2026-05-13 12:16:46
+380,116,E-mail,Esther Silva,16,2,2026-04-28 13:52:07
+381,371,WhatsApp,Brenda Correia,109,5,2025-10-13 17:20:07
+382,3,Ligação,Brenda Freitas,38,1,2025-06-02 19:44:06
+383,57,Ligação,Leandro Mendes,43,1,2025-09-09 20:06:07
+384,136,WhatsApp,Srta. Sophie Lima,93,5,2025-09-08 21:28:51
+385,406,Reunião,Alexia Nascimento,39,2,2026-05-18 15:40:12
+386,474,E-mail,Thiago Gonçalves,79,4,2025-11-08 06:09:33
+387,62,E-mail,Juan Mendes,45,2,2025-10-30 20:09:47
+388,386,Suporte,Henrique Campos,118,4,2025-08-19 22:14:28
+389,327,Reunião,Bianca da Paz,90,1,2026-02-04 18:14:30
+390,268,Suporte,Theo da Paz,35,5,2026-02-11 22:16:21
+391,245,Reunião,Antônio Castro,40,3,2026-01-26 01:24:40
+392,396,Reunião,Sra. Laura Costela,33,1,2025-07-13 14:39:21
+393,136,WhatsApp,Isabelly Rocha,96,1,2025-09-12 16:00:59
+394,181,Suporte,Camila Dias,111,2,2026-02-25 14:32:44
+395,338,E-mail,João Lucas Oliveira,93,1,2026-05-04 02:20:56
+396,39,Reunião,Vicente Pereira,12,2,2025-10-08 12:39:06
+397,7,E-mail,Eduarda Moraes,64,4,2026-03-06 21:16:52
+398,97,Reunião,Sra. Maria Julia Almeida,18,3,2025-08-11 20:50:57
+399,107,Suporte,Dra. Rebeca Porto,102,5,2025-12-13 01:12:32
+400,264,WhatsApp,Thales Silveira,102,3,2025-12-01 22:32:11
+401,363,Reunião,Isabelly Santos,88,2,2025-08-09 12:17:23
+402,435,Suporte,Alexia Lopes,18,2,2025-09-16 15:25:29
+403,113,WhatsApp,Bruno Fernandes,54,4,2025-12-06 08:09:39
+404,445,Suporte,Milena Pinto,70,2,2025-09-22 17:52:14
+405,400,Reunião,Bruno da Cruz,29,1,2025-11-11 21:47:09
+406,143,Reunião,Melissa Costa,26,3,2026-05-03 19:14:26
+407,488,Suporte,João Pedro Teixeira,87,1,2025-07-30 20:33:45
+408,76,Reunião,Luiz Gustavo Gonçalves,117,1,2025-05-30 14:17:33
+409,382,Ligação,Ana Luiza Souza,35,1,2025-07-15 11:17:31
+410,458,Reunião,Srta. Julia Monteiro,28,3,2025-12-25 22:10:22
+411,15,Reunião,Evelyn Dias,89,5,2026-01-30 05:45:07
+412,232,WhatsApp,Paulo Monteiro,38,1,2025-11-20 07:13:12
+413,475,Suporte,Enzo Porto,15,3,2025-10-31 11:13:41
+414,221,E-mail,Isabella Dias,24,4,2025-09-02 16:39:56
+415,258,Reunião,Maria Sophia Gomes,70,3,2026-02-28 00:45:23
+416,28,Reunião,Maria Clara Silveira,39,3,2025-08-16 20:04:50
+417,51,Ligação,Emanuelly Martins,88,4,2025-06-18 16:24:59
+418,375,Reunião,Diogo Rodrigues,29,3,2026-02-18 04:01:19
+419,97,Reunião,Carolina Jesus,27,5,2025-08-25 23:57:23
+420,142,Suporte,Luigi da Mota,82,4,2025-11-09 01:47:13
+421,266,Reunião,Sr. Davi Lucas Porto,18,1,2026-01-23 01:03:40
+422,331,E-mail,Kaique Santos,19,2,2025-10-25 09:18:21
+423,59,Ligação,Ana Laura da Luz,119,1,2025-08-11 17:22:00
+424,295,WhatsApp,Renan Novaes,35,1,2025-10-17 19:34:24
+425,273,Ligação,Diogo Porto,40,2,2025-08-17 02:22:24
+426,452,Suporte,Sra. Maria Alice Moura,94,4,2026-01-11 16:57:24
+427,201,Reunião,Bruna Costela,17,2,2026-02-10 20:42:03
+428,376,WhatsApp,Leandro Moura,68,2,2026-03-30 11:26:57
+429,88,E-mail,Alexandre Melo,49,3,2026-01-13 02:56:31
+430,362,Suporte,Davi Lucas Silveira,41,1,2025-10-29 14:11:47
+431,49,E-mail,Amanda Fogaça,69,5,2025-11-05 11:12:28
+432,245,WhatsApp,Eduardo da Cruz,114,2,2025-12-05 02:45:46
+433,88,WhatsApp,Juan Fernandes,92,1,2026-01-19 02:55:48
+434,86,E-mail,Gustavo Henrique Aragão,47,4,2026-02-22 18:34:48
+435,73,Ligação,Gabriel Gonçalves,90,4,2025-12-26 05:34:22
+436,220,WhatsApp,Leonardo Melo,7,2,2026-04-02 14:55:58
+437,499,WhatsApp,Vitor Gabriel Almeida,117,1,2025-07-30 18:36:01
+438,88,Ligação,Alana Jesus,81,3,2026-02-20 21:13:04
+439,497,Reunião,Sofia da Costa,79,1,2026-02-11 22:10:31
+440,251,E-mail,Laura Aragão,65,1,2025-05-27 11:04:13
+441,24,Ligação,Ana Clara Cardoso,77,3,2025-08-27 21:00:16
+442,428,E-mail,Isabel Melo,72,5,2025-12-06 00:22:00
+443,86,E-mail,Dr. Diego Gonçalves,104,1,2026-04-26 16:08:22
+444,52,WhatsApp,Vitória Pereira,107,3,2025-08-30 09:38:03
+445,232,Reunião,Davi Nunes,99,3,2025-08-06 20:43:42
+446,280,WhatsApp,Helena Moura,89,4,2026-05-16 15:22:08
+447,130,WhatsApp,Isabella Teixeira,63,1,2025-06-14 17:00:59
+448,424,WhatsApp,Cauã da Paz,43,3,2025-06-13 12:54:37
+449,457,Suporte,Benjamin Ramos,104,5,2026-04-03 21:01:54
+450,248,Ligação,Luana Mendes,39,5,2025-06-16 09:59:44
+451,373,Ligação,Leonardo Sales,23,4,2025-08-18 09:38:19
+452,439,E-mail,Srta. Larissa Lima,89,2,2025-09-22 10:23:08
+453,183,Reunião,Helena Teixeira,8,2,2025-10-25 12:58:55
+454,296,Reunião,Emanuella Oliveira,51,2,2025-06-27 22:27:38
+455,382,Ligação,Vitor Gabriel Moreira,29,4,2025-08-17 17:18:24
+456,328,Ligação,Gustavo Carvalho,40,5,2026-02-15 23:59:37
+457,461,Reunião,Otávio Vieira,117,5,2025-12-16 02:16:16
+458,90,WhatsApp,Laís da Cunha,91,3,2025-12-31 15:35:28
+459,455,WhatsApp,Maria Eduarda da Luz,55,5,2026-02-18 18:57:51
+460,214,WhatsApp,Dr. Gustavo Henrique Gomes,44,2,2025-10-15 07:47:32
+461,22,Suporte,Luiz Felipe Barbosa,71,3,2026-03-24 17:37:15
+462,428,Suporte,Luiz Fernando Cunha,20,4,2025-09-08 00:23:35
+463,408,Reunião,Kamilly Correia,77,3,2026-04-09 13:52:17
+464,148,Ligação,Matheus Silva,6,4,2026-05-06 06:16:57
+465,475,E-mail,João Vitor da Cruz,64,2,2026-04-11 06:45:16
+466,268,WhatsApp,Laura das Neves,84,5,2026-02-19 13:01:58
+467,341,E-mail,Yasmin da Cunha,43,4,2025-10-12 16:17:12
+468,148,Ligação,Maria Luiza Pires,107,3,2025-09-19 14:58:16
+469,8,Reunião,Sr. Renan Caldeira,10,2,2026-03-16 20:28:37
+470,145,Suporte,Felipe Fogaça,20,1,2026-02-28 15:42:17
+471,251,WhatsApp,Nicole Barros,5,4,2025-10-10 20:29:27
+472,181,Ligação,Lavínia Duarte,11,3,2026-01-05 16:39:18
+473,71,WhatsApp,Natália Teixeira,117,3,2026-01-12 16:22:28
+474,403,Suporte,Davi Lucas Castro,90,5,2026-04-11 22:19:48
+475,80,Ligação,Elisa Rodrigues,96,3,2025-07-01 08:43:38
+476,74,E-mail,Luiza Gonçalves,60,5,2026-04-14 20:49:16
+477,471,Ligação,Ana Beatriz Ferreira,42,2,2026-02-09 04:42:22
+478,17,Reunião,Rafael Peixoto,50,2,2026-01-14 10:37:39
+479,416,Reunião,Ana Rodrigues,59,4,2026-01-24 22:59:57
+480,496,Ligação,João Gabriel Almeida,119,3,2026-03-26 22:53:03
+481,472,WhatsApp,Julia Alves,81,3,2025-09-23 06:31:34
+482,89,Suporte,Srta. Alice Ferreira,60,3,2025-08-07 21:32:10
+483,412,Suporte,Ana Lívia Costela,22,2,2025-10-04 20:39:55
+484,129,E-mail,Maria Alice Mendes,58,5,2025-07-29 10:52:07
+485,103,WhatsApp,Sofia Pereira,44,1,2025-11-04 11:43:02
+486,153,Suporte,Carlos Eduardo da Mota,85,4,2025-12-13 16:03:59
+487,280,E-mail,Benício Almeida,53,4,2026-03-04 10:32:56
+488,50,E-mail,João Gabriel Viana,72,4,2025-07-02 12:45:12
+489,356,WhatsApp,Srta. Milena da Cruz,69,3,2025-06-23 11:46:46
+490,240,WhatsApp,Renan Lima,59,4,2025-12-31 21:48:49
+491,216,Reunião,Srta. Olivia Lopes,64,1,2025-12-06 22:24:17
+492,468,Suporte,Noah Fogaça,8,4,2025-05-24 07:11:20
+493,46,E-mail,Kevin Caldeira,83,3,2025-10-20 12:08:12
+494,403,E-mail,Sophia Carvalho,79,5,2026-03-27 19:36:17
+495,192,E-mail,Nathan da Luz,84,5,2025-09-04 05:00:48
+496,461,Suporte,Igor Fogaça,117,3,2026-04-18 16:34:26
+497,28,Reunião,Srta. Marina Viana,21,4,2026-03-14 06:34:46
+498,344,Ligação,Valentina da Cunha,64,5,2025-07-06 13:11:14
+499,236,Ligação,Pietra Pereira,15,1,2025-09-08 01:02:19
+500,139,Ligação,Noah Fernandes,47,5,2025-08-19 10:11:51
+501,50,WhatsApp,Sr. Emanuel Oliveira,77,4,2026-02-19 00:42:58
+502,354,WhatsApp,Esther Farias,115,1,2025-09-19 03:00:30
+503,63,Suporte,Diogo Aragão,91,5,2025-12-16 01:51:32
+504,379,Ligação,Maitê Costa,94,2,2025-10-27 09:26:33
+505,265,E-mail,Sr. Raul Santos,76,4,2026-02-22 05:27:24
+506,70,E-mail,Sr. Lucas Gabriel Silva,119,2,2026-02-14 19:44:32
+507,155,WhatsApp,Ana Moreira,97,1,2026-01-21 06:04:29
+508,413,Reunião,Dr. Ian Cardoso,84,2,2025-12-08 09:04:44
+509,59,Ligação,Carolina Moura,5,2,2025-08-02 03:08:26
+510,310,Ligação,Sra. Fernanda Nascimento,71,1,2025-07-02 22:17:37
+511,127,E-mail,Lucas Gomes,18,4,2025-09-19 01:06:38
+512,13,Suporte,Eduardo Rocha,61,4,2026-05-03 20:36:29
+513,29,Ligação,André Cunha,43,4,2025-07-16 04:50:39
+514,248,E-mail,Nathan Peixoto,109,2,2026-04-05 17:21:30
+515,431,Suporte,Heloísa Gonçalves,38,5,2025-12-31 22:04:20
+516,349,Reunião,Nicole Duarte,114,5,2026-01-30 16:48:45
+517,64,Reunião,Alice Cardoso,23,1,2026-03-18 14:41:11
+518,95,E-mail,Alexia da Mata,109,2,2026-04-21 03:31:12
+519,88,Suporte,Dra. Maria Alice Silva,99,5,2026-04-17 21:05:22
+520,103,Reunião,Nina Novaes,66,3,2025-06-30 19:00:13
+521,149,Ligação,Francisco Freitas,80,4,2026-05-22 19:31:35
+522,189,WhatsApp,Emilly Pereira,55,4,2026-02-25 15:18:50
+523,358,Ligação,Diogo Araújo,64,4,2025-10-13 15:25:49
+524,417,Reunião,Manuela Aragão,23,1,2025-08-15 18:59:44
+525,146,Reunião,Sophie Cardoso,20,5,2026-04-11 03:49:34
+526,200,Ligação,Sra. Catarina Rocha,79,3,2025-10-13 15:06:33
+527,18,Suporte,Raul Pinto,61,1,2025-08-06 05:49:57
+528,465,WhatsApp,Juan Costela,22,4,2025-08-08 07:25:12
+529,452,Reunião,Helena Melo,40,1,2026-04-21 00:34:07
+530,82,WhatsApp,Eduarda Alves,69,5,2025-08-26 16:50:22
+531,108,WhatsApp,Isabella Araújo,120,5,2025-11-29 20:26:37
+532,200,Suporte,Elisa da Costa,13,2,2025-08-02 22:36:35
+533,336,E-mail,Marina Ferreira,50,5,2025-08-23 12:18:16
+534,174,Reunião,Sra. Lívia Mendes,96,2,2025-07-06 09:57:43
+535,143,WhatsApp,Henrique das Neves,55,1,2025-07-23 08:51:24
+536,470,Reunião,Ian Duarte,53,4,2026-05-23 16:05:22
+537,311,E-mail,Isaac Dias,78,5,2026-03-14 16:59:37
+538,398,Suporte,Ian Nunes,38,2,2025-09-17 23:33:05
+539,358,WhatsApp,Thales Barros,80,5,2025-12-14 02:06:53
+540,179,Suporte,Sabrina Martins,84,4,2025-08-14 21:54:13
+541,35,Ligação,Luiz Otávio Cardoso,8,2,2025-05-29 03:59:57
+542,119,Ligação,Srta. Pietra Mendes,90,1,2025-06-29 17:43:11
+543,256,Reunião,Dra. Maria Luiza Rocha,46,2,2025-07-14 14:56:50
+544,396,E-mail,Esther Carvalho,18,2,2025-12-14 04:04:07
+545,373,Reunião,Calebe Caldeira,101,4,2026-03-11 07:27:22
+546,473,Ligação,João Vitor Cardoso,12,5,2025-11-11 19:16:22
+547,129,Ligação,Raquel Rezende,9,1,2025-11-15 12:44:06
+548,227,WhatsApp,Dr. Lucas Nunes,82,1,2025-08-07 09:36:24
+549,473,E-mail,Maria Fernanda das Neves,46,1,2025-12-09 22:43:28
+550,358,Reunião,Davi Luiz Carvalho,53,2,2026-03-13 20:16:39
+551,327,Suporte,Isadora Ferreira,76,2,2026-03-17 09:39:00
+552,101,WhatsApp,Natália Farias,67,4,2026-01-31 19:13:24
+553,348,WhatsApp,Augusto da Mota,33,2,2026-01-27 04:03:31
+554,380,E-mail,Lucas Gabriel Martins,60,5,2025-11-03 03:42:05
+555,415,E-mail,Clarice Silva,16,5,2025-12-08 00:48:36
+556,13,Ligação,Lara Peixoto,31,1,2025-06-25 08:43:21
+557,415,E-mail,Enrico Farias,119,1,2025-06-27 23:04:28
+558,185,Reunião,Luiz Henrique Melo,77,5,2026-02-26 08:45:13
+559,443,Ligação,Alícia Santos,48,2,2025-11-10 09:14:38
+560,350,Suporte,Milena Cardoso,68,2,2026-02-13 00:15:18
+561,427,E-mail,Antônio Ramos,78,4,2025-08-05 04:05:06
+562,257,WhatsApp,Sophie Santos,50,5,2025-07-30 00:20:45
+563,461,Suporte,Srta. Alexia Costela,114,2,2025-12-20 10:26:16
+564,411,Ligação,Enrico Pereira,61,4,2025-11-25 09:24:47
+565,321,Reunião,Fernando Nunes,116,1,2025-10-12 17:09:07
+566,292,Ligação,Kaique Sales,21,5,2026-03-21 11:16:03
+567,153,Ligação,Thiago Cardoso,20,4,2025-09-25 04:21:31
+568,119,Ligação,Vitória da Rosa,81,5,2026-02-18 01:24:40
+569,170,Ligação,Lara da Cunha,33,3,2025-12-15 20:08:35
+570,473,WhatsApp,Catarina Araújo,54,3,2026-01-17 00:22:44
+571,35,E-mail,Carlos Eduardo Rocha,41,1,2025-12-14 02:19:32
+572,274,Suporte,Larissa Dias,35,5,2025-08-22 22:54:17
+573,478,Suporte,Srta. Bárbara Costa,69,3,2025-07-24 14:40:52
+574,205,Suporte,Maria Cecília da Cunha,12,5,2025-08-26 04:19:06
+575,358,Ligação,Guilherme da Mata,79,4,2025-08-02 15:30:49
+576,480,WhatsApp,Ana da Cunha,88,1,2026-02-28 20:02:50
+577,17,WhatsApp,Yuri da Mata,58,3,2025-06-08 16:19:14
+578,103,WhatsApp,Levi Rezende,118,1,2025-05-27 13:02:51
+579,72,E-mail,Augusto da Rocha,75,3,2025-05-30 06:34:38
+580,474,Ligação,Sarah Azevedo,35,4,2025-10-03 15:22:16
+581,38,Suporte,Yuri Pereira,120,5,2025-10-10 03:21:10
+582,360,Ligação,Sr. Caio Moura,49,1,2025-12-12 22:03:45
+583,487,Reunião,Paulo da Mata,81,5,2026-05-18 12:41:05
+584,476,Ligação,Brenda Alves,118,5,2026-05-06 19:35:14
+585,246,E-mail,Giovanna Nascimento,39,1,2026-01-14 23:35:20
+586,54,Ligação,Isabel Barbosa,68,5,2025-12-21 14:06:21
+587,116,WhatsApp,Kevin Azevedo,60,4,2025-09-12 23:26:10
+588,156,E-mail,Manuela Ribeiro,7,1,2025-07-25 15:11:41
+589,14,E-mail,Marcela da Costa,73,5,2025-06-28 03:47:08
+590,441,Reunião,Luana da Rocha,92,1,2026-02-09 05:15:09
+591,283,Reunião,Emanuella Nascimento,11,4,2025-12-02 04:54:44
+592,393,Reunião,Dra. Lavínia Cardoso,94,2,2025-10-07 23:59:19
+593,221,Reunião,Alana Teixeira,75,2,2026-02-17 06:35:57
+594,60,Reunião,Sr. Daniel Nogueira,20,5,2025-10-08 13:09:43
+595,463,WhatsApp,André Alves,50,2,2025-09-23 09:48:20
+596,176,Reunião,Luna Lima,12,2,2025-09-18 15:06:25
+597,119,Ligação,Vitória Sales,80,1,2025-11-11 06:23:30
+598,117,Reunião,Ana Julia Santos,100,5,2025-08-30 13:59:26
+599,291,Ligação,Kamilly Castro,107,1,2025-07-22 11:32:49
+600,448,E-mail,Fernanda Sales,109,1,2026-03-09 10:15:05
+601,40,Ligação,Isadora Freitas,21,4,2025-11-17 13:31:19
+602,93,WhatsApp,Vitor Costela,10,3,2025-12-14 19:52:57
+603,180,Suporte,Melissa Ramos,88,2,2025-10-15 15:29:07
+604,150,E-mail,Vicente Pinto,82,4,2025-11-30 05:20:45
+605,246,Ligação,Sr. Vitor Gabriel Campos,89,1,2026-05-23 01:44:04
+606,40,WhatsApp,Milena Castro,74,2,2025-11-11 03:20:51
+607,254,WhatsApp,Dr. Luigi da Paz,119,2,2025-08-11 23:18:25
+608,228,WhatsApp,Lavínia Martins,51,5,2026-03-20 14:31:08
+609,150,E-mail,Sr. Pedro Miguel Moraes,72,3,2025-08-12 02:42:31
+610,164,Suporte,Thomas Fogaça,69,1,2026-04-26 14:16:40
+611,28,WhatsApp,João Vitor Araújo,120,4,2025-07-21 16:34:34
+612,362,Suporte,Maria Clara Castro,67,3,2025-10-30 13:15:00
+613,41,E-mail,Luiz Henrique da Rocha,22,5,2025-12-19 04:55:45
+614,119,WhatsApp,Noah Pinto,99,5,2025-07-05 07:40:54
+615,108,Ligação,Mirella Dias,52,2,2026-02-07 12:12:43
+616,19,E-mail,João Vieira,94,4,2026-03-11 13:13:21
+617,333,Reunião,Emanuel da Mota,19,1,2025-07-13 04:25:23
+618,256,Ligação,Ana Carolina Pereira,39,3,2025-09-06 18:50:29
+619,302,Reunião,Daniela Cardoso,43,1,2025-10-01 21:27:47
+620,31,WhatsApp,Vitor Hugo Aragão,114,5,2025-12-26 19:46:12
+621,197,Reunião,Stephany Pereira,7,4,2025-07-24 00:40:35
+622,197,Reunião,Davi Rodrigues,10,2,2025-07-27 13:36:06
+623,106,Reunião,Ana Júlia Viana,28,4,2026-03-23 08:15:34
+624,273,Ligação,Pedro Ribeiro,89,3,2025-06-18 13:19:35
+625,17,Suporte,Sra. Luna da Mata,102,3,2025-09-25 02:12:21
+626,480,Ligação,Erick Nascimento,82,3,2026-04-09 09:57:07
+627,473,WhatsApp,Srta. Júlia Duarte,108,5,2025-12-21 04:04:22
+628,111,Ligação,Srta. Alícia Caldeira,48,5,2026-02-03 20:39:25
+629,223,Reunião,Maria Clara Souza,105,1,2025-08-12 11:25:28
+630,414,Ligação,Isis Gomes,75,4,2025-10-09 21:03:45
+631,488,WhatsApp,Henrique Cardoso,114,5,2025-09-19 05:34:18
+632,238,Reunião,Sr. Caio Rezende,78,5,2025-09-16 16:29:32
+633,394,Suporte,Luiz Henrique Carvalho,38,2,2026-04-14 08:08:14
+634,492,Reunião,Dr. Fernando Cardoso,64,2,2025-12-25 10:49:36
+635,68,Ligação,Heloísa Fogaça,40,3,2026-05-10 03:19:04
+636,44,E-mail,Camila Barbosa,103,5,2025-06-03 14:05:50
+637,152,WhatsApp,Pietra Gonçalves,78,4,2025-11-10 06:08:31
+638,20,Suporte,Lucas Fernandes,40,3,2026-04-10 21:04:30
+639,138,WhatsApp,Dr. Heitor Farias,105,5,2025-10-28 06:59:38
+640,7,Ligação,Beatriz Ferreira,44,5,2025-08-11 18:22:39
+641,339,WhatsApp,Ian Gonçalves,112,3,2025-06-28 00:07:39
+642,434,E-mail,Benício Silveira,61,4,2026-05-07 03:24:33
+643,9,Reunião,Luiza Melo,6,4,2025-07-02 20:40:51
+644,19,WhatsApp,Maria Julia da Rosa,66,5,2025-10-09 05:38:19
+645,112,Reunião,Alícia Cardoso,12,5,2025-07-30 20:41:58
+646,481,Ligação,Mirella Cavalcanti,40,5,2025-08-04 07:52:00
+647,283,WhatsApp,Guilherme Freitas,13,4,2025-08-24 19:15:24
+648,93,WhatsApp,Manuela Fernandes,103,3,2025-11-22 01:09:54
+649,133,Reunião,Gabriela Novaes,21,2,2025-10-09 02:45:52
+650,323,E-mail,Enzo Gomes,23,5,2025-07-22 02:36:53
+651,336,Ligação,Kamilly Nogueira,34,1,2025-11-21 06:03:50
+652,336,Ligação,Gabrielly Moraes,28,5,2025-10-26 19:42:20
+653,441,Reunião,João Pedro da Mota,79,3,2025-09-16 05:38:44
+654,22,Suporte,Dra. Mirella Oliveira,96,2,2025-11-07 02:08:31
+655,32,WhatsApp,Caroline Caldeira,37,1,2026-02-19 23:18:14
+656,348,WhatsApp,Thales Lima,74,1,2026-01-16 00:55:40
+657,308,E-mail,Heloísa Silva,49,1,2025-06-13 03:26:34
+658,40,Suporte,Lara Novaes,61,1,2025-12-24 03:30:49
+659,262,Ligação,Davi Nascimento,35,2,2025-11-30 20:01:45
+660,167,Suporte,Ana Luiza Fernandes,52,4,2026-02-28 02:40:33
+661,37,Reunião,Gabriel da Luz,117,3,2025-06-27 13:32:14
+662,74,Ligação,Sra. Sophie Santos,46,5,2026-03-21 12:48:58
+663,404,WhatsApp,Ana Carolina Moura,47,4,2026-02-14 03:17:31
+664,460,WhatsApp,Camila Melo,65,3,2025-06-05 18:19:16
+665,319,Ligação,Fernanda Novaes,25,3,2026-01-04 19:55:26
+666,23,WhatsApp,Miguel das Neves,24,5,2025-12-09 11:25:46
+667,14,Ligação,Mariane da Costa,82,2,2026-03-26 15:47:31
+668,414,WhatsApp,Isabella das Neves,70,5,2026-05-21 11:48:34
+669,402,Suporte,Ana Luiza da Rocha,96,3,2025-06-21 23:49:10
+670,482,E-mail,Otávio Dias,53,5,2025-08-26 17:09:54
+671,17,E-mail,Sra. Daniela Freitas,53,1,2025-11-18 20:02:12
+672,490,Ligação,Luna Novaes,33,5,2025-07-02 15:50:10
+673,258,Suporte,Maria Luiza Correia,85,5,2026-01-13 19:49:58
+674,376,Reunião,Mariane Moura,73,1,2025-12-20 05:35:37
+675,434,Suporte,Fernanda Caldeira,107,1,2025-09-07 02:10:36
+676,311,Reunião,Davi Ramos,89,5,2026-05-06 08:14:30
+677,267,Reunião,Ana Julia Nunes,45,3,2025-08-16 11:21:57
+678,100,Suporte,Sophia da Costa,42,2,2025-07-21 23:55:12
+679,169,E-mail,Emanuella da Costa,107,3,2025-08-11 16:05:38
+680,119,Reunião,Sr. Raul Gomes,45,1,2026-04-23 21:54:43
+681,355,E-mail,Dra. Alice Caldeira,61,4,2026-03-02 12:51:59
+682,186,Ligação,Levi Ramos,50,5,2026-02-10 21:07:19
+683,259,Ligação,João Guilherme Dias,51,4,2026-04-29 04:49:28
+684,310,E-mail,Sr. Pedro Miguel Teixeira,62,4,2026-03-18 19:49:44
+685,118,Suporte,Yuri Viana,110,2,2026-04-13 19:34:21
+686,474,Suporte,Eloah Barbosa,36,4,2026-03-03 19:59:52
+687,346,Suporte,Daniel Ramos,90,2,2025-10-27 08:50:29
+688,311,WhatsApp,Camila Souza,106,3,2025-08-07 09:10:09
+689,175,WhatsApp,Helena Mendes,20,1,2026-04-29 08:29:23
+690,210,Reunião,Isadora Castro,69,2,2025-06-23 10:40:18
+691,295,Reunião,Dr. Carlos Eduardo Jesus,85,2,2025-08-06 16:03:25
+692,461,E-mail,Brenda Dias,117,4,2026-04-01 21:52:55
+693,8,E-mail,Davi Lucca Rodrigues,20,4,2026-04-30 10:48:12
+694,135,Suporte,Sophia Barros,96,4,2026-05-10 20:50:12
+695,381,Ligação,Benício Melo,21,1,2025-08-12 13:31:42
+696,427,Reunião,Sr. Benício Farias,8,2,2025-08-21 23:46:25
+697,38,E-mail,Alexia Correia,70,5,2026-01-29 16:09:53
+698,471,Reunião,Calebe Pinto,120,4,2026-01-04 11:02:42
+699,182,E-mail,Vitor Gabriel Barbosa,56,5,2025-06-03 22:29:06
+700,124,WhatsApp,Gabriel Moura,20,3,2025-06-10 12:48:57
+701,460,WhatsApp,Alana Barbosa,80,5,2026-04-14 13:41:20
+702,316,Ligação,Sra. Ana Clara Aragão,97,1,2026-05-21 20:10:34
+703,38,WhatsApp,Gabriel Almeida,62,4,2025-10-01 17:17:41
+704,323,Reunião,Dra. Pietra da Mota,99,4,2025-10-21 18:56:44
+705,149,Reunião,Nicole Rezende,94,2,2025-06-12 15:06:03
+706,376,E-mail,Maria Clara Vieira,97,5,2025-10-08 22:39:20
+707,470,Suporte,Cauê Cunha,15,2,2026-02-02 10:14:41
+708,459,Ligação,Dr. Samuel Peixoto,80,5,2025-09-13 00:10:09
+709,190,Reunião,Raul da Mota,53,3,2025-09-24 03:49:12
+710,225,E-mail,Benjamin Monteiro,70,5,2025-07-25 04:55:30
+711,144,Ligação,Fernando Porto,34,3,2025-10-16 06:51:26
+712,253,WhatsApp,Lorenzo Pinto,11,5,2026-02-27 05:36:29
+713,266,Suporte,André Nunes,79,5,2026-02-14 18:19:53
+714,433,Reunião,Daniela Silveira,41,3,2025-06-14 06:46:26
+715,197,WhatsApp,Benício Ferreira,101,2,2026-05-13 21:48:02
+716,489,E-mail,Lívia da Paz,10,2,2025-07-16 15:11:01
+717,221,Suporte,Alice da Conceição,40,5,2025-09-17 02:39:32
+718,451,Suporte,Luna da Luz,45,1,2026-01-09 16:47:25
+719,178,WhatsApp,Nathan da Rocha,26,1,2025-08-27 08:08:20
+720,148,WhatsApp,Kamilly Silveira,67,4,2025-12-18 18:20:54
+721,115,E-mail,Sra. Ana Lívia Silveira,41,3,2026-04-11 18:31:50
+722,311,Ligação,Ian Sales,34,3,2025-09-26 02:16:26
+723,73,Ligação,Maria Fernanda Melo,31,5,2025-07-20 21:57:49
+724,430,Suporte,Cauã Viana,101,2,2026-02-18 02:03:23
+725,15,Suporte,Yuri Monteiro,120,1,2025-07-04 11:59:22
+726,492,Suporte,Ana Clara Caldeira,73,2,2026-04-16 19:44:40
+727,4,Reunião,Luiz Henrique Azevedo,111,1,2026-03-07 07:35:48
+728,190,E-mail,Leonardo Peixoto,41,5,2025-12-19 03:38:47
+729,219,Reunião,Natália Almeida,71,2,2025-06-29 21:58:24
+730,426,Reunião,Marcela Ferreira,42,1,2025-12-24 17:05:59
+731,367,Ligação,Clarice Rocha,61,4,2025-11-07 02:26:56
+732,253,WhatsApp,Levi Monteiro,16,2,2026-04-11 12:54:32
+733,143,Ligação,Kevin Oliveira,50,1,2026-03-08 23:16:08
+734,382,E-mail,Luiz Fernando Moura,98,1,2025-11-02 06:33:09
+735,168,E-mail,Bruno da Cruz,69,3,2025-11-10 02:40:13
+736,142,Reunião,Sofia Castro,85,5,2025-10-27 15:24:59
+737,345,Ligação,Lorena da Mata,95,3,2026-04-18 16:15:26
+738,457,Ligação,Sophia da Paz,60,1,2026-04-29 20:40:14
+739,478,Suporte,Francisco da Rocha,45,2,2025-07-21 16:16:03
+740,431,Suporte,Heitor Costela,89,1,2025-10-05 12:36:35
+741,486,Ligação,Lorenzo Pereira,36,2,2026-01-15 20:01:53
+742,301,Reunião,Fernanda Costa,116,2,2026-05-23 21:36:06
+743,345,E-mail,Letícia Mendes,38,4,2026-01-15 02:51:18
+744,78,Reunião,Paulo Pires,109,2,2026-04-22 14:55:07
+745,376,Reunião,Erick Cardoso,41,2,2025-09-12 14:38:52
+746,102,Ligação,Luana Lima,71,2,2026-05-11 10:50:42
+747,2,Reunião,Heitor Dias,13,4,2025-11-15 22:16:11
+748,286,Suporte,Srta. Rebeca Farias,31,2,2025-08-31 06:22:45
+749,20,Reunião,Ana Vitória Rezende,93,3,2025-11-06 18:51:07
+750,315,Reunião,Alexia Nascimento,85,5,2026-02-20 02:26:39
+751,121,WhatsApp,Alexandre da Paz,66,5,2025-10-10 02:03:55
+752,337,E-mail,João Pedro Viana,117,3,2026-01-06 19:11:38
+753,431,E-mail,Esther Vieira,117,3,2026-04-07 03:43:48
+754,343,Reunião,Nicole Nunes,67,4,2025-09-21 20:44:37
+755,307,WhatsApp,Raul da Costa,74,4,2025-08-20 05:31:54
+756,152,Ligação,Gustavo Pires,33,1,2026-04-24 16:00:49
+757,494,WhatsApp,Rafaela Moraes,58,4,2025-08-17 06:14:14
+758,167,E-mail,Thales Silveira,89,4,2026-01-21 11:14:09
+759,60,E-mail,Rafaela Barbosa,64,3,2026-03-14 22:32:41
+760,339,Ligação,Srta. Marina Pires,49,4,2026-03-17 19:20:25
+761,361,E-mail,Lorena Cunha,104,4,2026-02-07 06:14:17
+762,431,Reunião,Olivia Sales,81,4,2025-06-29 09:01:50
+763,352,E-mail,Sophia Jesus,8,3,2025-10-08 06:50:39
+764,138,Suporte,Rafael da Cruz,32,4,2026-05-18 09:38:10
+765,32,Suporte,Antônio Pereira,103,3,2025-11-01 06:17:39
+766,134,WhatsApp,Dra. Eloah Viana,57,4,2026-02-04 17:40:04
+767,415,Reunião,Enrico Carvalho,59,4,2026-03-28 12:49:41
+768,134,Ligação,Eloah Martins,39,4,2026-03-21 17:29:05
+769,373,E-mail,Maria Clara da Rosa,48,1,2026-05-08 00:58:10
+770,158,Reunião,Sr. Yuri Silveira,57,2,2025-12-01 09:14:00
+771,294,E-mail,Gabriela Aragão,73,2,2025-08-31 11:57:05
+772,400,Ligação,Theo Jesus,83,5,2026-04-30 15:23:22
+773,169,E-mail,Isabelly Jesus,82,5,2026-03-31 11:18:43
+774,11,Ligação,Pedro Miguel Rezende,107,4,2025-09-26 11:28:25
+775,47,WhatsApp,Dr. Thomas Cunha,50,5,2026-02-10 08:23:31
+776,33,Ligação,Kamilly Moreira,71,2,2025-12-27 18:51:51
+777,186,Suporte,Clarice da Luz,30,2,2025-06-18 14:33:28
+778,430,Suporte,Yasmin Novaes,55,2,2026-05-12 12:30:00
+779,149,E-mail,Otávio Mendes,52,3,2025-09-24 17:46:34
+780,212,E-mail,Gabriela Barbosa,75,2,2026-03-02 10:31:58
+781,482,Ligação,Nathan da Luz,9,1,2026-04-16 20:52:35
+782,387,Suporte,Milena da Cruz,18,5,2026-02-22 21:47:23
+783,204,Reunião,Paulo Correia,10,2,2026-01-12 14:27:26
+784,145,WhatsApp,Nina Martins,8,2,2025-09-12 19:24:09
+785,324,E-mail,Rafaela Carvalho,9,3,2025-08-24 01:28:54
+786,384,Ligação,Anthony Rodrigues,109,4,2025-11-20 18:04:12
+787,336,Reunião,Alexia da Mota,21,3,2026-04-07 12:43:02
+788,442,Ligação,Sr. João Lucas da Rosa,14,1,2025-08-28 19:51:10
+789,259,Reunião,Srta. Ana Lívia Monteiro,7,1,2025-11-25 03:53:57
+790,381,Suporte,Nathan Aragão,82,2,2026-01-25 17:38:13
+791,49,Suporte,Diego Porto,106,4,2025-07-18 14:57:51
+792,100,Suporte,Alexandre Silva,114,3,2025-10-03 22:38:33
+793,402,WhatsApp,Dr. Vitor Gabriel Duarte,59,5,2026-01-17 23:29:59
+794,381,Ligação,Joaquim Araújo,43,3,2026-01-31 18:37:55
+795,235,E-mail,Lavínia Pereira,17,3,2026-05-22 19:28:07
+796,497,Suporte,Eduardo Pinto,65,4,2026-03-24 20:24:39
+797,150,Reunião,Juan da Conceição,16,2,2025-09-21 15:21:44
+798,496,Reunião,Dra. Maria Luiza das Neves,76,3,2025-09-02 15:05:25
+799,248,WhatsApp,Bruna da Costa,94,5,2026-02-05 13:39:18
+800,260,E-mail,Matheus Melo,53,1,2026-03-08 21:21:29
+801,255,Reunião,Rafael Nunes,52,5,2026-02-10 01:22:56
+802,366,Ligação,Murilo Moreira,62,2,2026-02-27 01:37:42
+803,296,Ligação,Ana Laura da Mata,55,2,2025-08-22 06:14:28
+804,229,WhatsApp,Vitória Porto,66,5,2025-11-12 06:50:16
+805,56,WhatsApp,Pedro Miguel Campos,47,2,2025-12-27 19:33:39
+806,415,Ligação,Guilherme Cunha,17,5,2025-11-14 08:13:03
+807,87,E-mail,Dr. Luiz Gustavo Gomes,115,4,2025-08-22 19:19:02
+808,304,E-mail,Brenda da Rocha,15,2,2025-11-27 05:25:33
+809,207,Suporte,Maria Luiza Gomes,112,4,2026-03-20 00:57:59
+810,268,Suporte,Antônio Ribeiro,102,2,2026-05-09 23:05:46
+811,31,Reunião,Joana Porto,37,4,2026-03-02 06:04:36
+812,160,WhatsApp,Dr. André Teixeira,111,2,2025-12-11 21:51:34
+813,19,WhatsApp,Sra. Maria Cecília da Rocha,93,5,2025-11-02 10:06:55
+814,307,Reunião,Sr. Diego da Cunha,116,1,2025-06-24 17:31:35
+815,138,E-mail,Felipe Araújo,101,5,2025-08-14 14:13:24
+816,407,Reunião,Sra. Evelyn Araújo,74,4,2026-05-20 21:14:04
+817,161,E-mail,Amanda Castro,46,4,2025-07-13 11:32:01
+818,363,Reunião,Carlos Eduardo Fogaça,70,5,2026-02-26 12:37:25
+819,440,Ligação,Thales Ramos,18,4,2025-09-30 06:47:33
+820,359,Ligação,Lucca da Cruz,53,2,2025-05-24 10:49:41
+821,388,Ligação,Marcos Vinicius Barbosa,25,5,2026-01-23 01:37:41
+822,384,Ligação,Cecília Cardoso,26,2,2025-10-09 02:58:27
+823,225,Ligação,Pedro Lucas da Cunha,9,4,2025-06-07 19:52:53
+824,254,E-mail,Camila Martins,85,5,2025-11-17 08:57:30
+825,250,E-mail,Nathan Barbosa,100,5,2026-01-19 07:30:38
+826,215,Reunião,Maria Eduarda Silva,6,3,2025-09-29 10:55:27
+827,61,Reunião,Sra. Nina das Neves,42,3,2026-03-22 16:10:33
+828,268,WhatsApp,Matheus Nogueira,83,3,2025-08-23 18:29:27
+829,289,E-mail,João Lucas Martins,23,3,2025-11-27 16:43:41
+830,268,E-mail,Enrico Moraes,107,5,2025-07-31 20:34:56
+831,488,WhatsApp,Milena da Luz,71,5,2025-08-24 15:54:53
+832,129,Reunião,Leandro Barbosa,64,2,2025-11-24 09:45:12
+833,480,WhatsApp,Srta. Maria Alice Oliveira,100,2,2025-09-20 15:51:30
+834,85,Suporte,Emanuelly Fernandes,96,4,2025-11-22 13:04:15
+835,6,WhatsApp,Dra. Gabriela Ribeiro,58,2,2026-01-21 03:27:15
+836,77,Reunião,Luigi Rezende,13,1,2025-10-16 19:23:02
+837,160,E-mail,Maysa Rodrigues,30,1,2026-02-08 11:18:22
+838,276,Reunião,Dr. Ian da Cunha,47,1,2025-08-24 09:58:14
+839,32,Suporte,Paulo Ramos,64,5,2026-01-23 01:48:15
+840,81,Ligação,Sabrina Fernandes,49,5,2025-11-18 14:20:28
+841,453,E-mail,Sr. Vicente Lopes,49,1,2025-06-15 22:49:48
+842,476,E-mail,Nicole Ribeiro,40,3,2025-06-26 20:33:40
+843,421,Reunião,Emanuella Nogueira,79,3,2025-08-02 21:27:34
+844,189,Suporte,Laura da Mota,103,4,2025-07-05 20:30:14
+845,479,WhatsApp,Arthur Barros,76,5,2025-07-08 16:48:13
+846,329,E-mail,Maria Fernanda Lopes,14,5,2026-03-05 21:11:30
+847,79,Ligação,Esther da Paz,98,2,2026-03-10 03:28:28
+848,144,E-mail,Davi Costela,38,5,2025-12-11 04:35:42
+849,53,E-mail,Sra. Sarah Melo,107,5,2026-04-05 15:40:57
+850,301,Reunião,Catarina Fogaça,47,5,2026-01-06 23:29:52
+851,396,Suporte,Maria Gomes,82,3,2026-03-13 13:14:31
+852,495,Suporte,Dr. Luiz Felipe Correia,90,4,2025-10-02 08:33:58
+853,108,E-mail,Srta. Rafaela Viana,5,2,2025-07-26 17:03:45
+854,111,Ligação,Davi da Costa,107,5,2025-10-30 00:26:12
+855,76,E-mail,Dra. Juliana Araújo,26,4,2026-03-14 06:36:04
+856,448,Ligação,Sr. Thiago da Luz,46,1,2025-06-15 04:41:30
+857,459,Ligação,Gustavo Pinto,22,5,2025-10-30 16:47:35
+858,414,Reunião,Dra. Clara Almeida,59,4,2025-12-06 17:05:10
+859,168,WhatsApp,Lavínia das Neves,69,1,2025-08-23 13:15:53
+860,124,Suporte,Ana Julia Teixeira,55,4,2025-11-07 03:08:48
+861,397,Reunião,Sra. Caroline Sales,95,4,2025-06-24 22:50:55
+862,182,WhatsApp,Otávio Ribeiro,112,5,2025-05-29 08:59:34
+863,163,Suporte,Ana Lívia Viana,15,5,2026-01-29 09:56:10
+864,432,E-mail,Stephany Oliveira,26,3,2025-08-04 22:52:32
+865,365,E-mail,Sr. Vitor Gonçalves,112,4,2025-05-24 01:45:46
+866,287,Reunião,Lucas Nunes,67,3,2025-12-28 15:05:58
+867,351,Ligação,Dr. Murilo Moraes,76,4,2026-04-12 00:31:09
+868,334,WhatsApp,Sra. Maysa Lopes,27,1,2026-03-10 01:07:31
+869,444,WhatsApp,Dra. Vitória Viana,114,4,2026-03-22 21:25:10
+870,395,WhatsApp,Pedro Henrique Ribeiro,98,4,2025-11-20 08:44:07
+871,110,Suporte,Sofia da Cruz,76,2,2026-01-21 12:41:37
+872,196,WhatsApp,Gabrielly da Paz,27,1,2025-09-23 03:08:42
+873,101,Reunião,Dr. Emanuel Carvalho,51,5,2025-12-01 02:12:16
+874,100,Ligação,Gustavo Duarte,80,3,2026-05-02 15:50:53
+875,169,Ligação,Sr. Nicolas Duarte,52,3,2025-11-19 01:04:10
+876,258,Ligação,Marcela Caldeira,82,3,2025-05-30 15:56:32
+877,18,WhatsApp,Srta. Ana Sophia da Mata,87,4,2026-03-03 02:37:53
+878,204,Ligação,Sophie Castro,94,3,2025-07-05 15:59:08
+879,141,Ligação,Ana Clara Castro,78,1,2026-03-29 22:20:52
+880,442,Reunião,Marcela Nunes,82,4,2025-07-09 08:00:11
+881,252,E-mail,Nathan Ramos,65,5,2025-09-06 08:45:10
+882,414,Ligação,Sr. Luigi da Rocha,9,3,2025-12-21 17:03:03
+883,15,Suporte,Isadora Moraes,119,2,2025-11-27 18:33:27
+884,362,E-mail,Lorena Ferreira,116,2,2025-08-24 04:37:16
+885,43,Reunião,Davi Lucas Ribeiro,111,1,2025-09-17 10:03:58
+886,29,Reunião,Benjamin Correia,86,1,2025-07-18 20:27:51
+887,161,Ligação,Júlia Fogaça,114,5,2025-10-12 09:24:12
+888,143,E-mail,Bárbara Almeida,88,5,2025-07-02 06:20:28
+889,378,Ligação,Daniela Melo,47,3,2025-10-29 15:48:33
+890,460,E-mail,Esther Ramos,120,5,2026-01-11 01:01:08
+891,370,WhatsApp,Arthur Pinto,71,1,2025-06-09 22:19:14
+892,482,Reunião,Ana Sophia Santos,58,1,2025-11-13 07:02:00
+893,34,E-mail,Sr. Vinicius Novaes,110,5,2026-01-23 16:16:03
+894,76,WhatsApp,João Miguel Sales,15,2,2026-01-27 06:18:56
+895,228,Ligação,Dra. Mariana da Mata,40,5,2025-10-06 01:27:57
+896,102,Suporte,Eduarda Nunes,57,2,2025-08-08 09:49:09
+897,326,Ligação,Maria Sophia Nunes,44,3,2026-01-04 10:16:12
+898,288,WhatsApp,Luiz Otávio Correia,20,3,2025-11-10 13:35:28
+899,239,Suporte,Francisco da Luz,112,1,2025-09-30 14:07:58
+900,290,Reunião,Lavínia Lima,16,1,2026-04-27 13:13:42
+901,471,Ligação,Luna Costa,28,1,2025-06-12 16:42:47
+902,96,WhatsApp,Maria Fernanda da Rosa,80,1,2026-01-08 01:48:53
+903,393,E-mail,Marina Farias,105,1,2025-11-23 12:49:14
+904,112,WhatsApp,Laís Teixeira,63,1,2026-01-16 00:04:45
+905,450,E-mail,Raquel Silveira,44,2,2025-06-10 01:10:38
+906,383,E-mail,Davi Luiz Pereira,44,1,2026-04-03 07:23:31
+907,195,WhatsApp,Isabella Lopes,27,3,2025-08-18 20:19:24
+908,72,Suporte,Luiz Henrique Jesus,45,4,2025-09-25 20:45:54
+909,116,E-mail,Emanuelly Carvalho,39,2,2025-05-24 09:34:22
+910,91,WhatsApp,Srta. Kamilly Araújo,38,4,2026-03-28 12:37:13
+911,136,Ligação,Davi Lucas Gonçalves,67,3,2026-03-19 14:32:09
+912,297,WhatsApp,Nina Araújo,49,5,2025-11-03 09:57:43
+913,231,E-mail,João Felipe Souza,9,5,2025-07-24 06:28:34
+914,198,E-mail,Yago Costa,73,5,2026-03-16 13:41:59
+915,108,Reunião,Diego da Mota,49,3,2026-03-22 02:03:38
+916,107,WhatsApp,Gabriela das Neves,94,5,2026-04-10 01:42:55
+917,283,WhatsApp,Yasmin Martins,16,5,2026-01-03 09:18:56
+918,396,E-mail,Murilo Ribeiro,38,2,2026-02-15 07:50:06
+919,240,WhatsApp,Julia Martins,9,1,2025-07-28 13:55:57
+920,265,E-mail,Antônio Cardoso,65,2,2026-04-30 03:08:38
+921,240,Suporte,Maria Vitória Ramos,46,3,2026-03-28 14:44:05
+922,289,Reunião,Paulo Duarte,89,5,2026-05-12 20:22:21
+923,462,Ligação,Maria Fernanda Costela,46,1,2026-05-01 18:49:06
+924,323,WhatsApp,Isaac Nogueira,116,1,2025-07-11 12:50:25
+925,82,Reunião,Arthur da Mota,65,3,2026-01-13 12:45:36
+926,173,Ligação,Clara Santos,28,3,2025-06-23 21:38:04
+927,157,E-mail,Dr. Noah da Cunha,64,5,2025-05-29 23:25:30
+928,96,Ligação,Alexia Castro,61,5,2026-04-15 12:13:43
+929,234,Suporte,Nina Alves,78,4,2026-01-28 21:04:16
+930,375,Reunião,Camila Gonçalves,65,2,2026-02-07 16:41:30
+931,130,WhatsApp,Luiz Henrique Costela,81,3,2026-04-22 00:51:34
+932,248,Reunião,Gustavo Rezende,43,1,2025-09-25 22:14:42
+933,498,E-mail,Otávio da Rocha,102,5,2025-05-29 23:51:28
+934,56,Reunião,Dr. Vinicius Monteiro,59,3,2026-05-07 08:32:46
+935,489,Suporte,Mariana Alves,56,5,2025-11-13 10:44:33
+936,15,E-mail,Dra. Maria Luiza Moura,70,2,2025-05-29 19:23:39
+937,473,WhatsApp,Luiza Pires,118,5,2025-06-05 17:44:34
+938,495,Suporte,Isis Oliveira,30,5,2026-02-25 05:14:38
+939,385,E-mail,Sr. Eduardo Martins,21,3,2025-08-27 13:05:46
+940,404,Ligação,Eloah da Luz,16,3,2025-07-31 11:10:35
+941,406,E-mail,Eduardo Ferreira,107,3,2025-12-26 00:40:45
+942,235,Reunião,Marina Farias,26,4,2026-03-15 16:55:16
+943,1,E-mail,Davi da Mata,30,2,2026-01-18 10:46:35
+944,155,WhatsApp,Luiz Felipe Gomes,15,2,2025-12-27 07:44:16
+945,121,E-mail,Arthur Cardoso,60,1,2026-01-17 01:57:36
+946,371,E-mail,João Pedro Caldeira,24,5,2025-11-05 05:48:25
+947,433,WhatsApp,Laís Castro,5,4,2025-09-05 17:15:37
+948,82,WhatsApp,Luiz Gustavo Gomes,17,4,2026-04-05 22:04:59
+949,282,Reunião,Dr. Arthur Barros,94,2,2025-10-19 02:20:24
+950,468,Reunião,Manuela Costa,90,4,2026-03-01 01:57:11
+951,426,Reunião,Danilo Rocha,95,2,2025-11-08 18:03:00
+952,391,Ligação,Sophia Farias,54,2,2026-04-15 19:20:50
+953,163,E-mail,Olivia Barbosa,56,3,2026-04-27 05:13:47
+954,460,WhatsApp,Lucca Mendes,109,4,2026-04-11 15:46:54
+955,306,Reunião,Beatriz Gonçalves,73,1,2026-01-20 20:40:02
+956,178,Reunião,Sra. Carolina da Mata,90,5,2025-06-23 19:05:20
+957,14,E-mail,Luiz Felipe Silveira,118,5,2025-10-21 22:40:02
+958,92,E-mail,Vitória Costa,52,3,2025-12-18 21:33:23
+959,175,Suporte,Cecília Nogueira,110,1,2026-02-24 09:02:48
+960,313,Suporte,Srta. Maysa Barros,101,4,2025-08-31 14:39:02
+961,469,Ligação,Felipe das Neves,87,2,2025-09-24 21:01:55
+962,71,Reunião,Dr. Vitor Correia,29,1,2025-07-22 16:17:24
+963,109,WhatsApp,Lorenzo da Rosa,60,1,2026-03-02 09:14:27
+964,174,Reunião,Ana Luiza Almeida,88,2,2026-05-17 08:40:32
+965,218,E-mail,Alana Fernandes,41,3,2025-07-19 11:08:59
+966,199,Reunião,Emanuelly da Conceição,9,3,2025-08-03 16:07:49
+967,491,Reunião,Dra. Elisa Castro,27,2,2025-12-15 09:20:30
+968,204,Suporte,Thiago da Cruz,111,1,2025-07-19 14:00:16
+969,239,Ligação,Maria Luiza Souza,49,1,2026-04-08 01:05:14
+970,336,Reunião,Sofia Vieira,107,1,2025-09-17 16:40:15
+971,83,WhatsApp,Vicente Aragão,21,5,2025-06-12 01:16:49
+972,260,Reunião,Sra. Larissa da Rosa,92,4,2025-05-25 15:29:37
+973,6,Reunião,Srta. Eduarda Moura,88,4,2026-02-22 23:10:47
+974,217,Ligação,Sra. Maysa Caldeira,43,4,2026-04-30 00:23:58
+975,133,Ligação,Lorenzo Oliveira,82,4,2025-09-17 03:28:35
+976,258,WhatsApp,Maria Luiza Carvalho,104,4,2025-10-30 05:34:12
+977,365,WhatsApp,Levi Nascimento,113,5,2026-01-17 11:15:22
+978,498,WhatsApp,Raquel Souza,19,2,2026-01-05 15:29:43
+979,218,Suporte,Enzo Gabriel Silva,102,4,2025-07-14 12:58:04
+980,446,Ligação,Beatriz Carvalho,24,1,2026-05-13 12:54:40
+981,173,Suporte,Maria Alice Rocha,38,2,2025-08-26 14:48:50
+982,264,Suporte,Evelyn Dias,98,4,2025-06-27 05:13:17
+983,223,Ligação,Leonardo Gomes,64,3,2025-05-24 07:01:47
+984,21,Ligação,Juan Pereira,116,4,2026-01-25 02:17:42
+985,236,WhatsApp,Luiz Henrique Moraes,11,5,2025-11-20 13:41:36
+986,352,WhatsApp,Bruno Souza,37,4,2025-07-16 14:15:54
+987,173,WhatsApp,Emanuel da Cruz,103,1,2026-04-22 20:12:35
+988,278,WhatsApp,Heitor Porto,27,3,2026-02-01 06:13:02
+989,183,Reunião,Brenda da Rocha,7,4,2025-09-28 08:23:10
+990,167,WhatsApp,Augusto Gomes,86,1,2025-09-19 21:59:20
+991,306,Ligação,Dra. Lorena Fernandes,50,1,2026-03-22 04:15:42
+992,273,Reunião,Kamilly Pinto,36,2,2026-01-06 23:25:48
+993,44,Suporte,Ana Laura Cavalcanti,17,2,2026-02-16 03:14:41
+994,373,E-mail,Stella Costela,86,4,2025-08-17 10:45:29
+995,221,WhatsApp,Pedro Lucas Melo,49,4,2025-08-20 22:01:21
+996,353,Suporte,João Felipe Dias,36,5,2025-06-05 06:37:36
+997,292,Reunião,Nina Vieira,10,1,2025-09-29 20:03:14
+998,168,WhatsApp,Valentina da Mata,9,2,2025-12-27 03:28:06
+999,312,Ligação,Thales Novaes,53,5,2025-10-05 02:03:05
+1000,372,Ligação,Davi Lucas Rezende,48,3,2026-05-04 14:06:28
+1001,217,Reunião,Sophie Cavalcanti,7,2,2025-10-19 08:56:59
+1002,487,WhatsApp,Erick da Mota,97,1,2025-05-25 04:48:56
+1003,429,Reunião,Calebe Porto,19,2,2025-10-20 14:41:05
+1004,293,WhatsApp,Mariana Souza,43,5,2026-05-04 05:26:39
+1005,264,Suporte,Mariane Lopes,114,2,2025-10-28 18:16:20
+1006,356,Ligação,Dr. Raul Viana,52,5,2026-04-03 10:48:30
+1007,243,E-mail,Benício da Mata,102,4,2025-10-29 09:55:25
+1008,141,E-mail,Daniela Rodrigues,40,5,2025-10-21 01:57:45
+1009,344,Ligação,Luiz Felipe Ribeiro,82,4,2025-08-31 07:23:33
+1010,466,E-mail,Marina Almeida,91,3,2025-06-04 10:13:09
+1011,140,Ligação,Maria Sophia Ribeiro,57,2,2025-07-31 16:11:16
+1012,10,Reunião,Valentina Moraes,89,2,2025-12-20 02:07:55
+1013,141,WhatsApp,Carolina da Paz,64,5,2026-02-03 05:28:57
+1014,405,WhatsApp,Valentina Alves,17,2,2025-11-26 09:10:56
+1015,116,Ligação,Sra. Alana da Conceição,95,3,2026-04-09 08:10:16
+1016,114,Ligação,Beatriz Fogaça,83,3,2025-11-04 00:12:43
+1017,373,Suporte,João Guilherme da Luz,110,4,2026-02-26 16:04:38
+1018,302,Reunião,Maysa Nascimento,86,5,2025-08-12 10:30:39
+1019,169,Suporte,Eduardo Ribeiro,54,4,2026-04-25 12:35:47
+1020,477,Suporte,Milena Porto,6,3,2025-06-22 14:12:46
+1021,175,WhatsApp,Dra. Camila Martins,49,4,2025-12-15 20:00:45
+1022,78,Reunião,Paulo Correia,114,4,2025-09-24 11:08:02
+1023,108,Suporte,João Pedro das Neves,94,2,2025-08-23 01:53:58
+1024,345,Reunião,Pedro Henrique Lima,37,4,2025-12-27 21:43:32
+1025,17,Suporte,Bárbara Silva,15,4,2025-09-27 23:07:45
+1026,288,WhatsApp,Srta. Luiza Gonçalves,15,2,2025-10-25 18:41:22
+1027,383,Suporte,João Vitor Jesus,52,3,2025-09-21 11:55:47
+1028,150,WhatsApp,Pedro Lucas Moura,62,4,2026-05-19 10:01:19
+1029,16,E-mail,Pedro Lucas Costa,84,5,2025-08-17 15:57:01
+1030,86,Suporte,Fernanda Costela,50,5,2026-01-26 08:50:36
+1031,221,Reunião,Emilly Santos,102,1,2026-02-06 21:13:55
+1032,385,WhatsApp,Miguel Correia,76,4,2025-06-03 19:03:24
+1033,121,Reunião,Sophia da Mata,73,2,2025-12-15 20:13:22
+1034,194,Suporte,Srta. Bruna da Rocha,113,1,2026-03-27 10:52:06
+1035,50,Reunião,Carolina Costa,32,2,2026-04-11 04:15:03
+1036,57,Suporte,Enzo Gabriel da Cunha,42,2,2026-01-10 21:22:59
+1037,443,E-mail,Ana Carolina Porto,103,4,2025-11-27 04:39:52
+1038,282,Reunião,Dr. Heitor Pereira,50,2,2025-08-22 23:50:27
+1039,215,Suporte,Giovanna da Luz,40,3,2026-03-31 05:44:42
+1040,395,WhatsApp,Benjamin Rodrigues,85,1,2025-11-21 06:32:27
+1041,341,WhatsApp,Marcelo Araújo,69,5,2025-08-23 01:11:14
+1042,273,Reunião,Dr. Vitor Gabriel Rocha,33,4,2026-05-20 11:26:37
+1043,254,Reunião,Dr. Luiz Miguel Melo,41,4,2026-02-22 23:14:14
+1044,81,E-mail,João Oliveira,56,3,2026-02-19 03:52:04
+1045,2,Suporte,Renan Fernandes,111,3,2025-09-23 16:25:54
+1046,391,Reunião,Alícia da Mota,88,2,2025-08-27 21:10:06
+1047,350,Ligação,João Pedro Fernandes,54,5,2026-02-16 08:27:03
+1048,335,Reunião,Ana Sophia Melo,58,4,2025-10-31 01:42:38
+1049,97,Ligação,Maria Fernanda Cardoso,84,2,2026-05-08 04:30:28
+1050,71,Suporte,Sra. Maysa Sales,84,5,2025-06-12 12:35:39
+1051,42,Suporte,Maria Fernanda Campos,78,4,2025-11-23 00:05:33
+1052,485,Ligação,Isaac Duarte,46,5,2026-01-02 20:33:25
+1053,128,E-mail,Lucca Fernandes,77,4,2025-06-21 01:40:32
+1054,351,Ligação,Luiz Henrique Sales,52,1,2026-05-19 05:19:21
+1055,381,Suporte,Ana Carolina Nunes,118,4,2025-09-06 00:13:42
+1056,283,Suporte,Luana Pereira,115,2,2025-09-23 19:59:41
+1057,436,E-mail,Leandro Vieira,63,3,2026-01-05 08:40:12
+1058,371,E-mail,Dr. Daniel Martins,27,4,2025-09-11 06:26:32
+1059,480,E-mail,Ana Sophia Costa,46,2,2025-09-26 03:53:03
+1060,151,Ligação,Natália Correia,119,1,2025-05-25 00:06:45
+1061,106,Suporte,Daniel Santos,64,4,2026-03-30 19:44:21
+1062,126,Suporte,Luigi Melo,61,2,2025-07-12 21:04:03
+1063,408,E-mail,Ana Laura Costela,64,5,2025-10-25 00:10:09
+1064,329,Ligação,Gustavo Henrique Nogueira,107,5,2025-05-31 18:55:53
+1065,429,WhatsApp,Cauã Mendes,116,2,2025-06-14 09:16:32
+1066,126,Reunião,Pietro da Rocha,97,1,2025-09-26 20:52:50
+1067,4,Ligação,Isabel da Paz,92,4,2026-02-08 23:24:20
+1068,444,Suporte,Bryan Ramos,65,4,2025-08-08 02:37:14
+1069,37,Reunião,Letícia Mendes,38,5,2025-11-30 22:35:20
+1070,62,Suporte,Maria Sophia Silva,87,5,2025-10-07 19:52:08
+1071,366,Ligação,Srta. Rafaela Almeida,61,4,2025-09-12 21:41:12
+1072,424,Ligação,Ana Vitória Peixoto,42,4,2025-10-06 11:40:50
+1073,425,Ligação,Ana Farias,51,4,2025-09-14 02:21:14
+1074,367,Suporte,Renan Alves,85,4,2026-04-14 08:15:33
+1075,220,Ligação,Nicolas Souza,18,2,2026-03-30 22:52:33
+1076,434,WhatsApp,Davi Freitas,102,5,2026-01-19 05:59:13
+1077,386,Ligação,Maria Vitória Pinto,97,2,2026-03-07 06:55:56
+1078,188,Reunião,Gustavo Henrique Vieira,89,3,2026-03-01 22:49:25
+1079,73,E-mail,Igor Aragão,106,4,2026-03-14 03:31:59
+1080,108,WhatsApp,Isis da Rosa,17,3,2026-02-04 18:32:12
+1081,329,Ligação,Sra. Maria Araújo,63,4,2026-03-02 14:56:24
+1082,386,E-mail,Juan da Rocha,101,3,2025-05-31 06:37:30
+1083,176,WhatsApp,Calebe Alves,93,4,2026-03-27 08:31:50
+1084,170,Reunião,Bruna Nunes,94,3,2025-10-15 12:15:06
+1085,291,WhatsApp,Maria Luiza Cavalcanti,81,1,2025-07-03 09:41:30
+1086,390,E-mail,Isabel Santos,23,5,2025-08-27 15:33:53
+1087,148,Ligação,Dr. Alexandre da Mata,33,3,2025-12-29 19:54:53
+1088,289,WhatsApp,Olivia Fogaça,96,3,2025-10-05 19:15:00
+1089,158,E-mail,Maysa da Mota,77,3,2025-10-12 03:43:40
+1090,244,Reunião,Ana Beatriz Correia,91,3,2025-10-30 20:50:59
+1091,80,E-mail,Guilherme Dias,23,5,2025-10-01 12:43:07
+1092,150,Reunião,Maria Costela,37,2,2026-01-24 18:19:53
+1093,15,E-mail,Bruno Nascimento,79,3,2026-01-21 18:38:33
+1094,76,Suporte,Heloísa Cavalcanti,6,3,2026-03-05 07:40:31
+1095,187,Suporte,Sr. Daniel Novaes,100,5,2025-08-02 18:05:58
+1096,208,Reunião,Pedro Henrique Campos,84,2,2025-10-21 02:12:21
+1097,498,WhatsApp,Francisco Silveira,87,2,2026-04-21 08:48:29
+1098,301,Suporte,Srta. Ana Novaes,45,5,2026-02-03 21:15:50
+1099,192,Reunião,Daniel Barros,115,4,2025-08-15 05:23:09
+1100,332,E-mail,Dra. Ana Lívia Carvalho,116,5,2026-01-01 07:57:20
+1101,247,E-mail,Caroline Ramos,66,4,2026-04-14 12:45:30
+1102,8,Ligação,Daniela da Mota,48,2,2025-09-27 13:02:32
+1103,159,E-mail,Melissa Castro,33,2,2025-08-28 11:15:20
+1104,143,Suporte,Maria Sophia Almeida,104,1,2025-07-30 21:29:32
+1105,333,E-mail,Sophia da Luz,50,4,2026-02-03 22:28:14
+1106,236,Suporte,Gabrielly Ribeiro,86,1,2026-04-29 06:24:01
+1107,431,Suporte,Dr. Luiz Otávio da Conceição,119,2,2025-12-17 01:44:05
+1108,380,E-mail,Sra. Amanda Cunha,51,1,2026-02-28 03:30:20
+1109,205,Ligação,Isabel da Rocha,47,5,2025-09-09 07:25:16
+1110,35,WhatsApp,Samuel Nogueira,75,5,2026-04-29 19:37:12
+1111,434,Suporte,Bárbara Cardoso,116,1,2025-06-30 04:09:19
+1112,497,Ligação,Emanuelly Moreira,62,5,2026-04-06 04:22:50
+1113,268,E-mail,Bruna Nascimento,36,3,2025-07-13 08:32:06
+1114,409,E-mail,Luiz Fernando Fernandes,93,2,2025-11-09 00:29:04
+1115,117,Reunião,Helena Moraes,27,1,2026-02-04 18:23:50
+1116,312,WhatsApp,João Vitor Cardoso,75,3,2025-12-14 07:54:35
+1117,47,E-mail,Melissa Duarte,98,1,2026-01-04 12:54:38
+1118,464,E-mail,Alexandre Nunes,71,3,2026-02-18 20:46:26
+1119,32,E-mail,Kevin da Cruz,34,2,2025-06-24 23:37:57
+1120,300,Suporte,Emanuella Teixeira,66,4,2026-02-09 07:21:40
+1121,51,Suporte,Joaquim Barros,117,1,2025-05-29 00:46:28
+1122,164,Ligação,Sra. Evelyn Santos,30,4,2026-01-24 17:38:51
+1123,60,Reunião,Luiz Fernando da Cruz,15,4,2026-02-02 01:51:33
+1124,102,Ligação,Antônio Fogaça,74,5,2025-06-26 21:17:27
+1125,111,Suporte,Bianca Cardoso,67,3,2026-05-07 00:25:24
+1126,292,Ligação,Olivia Pinto,79,4,2025-11-01 22:35:29
+1127,441,Ligação,Levi Sales,97,4,2026-04-25 15:41:25
+1128,399,E-mail,Dr. Bernardo das Neves,80,5,2025-12-11 09:40:05
+1129,387,Reunião,Sophia Gonçalves,5,3,2025-06-19 05:42:02
+1130,387,Reunião,Raquel Teixeira,81,3,2025-08-01 23:12:35
+1131,253,E-mail,Dra. Ana Julia Melo,47,5,2025-08-11 05:13:41
+1132,248,Suporte,Davi Luiz Castro,41,3,2025-07-28 23:41:25
+1133,136,Suporte,Thales Oliveira,36,3,2025-10-24 00:15:06
+1134,141,Suporte,Dr. Vitor Hugo Vieira,69,3,2026-01-08 03:14:23
+1135,321,Reunião,Maria Cecília Ferreira,19,2,2026-01-22 16:05:02
+1136,250,Ligação,Thales Ferreira,45,5,2026-04-17 01:53:30
+1137,241,Reunião,João Vitor Ramos,25,2,2025-09-01 08:19:20
+1138,34,Reunião,Maria Martins,91,3,2025-12-11 09:17:27
+1139,49,Reunião,Kaique da Costa,48,5,2025-07-23 07:29:15
+1140,422,E-mail,Benjamin da Rosa,29,1,2026-03-29 18:04:29
+1141,391,E-mail,Thales Barbosa,32,3,2025-10-22 18:47:14
+1142,257,WhatsApp,Enrico Correia,45,5,2026-02-01 17:20:46
+1143,242,Ligação,Letícia Pires,92,3,2025-12-19 00:46:45
+1144,475,Suporte,Pedro Peixoto,31,5,2025-10-25 23:56:00
+1145,345,E-mail,Evelyn Cardoso,46,2,2025-10-18 18:05:29
+1146,99,Reunião,Evelyn Costa,105,2,2025-08-20 22:46:59
+1147,437,E-mail,Otávio Silveira,83,2,2026-02-11 01:13:39
+1148,167,Suporte,Giovanna Nunes,65,5,2026-01-03 15:30:43
+1149,404,Reunião,João Guilherme Cardoso,104,3,2025-06-15 20:02:26
+1150,118,WhatsApp,Benjamin Jesus,65,3,2026-02-09 10:34:39
+1151,190,E-mail,Stella Duarte,44,3,2025-11-17 02:36:03
+1152,373,WhatsApp,Luiz Otávio Santos,111,3,2026-02-15 23:14:10
+1153,231,WhatsApp,Carolina Moreira,59,5,2025-06-04 19:05:17
+1154,202,Reunião,Gabriel Sales,5,4,2025-07-21 04:45:25
+1155,29,Reunião,Alexia Cavalcanti,50,2,2026-01-14 15:09:50
+1156,500,Reunião,Rafaela Dias,103,3,2025-09-23 20:52:31
+1157,10,E-mail,Maria Julia Novaes,31,3,2026-02-15 10:28:57
+1158,151,WhatsApp,Noah Barbosa,8,3,2025-11-08 03:01:01
+1159,219,Reunião,Luigi Ramos,46,5,2025-09-19 09:10:25
+1160,287,E-mail,Ana Clara Lopes,107,2,2025-11-15 05:52:39
+1161,317,Suporte,Pedro Lucas Dias,61,3,2026-01-24 16:32:49
+1162,55,Ligação,Alícia Sales,36,2,2025-11-13 21:08:26
+1163,167,Reunião,Arthur Teixeira,97,5,2026-03-17 19:53:21
+1164,241,Ligação,Catarina da Rosa,104,4,2025-12-14 07:40:39
+1165,353,Reunião,Manuela Barros,36,3,2026-05-20 19:07:22
+1166,311,Suporte,Guilherme Santos,53,1,2025-11-27 01:15:40
+1167,52,Ligação,Manuela Carvalho,86,3,2025-09-15 09:21:21
+1168,142,Suporte,Isabelly Gomes,52,4,2026-01-27 07:25:49
+1169,473,WhatsApp,Antônio Vieira,19,4,2025-12-05 10:12:12
+1170,69,Ligação,Fernando Rodrigues,46,4,2025-07-13 01:30:55
+1171,423,E-mail,Thiago Fernandes,116,2,2026-04-02 11:57:18
+1172,302,WhatsApp,Esther Fogaça,78,2,2025-06-24 11:05:58
+1173,288,Ligação,Eduardo Monteiro,61,2,2025-12-03 17:54:03
+1174,168,Suporte,Camila Lopes,74,3,2026-02-05 13:57:23
+1175,286,Suporte,Renan Costela,109,3,2025-11-15 14:18:13
+1176,354,Ligação,Kaique Farias,22,1,2026-02-06 10:46:33
+1177,446,WhatsApp,Maria Vitória da Mata,114,3,2025-09-06 22:39:52
+1178,464,Reunião,Srta. Rafaela Pires,100,2,2025-05-25 11:56:56
+1179,95,WhatsApp,Eloah da Mota,64,2,2026-02-21 22:51:08
+1180,236,WhatsApp,Sra. Maria Sophia da Rosa,47,2,2025-11-10 04:06:42
+1181,347,WhatsApp,Olivia Barbosa,37,5,2025-11-15 16:33:33
+1182,383,Ligação,Alexia Lopes,22,1,2026-01-07 17:46:31
+1183,329,Reunião,Diogo Castro,59,4,2026-02-21 16:43:24
+1184,413,Reunião,Isadora da Mota,107,1,2025-09-21 23:48:53
+1185,426,Suporte,Dr. Gustavo Lopes,12,5,2025-09-10 20:49:09
+1186,192,Ligação,Raquel Nunes,77,4,2025-09-26 20:21:13
+1187,17,Suporte,Yuri Aragão,116,3,2025-09-12 11:55:55
+1188,405,Suporte,Sra. Sabrina Lima,67,3,2026-02-11 07:45:41
+1189,295,WhatsApp,Maria Julia Moreira,86,1,2025-10-08 08:23:21
+1190,377,Ligação,Yago Viana,77,1,2025-08-14 01:56:20
+1191,499,Suporte,Danilo Moreira,104,1,2025-06-04 04:47:23
+1192,273,E-mail,Sarah Monteiro,107,5,2025-08-29 23:24:52
+1193,434,Ligação,Theo Vieira,78,4,2025-08-10 01:04:54
+1194,313,E-mail,Nina Lima,101,1,2025-06-01 22:48:38
+1195,393,Reunião,Guilherme da Cunha,109,3,2025-05-29 02:48:37
+1196,239,Reunião,Renan Pinto,118,2,2026-05-10 10:10:15
+1197,334,WhatsApp,Maysa Castro,14,2,2025-09-04 15:02:03
+1198,332,Suporte,Sr. Vitor Gabriel da Mota,48,4,2025-07-25 08:05:07
+1199,271,Reunião,Augusto Vieira,118,1,2025-08-04 05:12:22
+1200,206,Suporte,Davi Lucas Peixoto,42,1,2026-01-19 21:30:53
+1201,320,Reunião,Enzo Gabriel Campos,7,1,2026-01-04 06:43:21
+1202,116,WhatsApp,Sr. Nicolas Teixeira,59,2,2025-10-27 15:16:15
+1203,133,E-mail,Cauã Ferreira,79,3,2025-08-01 00:37:16
+1204,273,Reunião,Maria Julia da Cruz,88,2,2025-10-19 16:15:16
+1205,395,Suporte,Maria Cavalcanti,50,5,2026-02-26 10:03:46
+1206,79,E-mail,Ana Lívia Cavalcanti,103,2,2025-12-18 07:23:16
+1207,106,WhatsApp,Lívia Barros,28,1,2025-10-05 12:38:47
+1208,14,Suporte,João Vitor Pinto,82,1,2025-10-29 08:52:49
+1209,400,E-mail,Dr. Luigi Araújo,74,3,2025-06-10 09:17:16
+1210,489,Ligação,Diogo Costela,46,3,2025-08-22 15:43:08
+1211,476,E-mail,Carolina Almeida,89,2,2026-02-04 19:54:41
+1212,104,WhatsApp,Pedro Ramos,25,4,2025-10-15 12:56:22
+1213,139,E-mail,Srta. Eduarda Caldeira,32,3,2026-04-09 02:19:16
+1214,14,E-mail,Davi Lucas Porto,117,4,2026-03-23 23:16:43
+1215,64,Reunião,Vitor Hugo Duarte,8,4,2025-10-16 01:12:45
+1216,445,E-mail,Gustavo Gomes,53,1,2026-03-17 00:17:21
+1217,229,Reunião,Kaique Moraes,56,2,2026-02-12 11:04:44
+1218,106,Reunião,Srta. Luana da Mata,80,1,2026-04-11 18:28:04
+1219,48,E-mail,Paulo Vieira,69,5,2025-06-10 00:19:29
+1220,371,Suporte,Davi Lucas Rodrigues,20,2,2026-03-02 22:30:45
+1221,388,E-mail,Srta. Maysa Moraes,20,4,2025-11-05 23:46:12
+1222,380,Suporte,Bryan Silva,50,3,2025-09-28 19:48:19
+1223,213,E-mail,Thomas Castro,31,1,2025-12-23 12:43:14
+1224,410,Suporte,Sr. Luiz Gustavo Porto,51,4,2025-09-27 18:27:13
+1225,131,Suporte,Maria Luiza Lima,19,4,2025-06-24 19:24:20
+1226,9,Ligação,Daniela Monteiro,53,4,2026-05-15 07:06:19
+1227,205,Ligação,Dra. Rafaela Sales,50,3,2025-07-29 07:57:34
+1228,485,WhatsApp,Otávio Rocha,112,1,2025-12-01 17:17:46
+1229,223,WhatsApp,Luiz Otávio Rocha,34,1,2025-12-21 09:15:08
+1230,334,Reunião,Cauê da Rosa,117,4,2025-11-16 02:30:42
+1231,9,WhatsApp,Emilly Gonçalves,98,3,2025-07-21 21:12:50
+1232,24,E-mail,Lavínia da Conceição,113,2,2025-12-03 12:53:24
+1233,91,Suporte,Lara Barbosa,6,2,2025-09-22 23:42:07
+1234,266,E-mail,Maria Luiza Sales,22,4,2026-04-26 00:05:35
+1235,391,Ligação,Augusto Cunha,12,5,2025-10-08 13:30:28
+1236,411,E-mail,Daniel Barros,115,3,2025-06-08 15:11:19
+1237,191,Suporte,Esther Novaes,58,2,2026-01-17 19:30:25
+1238,215,E-mail,Anthony Lima,27,5,2026-01-18 21:32:43
+1239,495,E-mail,Pedro Henrique Dias,99,2,2026-01-10 00:01:52
+1240,187,Ligação,Mirella Lima,105,2,2026-03-14 09:40:42
+1241,16,Reunião,Nathan Santos,31,3,2025-08-19 19:03:23
+1242,207,WhatsApp,Giovanna da Rosa,112,3,2025-10-19 16:46:21
+1243,319,WhatsApp,Sr. Joaquim Gonçalves,8,1,2026-05-04 08:53:43
+1244,170,Ligação,Laura Lopes,118,4,2025-09-12 06:16:53
+1245,18,E-mail,Pietro da Mata,57,1,2025-07-29 23:43:29
+1246,277,Reunião,Rebeca Silveira,102,5,2025-08-15 23:04:25
+1247,370,Suporte,Raquel Santos,26,2,2026-05-10 10:42:34
+1248,52,Ligação,Dra. Sabrina Costela,49,2,2025-09-06 22:45:16
+1249,48,Reunião,Sra. Fernanda Dias,13,1,2025-08-22 10:33:06
+1250,496,Reunião,Sr. Vitor Hugo Nunes,64,4,2026-02-22 15:08:01
+1251,439,Suporte,Davi Luiz Costela,61,2,2025-08-04 02:18:53
+1252,439,Suporte,Joaquim Nogueira,108,1,2025-11-12 23:39:25
+1253,160,Reunião,Dr. Breno Ribeiro,65,3,2025-08-12 04:29:42
+1254,66,WhatsApp,Diego Fogaça,89,5,2025-08-07 16:12:45
+1255,188,Suporte,Henrique Moraes,90,1,2025-08-10 23:38:43
+1256,245,Reunião,Enzo Araújo,100,5,2025-12-24 13:54:52
+1257,101,E-mail,Gabriela Costa,33,5,2026-02-06 04:37:48
+1258,67,E-mail,Luana Souza,33,1,2026-03-24 09:25:31
+1259,381,Ligação,Luiz Gustavo Novaes,96,4,2025-05-28 14:02:09
+1260,145,Suporte,Dra. Mirella Ferreira,18,2,2026-04-23 04:05:37
+1261,116,WhatsApp,Paulo Gonçalves,28,3,2026-01-03 22:10:20
+1262,169,Reunião,Luiz Gustavo da Paz,90,5,2026-02-21 18:17:56
+1263,267,Suporte,Caio Fernandes,78,3,2026-04-13 18:19:10
+1264,390,E-mail,Raquel Souza,46,4,2026-04-09 01:40:50
+1265,192,E-mail,Lucas da Cunha,79,1,2025-10-02 15:52:19
+1266,383,Reunião,Raquel da Rocha,85,1,2026-01-01 01:11:50
+1267,407,E-mail,Ryan Santos,28,1,2025-07-30 22:46:56
+1268,74,Ligação,Dra. Vitória Pires,111,2,2025-09-23 17:08:24
+1269,83,Reunião,Bryan Carvalho,46,1,2025-11-23 14:45:33
+1270,293,Reunião,João Gabriel Aragão,66,3,2025-08-28 00:04:25
+1271,97,Suporte,Fernanda Rocha,56,4,2025-09-16 11:26:52
+1272,110,Reunião,Emanuel Nascimento,84,3,2026-03-09 18:50:36
+1273,280,Reunião,Samuel Nascimento,20,3,2025-10-16 09:37:29
+1274,336,Suporte,Sarah da Paz,48,3,2025-09-30 03:09:49
+1275,457,E-mail,Rafael da Rocha,37,3,2026-03-24 20:24:45
+1276,414,Reunião,Gustavo Costa,103,5,2026-03-13 14:36:43
+1277,234,Ligação,Isadora Cardoso,90,3,2025-07-12 08:38:09
+1278,391,Suporte,Dr. Lucca Rocha,38,1,2025-07-31 01:01:06
+1279,401,WhatsApp,Stephany Azevedo,59,1,2025-11-25 18:25:53
+1280,494,Suporte,Miguel Fernandes,21,1,2025-08-17 17:20:30
+1281,117,Reunião,Joaquim da Mata,111,1,2025-11-05 06:29:53
+1282,62,Suporte,Olivia Nunes,96,3,2026-03-16 05:58:38
+1283,65,WhatsApp,Lara Caldeira,44,4,2025-10-24 11:43:34
+1284,224,Suporte,Dr. Enzo Gabriel Caldeira,15,5,2025-12-01 08:08:32
+1285,94,Reunião,Emanuella Carvalho,109,5,2026-03-17 12:18:52
+1286,100,E-mail,Danilo Pereira,112,2,2025-08-24 19:55:05
+1287,398,Ligação,Emanuelly Souza,30,3,2026-03-15 05:23:41
+1288,270,Suporte,Eduarda Duarte,104,2,2026-02-01 02:40:29
+1289,289,Suporte,Yuri da Mata,72,1,2025-06-18 00:46:50
+1290,410,Suporte,Diogo Costela,51,5,2025-11-16 22:27:00
+1291,118,Suporte,Danilo Nunes,26,3,2026-01-24 02:59:12
+1292,82,Ligação,Natália Pires,92,2,2025-09-21 19:07:36
+1293,326,Suporte,Marcos Vinicius Oliveira,33,2,2025-09-10 21:36:15
+1294,277,Suporte,Srta. Agatha Gomes,59,2,2026-04-30 05:12:12
+1295,143,Ligação,Dr. Vinicius Rezende,56,3,2026-01-16 16:33:56
+1296,200,Suporte,Melissa Moreira,58,4,2025-06-05 19:06:03
+1297,240,WhatsApp,Bárbara da Conceição,22,3,2026-02-07 09:24:32
+1298,1,Ligação,Ryan Barros,37,5,2025-09-10 22:28:49
+1299,343,WhatsApp,Ian Fernandes,31,5,2025-09-23 03:25:07
+1300,305,Ligação,Heloísa Duarte,12,4,2025-10-25 08:06:28
+1301,72,E-mail,João Guilherme Freitas,66,2,2025-09-26 00:43:24
+1302,392,E-mail,Dr. Benício Rezende,55,2,2026-05-21 11:05:24
+1303,331,Reunião,Leonardo das Neves,55,5,2025-10-25 18:20:14
+1304,100,E-mail,Clara Moreira,111,3,2025-12-01 01:59:37
+1305,37,E-mail,Clarice Moraes,40,2,2026-04-21 01:36:59
+1306,458,Reunião,Thomas da Cunha,20,5,2025-06-01 14:35:35
+1307,484,E-mail,Srta. Lara Rocha,31,4,2026-03-20 18:27:53
+1308,73,WhatsApp,Sr. Thomas da Cruz,102,3,2025-12-16 09:18:44
+1309,6,Ligação,Valentina Carvalho,71,3,2026-03-18 22:38:39
+1310,269,Ligação,Manuela Rocha,103,5,2025-06-09 03:05:22
+1311,242,E-mail,Davi Lucca Ramos,89,4,2026-01-18 15:01:30
+1312,153,Ligação,Eduardo Monteiro,74,5,2025-06-09 22:52:49
+1313,233,E-mail,Juliana Pereira,14,3,2025-08-10 21:08:39
+1314,449,WhatsApp,Augusto Nunes,10,4,2025-11-22 10:57:40
+1315,430,WhatsApp,Isabelly Duarte,19,4,2025-06-03 16:11:26
+1316,219,Suporte,Alexandre Vieira,26,4,2026-01-05 07:41:00
+1317,389,WhatsApp,Yasmin da Luz,33,5,2025-09-16 08:03:29
+1318,53,Ligação,Maria Sophia Peixoto,98,5,2025-10-31 22:33:16
+1319,492,Suporte,Ana Lívia Mendes,115,3,2025-08-11 20:48:56
+1320,124,Reunião,Eduardo Dias,112,4,2025-12-24 22:30:56
+1321,216,Ligação,Evelyn Moura,86,1,2025-08-07 14:52:16
+1322,443,WhatsApp,Dr. Lucas Freitas,112,3,2026-02-22 15:39:26
+1323,464,WhatsApp,Srta. Emilly Cardoso,86,5,2025-10-26 11:44:42
+1324,169,Reunião,Olivia Rocha,90,3,2025-07-20 11:45:55
+1325,183,Ligação,Helena Gonçalves,6,1,2025-09-18 11:25:03
+1326,366,Reunião,Dr. Kevin Ramos,36,5,2025-12-11 01:55:51
+1327,254,E-mail,Ana Julia Souza,80,4,2025-07-10 00:29:24
+1328,341,WhatsApp,Sr. Heitor Duarte,18,4,2026-01-27 03:20:29
+1329,288,Suporte,Stephany da Luz,112,5,2025-12-30 23:54:57
+1330,193,Suporte,Arthur Carvalho,71,4,2025-09-23 09:34:21
+1331,22,Suporte,Milena Farias,18,5,2025-07-01 15:58:42
+1332,430,Ligação,Igor da Rocha,78,1,2026-04-12 03:42:02
+1333,61,E-mail,Sr. Cauê Cardoso,51,5,2025-11-26 10:27:03
+1334,345,Suporte,Isadora Rocha,58,4,2025-07-15 04:58:43
+1335,368,Ligação,Larissa das Neves,49,4,2026-05-03 06:46:38
+1336,437,Reunião,Srta. Lara Rezende,78,5,2025-11-12 20:40:53
+1337,20,Reunião,Emanuella Rezende,109,4,2025-06-08 08:35:51
+1338,343,Ligação,Joana Pires,32,5,2025-05-28 13:32:35
+1339,93,Ligação,Marcela Jesus,85,3,2025-06-27 07:06:02
+1340,51,WhatsApp,Srta. Laís Viana,57,1,2025-08-30 17:28:03
+1341,374,Reunião,Marcos Vinicius Moreira,113,3,2025-07-01 12:03:08
+1342,184,WhatsApp,Maria Luiza da Mota,50,2,2025-10-09 03:50:08
+1343,142,Reunião,Antônio Fogaça,105,1,2026-03-20 03:20:22
+1344,167,Reunião,Olivia Gonçalves,94,3,2025-05-25 11:21:07
+1345,394,E-mail,Clarice Ferreira,31,5,2026-03-01 15:58:10
+1346,395,Suporte,Joaquim Gomes,87,3,2025-07-10 07:51:45
+1347,380,Reunião,Arthur da Cunha,101,3,2025-07-30 10:04:46
+1348,400,E-mail,Sophie das Neves,113,4,2025-11-23 22:35:38
+1349,439,Ligação,Srta. Emilly Rezende,47,3,2025-10-24 10:58:32
+1350,316,Suporte,Daniel Cardoso,99,2,2025-07-25 04:08:07
+1351,163,WhatsApp,Valentina da Mota,17,1,2026-05-06 20:57:30
+1352,328,Reunião,Sophia Duarte,45,5,2025-11-25 15:50:07
+1353,255,E-mail,Sr. Benjamin Nunes,101,4,2025-11-08 03:49:56
+1354,104,WhatsApp,Maitê Ferreira,114,4,2026-01-26 08:55:54
+1355,180,WhatsApp,Dra. Camila Rodrigues,108,4,2026-01-21 08:22:16
+1356,459,WhatsApp,Ana Sophia Moreira,101,2,2025-06-29 18:04:03
+1357,492,E-mail,Bryan Almeida,46,1,2026-01-23 23:02:05
+1358,58,E-mail,Yago Barbosa,79,3,2025-06-15 12:45:28
+1359,466,Suporte,Lucca da Cunha,94,5,2025-12-12 04:43:13
+1360,152,Suporte,João Vitor Melo,73,2,2026-04-17 00:47:54
+1361,204,Suporte,Luiz Henrique da Rocha,94,1,2025-11-15 17:13:29
+1362,102,Ligação,Yasmin Melo,16,5,2025-09-25 17:43:00
+1363,469,Reunião,Srta. Maria Fernanda Araújo,114,3,2025-10-07 03:56:20
+1364,75,WhatsApp,Luiz Fernando Sales,73,3,2025-06-06 17:04:07
+1365,204,E-mail,Sr. Cauã Campos,54,1,2026-05-03 05:42:12
+1366,433,WhatsApp,Emanuel Pires,83,5,2025-07-05 21:38:20
+1367,498,Ligação,Maria Julia Carvalho,46,2,2025-09-01 17:59:40
+1368,227,Ligação,Nicole Moreira,36,5,2025-07-23 10:12:51
+1369,80,WhatsApp,Erick Nogueira,8,4,2025-11-09 12:57:24
+1370,115,E-mail,Amanda Ferreira,36,2,2026-05-06 15:20:43
+1371,226,E-mail,Camila Duarte,23,1,2025-11-18 18:43:03
+1372,152,E-mail,Ryan Viana,7,5,2025-08-30 03:54:17
+1373,248,Reunião,João Alves,58,5,2025-07-02 14:50:27
+1374,283,Suporte,Cauã Correia,29,4,2025-11-28 19:50:28
+1375,96,Suporte,Mariane Gonçalves,79,4,2026-01-05 20:54:59
+1376,322,Suporte,Emanuelly Nogueira,118,4,2026-05-01 01:50:26
+1377,383,WhatsApp,Alana Pinto,95,3,2026-05-18 17:17:44
+1378,412,WhatsApp,Srta. Catarina da Mata,60,3,2025-06-22 01:47:28
+1379,187,E-mail,Maria Luiza da Conceição,45,5,2026-03-28 14:34:06
+1380,183,Ligação,Caroline da Mata,93,2,2026-05-06 18:30:34
+1381,165,E-mail,Carolina Gonçalves,106,5,2026-02-23 01:13:13
+1382,297,E-mail,João Lucas da Luz,17,5,2025-11-17 15:56:48
+1383,363,Reunião,Davi Luiz Cardoso,73,3,2025-07-29 10:29:54
+1384,54,Suporte,Bryan da Costa,34,3,2025-09-18 18:50:04
+1385,368,Suporte,João Lucas Moraes,110,2,2026-01-29 10:41:37
+1386,239,WhatsApp,Cecília Cunha,78,1,2025-11-07 11:38:10
+1387,236,Suporte,Dr. Carlos Eduardo Araújo,61,4,2025-07-09 08:53:21
+1388,303,Reunião,Carolina Pinto,13,2,2025-07-15 23:40:56
+1389,12,Suporte,Bryan Monteiro,62,5,2026-05-01 01:19:41
+1390,333,Ligação,Vitor Barros,119,3,2025-12-16 13:06:19
+1391,245,E-mail,Ryan Martins,13,3,2025-06-16 23:24:35
+1392,34,WhatsApp,João Gabriel Souza,77,3,2026-01-13 17:01:27
+1393,486,Ligação,Gabriela Cavalcanti,96,5,2025-12-07 01:47:17
+1394,252,Reunião,Camila da Mota,95,2,2026-01-20 06:16:56
+1395,203,E-mail,João Miguel Fogaça,89,4,2026-01-08 17:38:41
+1396,159,Suporte,Gustavo Azevedo,94,3,2025-12-04 10:46:44
+1397,170,E-mail,Matheus Viana,77,5,2026-03-27 21:04:37
+1398,485,Reunião,Laís Mendes,23,5,2025-09-29 16:00:08
+1399,349,Suporte,Sra. Maria Sophia Teixeira,45,1,2025-12-14 08:24:30
+1400,498,Suporte,Vitor Hugo Mendes,11,3,2026-03-05 21:07:41
+1401,301,Ligação,Heloísa Rezende,104,1,2026-03-30 04:39:25
+1402,315,Ligação,Mirella Oliveira,72,4,2026-03-18 19:06:44
+1403,374,E-mail,Isadora Souza,98,2,2025-09-08 05:21:52
+1404,128,Suporte,Luana Alves,104,2,2025-10-25 23:34:54
+1405,428,E-mail,Manuela Fernandes,8,4,2025-07-18 11:16:02
+1406,374,Ligação,Luiz Henrique Nunes,47,1,2025-10-06 12:31:19
+1407,49,Reunião,Maria Fernanda Moraes,78,4,2025-12-27 16:56:40
+1408,413,Reunião,Dr. Emanuel Ramos,53,4,2025-08-08 08:52:55
+1409,71,WhatsApp,Sra. Melissa Rezende,28,1,2025-11-18 11:33:00
+1410,160,WhatsApp,Stella Freitas,27,4,2025-07-22 21:47:15
+1411,451,WhatsApp,Isabella Nunes,68,1,2025-10-28 18:46:54
+1412,95,WhatsApp,Caio Porto,56,2,2025-08-18 04:54:16
+1413,117,WhatsApp,Emanuel Peixoto,87,1,2025-07-10 14:29:09
+1414,174,Reunião,Eduardo da Mota,101,1,2025-06-11 06:21:36
+1415,269,WhatsApp,Rafael Correia,7,5,2026-03-25 22:09:16
+1416,32,Suporte,Emanuel Lopes,12,3,2025-10-22 22:00:45
+1417,49,E-mail,Breno Costa,5,5,2026-02-03 07:33:54
+1418,7,Ligação,Sarah Pereira,46,4,2025-08-22 04:49:31
+1419,157,Ligação,Lorenzo Ramos,107,5,2025-10-22 22:37:33
+1420,289,WhatsApp,Camila Farias,114,1,2025-09-24 04:18:37
+1421,490,E-mail,Kevin das Neves,29,5,2025-12-28 18:50:58
+1422,256,E-mail,Isabelly Melo,73,2,2026-02-08 15:01:31
+1423,500,WhatsApp,Danilo Carvalho,17,2,2025-06-19 00:41:54
+1424,308,WhatsApp,João da Mata,78,2,2026-05-10 03:16:56
+1425,457,Reunião,Gustavo Fogaça,95,2,2025-10-05 17:26:17
+1426,260,E-mail,Alana da Costa,109,4,2025-10-10 19:51:17
+1427,16,Suporte,Sra. Cecília Costela,9,5,2026-03-09 21:35:14
+1428,455,Ligação,Maria Cardoso,108,3,2025-08-20 07:28:57
+1429,479,WhatsApp,Srta. Lorena Silva,18,3,2026-01-07 23:00:17
+1430,350,E-mail,Emanuella Gomes,80,5,2026-02-17 00:31:34
+1431,86,Ligação,Paulo Duarte,68,2,2025-09-16 06:38:30
+1432,309,E-mail,Luiz Fernando Pereira,83,3,2026-01-16 06:12:54
+1433,481,Reunião,Danilo Nunes,89,5,2026-03-31 07:23:06
+1434,426,Reunião,Gabriela Nogueira,105,4,2025-05-25 04:59:09
+1435,484,Ligação,Ian Costela,90,5,2026-03-13 23:54:43
+1436,34,WhatsApp,Matheus Monteiro,36,3,2026-05-02 11:26:57
+1437,73,E-mail,Francisco Gonçalves,109,4,2025-12-16 07:16:56
+1438,97,Reunião,Thomas Melo,10,3,2025-09-04 08:54:46
+1439,31,Reunião,Cauê Pereira,108,5,2025-12-29 11:38:51
+1440,51,Suporte,Sra. Beatriz Pinto,16,3,2025-11-03 13:42:31
+1441,467,Suporte,Carlos Eduardo Cavalcanti,77,5,2026-04-28 10:38:13
+1442,360,Suporte,Maria Vitória das Neves,71,4,2025-08-13 17:55:08
+1443,388,Suporte,Ana Carolina Fogaça,87,2,2025-11-01 03:43:13
+1444,145,WhatsApp,Dr. Luiz Henrique da Mata,22,4,2025-06-16 05:30:36
+1445,391,E-mail,Kaique da Conceição,42,4,2025-09-09 01:44:48
+1446,207,Reunião,Maria Luiza Farias,53,1,2026-01-05 19:32:36
+1447,252,Ligação,Isaac Freitas,67,1,2026-01-17 11:33:18
+1448,165,Suporte,Raquel da Cruz,66,5,2025-06-07 03:19:39
+1449,200,WhatsApp,Pedro Lucas da Mota,68,3,2026-04-12 14:31:14
+1450,395,Ligação,Clarice da Conceição,72,1,2026-01-11 16:56:53
+1451,97,Ligação,Maria Correia,44,5,2025-08-05 00:26:01
+1452,383,Suporte,Anthony Costela,74,2,2025-06-10 00:28:28
+1453,329,WhatsApp,Srta. Nina Gomes,99,1,2026-02-25 17:47:01
+1454,274,Ligação,Nina da Paz,11,3,2026-05-04 14:21:48
+1455,198,E-mail,Isabel da Cunha,50,5,2026-03-30 00:23:41
+1456,27,Reunião,Stella Sales,99,5,2025-07-22 18:00:01
+1457,269,E-mail,Sra. Manuela Mendes,70,3,2025-06-09 17:45:58
+1458,349,Ligação,Ana Julia da Mata,32,1,2026-04-17 03:50:46
+1459,235,E-mail,Gustavo Ramos,119,2,2025-08-27 08:41:47
+1460,365,WhatsApp,Sr. Pedro Porto,14,2,2025-07-25 10:28:02
+1461,254,E-mail,Srta. Bárbara da Rosa,78,5,2026-04-28 20:03:23
+1462,8,Ligação,Luiz Felipe da Luz,53,2,2025-11-28 22:23:49
+1463,461,Ligação,Ana Lívia Costa,42,1,2025-06-19 18:01:58
+1464,464,E-mail,Diogo Lima,89,3,2026-04-11 17:14:31
+1465,91,Reunião,Pietra Viana,110,2,2025-06-01 13:18:54
+1466,191,Reunião,João Lucas Freitas,10,2,2025-12-31 01:00:36
+1467,73,Suporte,Davi Gomes,36,5,2026-01-24 10:47:36
+1468,343,WhatsApp,Kaique Pires,117,4,2026-02-15 06:30:29
+1469,349,Suporte,Vicente da Mota,95,3,2025-12-15 11:14:44
+1470,105,WhatsApp,Sr. Thales Costela,57,1,2026-05-23 10:54:42
+1471,213,Reunião,Vicente Souza,53,3,2026-01-07 15:56:44
+1472,432,E-mail,Sra. Maria Vieira,109,4,2025-12-16 13:19:36
+1473,130,Suporte,Theo da Costa,6,4,2025-10-11 12:55:28
+1474,22,Reunião,Bernardo Rocha,21,2,2025-09-30 09:17:18
+1475,37,Ligação,Luana Ribeiro,19,2,2025-12-02 19:25:16
+1476,462,Reunião,Srta. Joana Carvalho,13,2,2026-02-10 08:07:16
+1477,275,WhatsApp,Helena Caldeira,26,3,2025-06-24 12:12:53
+1478,490,Reunião,Letícia Gomes,41,5,2025-10-02 11:54:52
+1479,147,WhatsApp,João Vitor da Conceição,114,5,2026-03-30 19:42:07
+1480,134,Ligação,André Pires,102,1,2025-06-12 16:53:37
+1481,203,E-mail,Srta. Sophie Viana,16,5,2026-01-15 06:36:04
+1482,434,Reunião,Raul Pires,30,2,2026-01-07 04:01:13
+1483,266,Ligação,Brenda Pires,65,4,2026-03-17 06:02:01
+1484,56,Ligação,Sr. João Miguel Carvalho,34,1,2025-12-24 10:21:07
+1485,427,Reunião,Pedro Silva,28,1,2025-09-25 20:55:05
+1486,391,Ligação,Sr. Benjamin Gonçalves,35,4,2026-04-29 13:51:48
+1487,316,WhatsApp,Lavínia Cardoso,61,2,2025-11-25 06:56:01
+1488,227,Suporte,Bárbara Sales,103,1,2025-05-29 12:58:01
+1489,340,Suporte,Luiz Fernando Mendes,103,2,2026-03-19 15:21:07
+1490,394,E-mail,Alice da Rosa,97,3,2026-03-21 19:04:46
+1491,23,Suporte,João Miguel Alves,6,2,2026-05-09 15:35:07
+1492,175,WhatsApp,Clarice da Cruz,27,3,2025-07-30 04:05:03
+1493,237,E-mail,Emanuel Castro,120,1,2026-02-17 20:26:58
+1494,201,Reunião,Isabella Martins,24,3,2026-04-11 23:46:46
+1495,259,Ligação,Isaac Peixoto,33,2,2026-04-23 01:22:53
+1496,322,E-mail,Carlos Eduardo Souza,47,4,2025-10-03 10:36:03
+1497,13,Reunião,Fernanda das Neves,13,2,2025-07-14 12:16:36
+1498,309,Suporte,Maria Julia Alves,41,5,2026-05-14 00:30:12
+1499,83,E-mail,Dr. Danilo Moraes,75,3,2026-03-20 08:11:47
+1500,30,Ligação,João Vitor Costa,92,1,2025-11-10 01:58:48
+1501,210,Suporte,Dr. Lucca Martins,73,1,2025-11-23 06:59:43
+1502,317,E-mail,Sra. Emilly Cardoso,97,3,2025-10-21 01:14:37
+1503,190,Ligação,Alice Lopes,23,1,2026-04-28 22:17:43
+1504,351,E-mail,Eloah da Paz,5,4,2026-03-28 02:22:10
+1505,2,Suporte,Bárbara Teixeira,12,4,2025-10-26 07:08:30
+1506,394,Suporte,Vitor Hugo da Conceição,20,2,2025-09-01 10:04:52
+1507,391,Ligação,Leandro Ribeiro,77,5,2025-06-12 06:24:42
+1508,38,Ligação,Laís Lima,88,4,2026-01-13 22:10:19
+1509,480,Suporte,Enrico Azevedo,87,4,2025-05-31 01:53:57
+1510,145,Suporte,Cauã Carvalho,54,4,2025-07-31 21:18:35
+1511,467,E-mail,Davi Lucas Porto,92,4,2026-03-25 02:25:50
+1512,314,WhatsApp,Maria Clara Cavalcanti,49,4,2026-02-22 01:52:04
+1513,246,E-mail,Ian Duarte,63,5,2026-04-25 05:35:47
+1514,451,WhatsApp,João da Cunha,33,2,2025-07-07 12:45:38
+1515,147,E-mail,Vinicius Dias,54,3,2025-11-02 21:23:30
+1516,452,E-mail,Pedro Henrique Lima,52,1,2026-02-17 03:14:39
+1517,222,WhatsApp,Davi Lucca Azevedo,23,1,2025-06-28 22:25:34
+1518,236,Reunião,Alícia Silveira,95,5,2025-11-26 21:54:04
+1519,437,E-mail,Enzo Dias,56,2,2025-10-28 06:12:59
+1520,431,WhatsApp,Luana Martins,31,4,2026-01-26 21:13:22
+1521,216,Reunião,Srta. Maria Alice Nascimento,63,4,2026-04-01 08:12:03
+1522,228,Reunião,João Pedro Viana,64,3,2025-10-27 04:17:36
+1523,173,WhatsApp,Luiz Henrique da Mata,90,4,2025-11-24 03:44:18
+1524,69,Suporte,Yasmin Rezende,31,2,2025-06-09 05:21:22
+1525,112,E-mail,Esther Cardoso,77,2,2026-04-23 11:21:53
+1526,486,Suporte,Levi Cardoso,51,4,2025-10-10 20:54:11
+1527,281,Reunião,Dra. Maria Julia da Luz,52,3,2025-11-09 14:23:19
+1528,110,Reunião,Eloah das Neves,23,4,2025-09-17 08:51:36
+1529,56,Suporte,Kamilly Silveira,88,4,2025-08-20 06:59:07
+1530,154,Suporte,Larissa Lima,57,1,2025-12-30 18:34:21
+1531,103,E-mail,Bruno Barbosa,48,5,2026-05-09 17:39:33
+1532,456,E-mail,Sophia Dias,89,4,2025-10-22 05:08:43
+1533,480,Suporte,Camila Nogueira,60,2,2025-08-14 04:28:54
+1534,483,Reunião,Elisa Pires,8,2,2025-12-23 16:29:16
+1535,198,Suporte,Marcelo Freitas,90,2,2025-07-03 01:31:18
+1536,140,Suporte,Miguel Ramos,103,2,2025-08-14 20:24:14
+1537,329,Reunião,Thales da Luz,78,2,2025-11-18 20:55:14
+1538,78,Reunião,Ana Clara da Mata,45,4,2026-01-19 21:38:24
+1539,126,E-mail,Dr. Kevin Duarte,102,4,2026-05-06 11:02:58
+1540,162,Suporte,Marina Cavalcanti,102,5,2025-09-20 15:08:40
+1541,272,Ligação,Gustavo Fogaça,91,1,2025-09-26 00:39:18
+1542,403,Ligação,Sr. Augusto Dias,15,1,2025-07-21 15:02:54
+1543,5,Ligação,Enzo da Conceição,47,1,2025-09-12 01:30:18
+1544,161,WhatsApp,Mariane Alves,30,2,2026-05-24 00:45:09
+1545,491,E-mail,Maria Duarte,44,1,2025-06-03 19:22:44
+1546,186,Suporte,Clarice Souza,45,5,2025-07-31 09:46:50
+1547,464,Reunião,Dra. Maria Vitória Lopes,65,3,2025-07-22 07:17:16
+1548,361,E-mail,Gustavo Henrique Barbosa,42,3,2025-06-16 05:04:00
+1549,52,Suporte,Ana Laura Lima,25,2,2025-07-08 14:36:11
+1550,84,Reunião,Sr. Thales Fogaça,20,5,2026-03-07 15:40:52
+1551,467,Suporte,Dra. Ana Carolina Almeida,57,2,2025-08-01 15:50:33
+1552,288,Suporte,Helena Carvalho,85,4,2025-07-23 14:55:20
+1553,359,WhatsApp,Diego Gonçalves,93,2,2025-12-26 19:44:31
+1554,500,Ligação,Nathan Ramos,89,2,2025-11-05 08:37:31
+1555,466,Reunião,Joaquim Novaes,17,1,2025-08-27 04:45:55
+1556,70,Reunião,Ana Lívia Silva,65,4,2025-08-18 04:39:20
+1557,245,E-mail,Sra. Marcela Nogueira,103,1,2025-08-29 05:12:17
+1558,301,WhatsApp,Kaique Fogaça,61,5,2025-08-13 15:23:36
+1559,293,E-mail,Dr. Enrico Ferreira,62,1,2025-10-02 22:15:06
+1560,497,Reunião,Gustavo Costa,90,5,2025-07-21 04:51:33
+1561,177,WhatsApp,Srta. Carolina Nunes,15,3,2026-03-26 23:33:36
+1562,36,E-mail,Ryan Jesus,22,5,2026-03-11 13:02:38
+1563,154,Reunião,Matheus Rezende,24,1,2026-03-21 00:52:38
+1564,479,E-mail,Diogo Pereira,86,3,2025-12-24 07:19:26
+1565,150,Ligação,Vitor Barros,50,5,2026-05-11 13:52:47
+1566,410,Reunião,André Caldeira,7,5,2025-12-14 17:50:13
+1567,457,Suporte,Levi Duarte,58,2,2026-04-01 15:45:10
+1568,187,WhatsApp,Lavínia Azevedo,29,5,2025-11-24 02:25:43
+1569,144,Suporte,Dr. Bernardo Teixeira,120,1,2025-08-19 04:36:37
+1570,251,WhatsApp,Pedro Henrique Alves,120,2,2025-11-13 18:15:25
+1571,27,E-mail,Heloísa Viana,94,3,2025-10-08 18:32:31
+1572,135,Reunião,Lorena da Cunha,60,3,2026-01-27 17:35:41
+1573,21,WhatsApp,Júlia Peixoto,100,4,2025-09-21 07:41:49
+1574,338,Ligação,Ana da Rocha,47,5,2025-07-30 16:13:49
+1575,17,E-mail,Sra. Rebeca Sales,116,5,2025-09-24 09:18:42
+1576,6,Suporte,Lucas Araújo,7,3,2026-03-08 11:45:42
+1577,195,E-mail,Lara Vieira,120,4,2025-08-24 08:51:06
+1578,195,Reunião,Stephany Dias,9,3,2025-12-05 13:24:46
+1579,357,Reunião,Srta. Gabrielly Cavalcanti,47,3,2025-10-14 17:48:02
+1580,412,Suporte,Emanuelly Peixoto,114,4,2025-07-07 12:33:11
+1581,209,WhatsApp,Laura Freitas,21,3,2025-07-03 17:08:06
+1582,369,WhatsApp,Calebe Duarte,75,2,2025-05-24 23:21:28
+1583,251,WhatsApp,João Azevedo,39,1,2026-01-10 20:56:51
+1584,468,Reunião,Sarah Duarte,90,1,2026-02-18 20:26:19
+1585,413,WhatsApp,Danilo Viana,115,5,2025-12-06 13:49:57
+1586,459,Ligação,Helena Barbosa,7,2,2026-01-23 18:44:39
+1587,413,Ligação,André Pereira,36,1,2025-08-22 17:45:51
+1588,91,WhatsApp,Renan Monteiro,13,2,2025-08-11 00:10:21
+1589,293,E-mail,Stella Moura,104,1,2025-08-20 17:37:14
+1590,443,Ligação,Ana Vitória Moraes,6,1,2025-08-22 22:38:49
+1591,378,WhatsApp,Ana Vitória Cavalcanti,116,5,2025-07-01 11:09:01
+1592,37,E-mail,Augusto Melo,79,4,2025-12-08 10:26:52
+1593,324,WhatsApp,Bianca da Cruz,105,1,2026-03-12 16:05:25
+1594,314,Ligação,Enzo Gabriel Cardoso,12,2,2026-04-11 04:50:21
+1595,103,Ligação,Pedro Henrique Ramos,28,1,2026-05-15 19:04:59
+1596,368,Ligação,Nicolas Cardoso,5,4,2026-02-03 23:18:55
+1597,406,E-mail,Thomas Silveira,31,1,2025-10-15 04:09:33
+1598,368,Ligação,Dra. Catarina da Cruz,54,3,2025-11-15 14:23:10
+1599,321,Suporte,Bernardo da Mata,29,4,2025-07-19 14:38:01
+1600,419,E-mail,Lívia Araújo,95,4,2025-06-03 19:59:44
+1601,310,E-mail,Vitor Hugo Novaes,65,3,2025-09-24 15:07:42
+1602,375,Suporte,Enzo Gabriel das Neves,115,1,2026-04-16 09:07:30
+1603,227,E-mail,Emanuel Sales,69,1,2026-01-05 02:39:34
+1604,41,E-mail,Dr. Benjamin Castro,30,3,2025-09-09 19:09:56
+1605,74,Suporte,Esther Cunha,78,2,2026-03-18 17:35:42
+1606,359,Ligação,Cauê da Cruz,94,1,2026-01-23 02:05:36
+1607,97,E-mail,Mariane da Paz,113,3,2025-09-13 01:38:54
+1608,388,E-mail,Nicolas da Cunha,25,4,2026-04-30 04:22:43
+1609,326,Suporte,Eduardo Araújo,42,5,2025-07-27 04:09:30
+1610,212,Suporte,Clara Moraes,86,3,2025-11-11 23:49:50
+1611,112,Reunião,João Guilherme Castro,37,3,2026-05-03 00:31:49
+1612,377,E-mail,Luana Monteiro,72,1,2025-12-17 15:20:21
+1613,336,WhatsApp,Davi Lucca Azevedo,41,2,2025-12-23 22:47:09
+1614,34,Ligação,Marcela da Costa,13,4,2026-03-30 00:38:39
+1615,177,Ligação,Felipe Carvalho,84,4,2025-07-19 07:07:24
+1616,41,Reunião,Sra. Yasmin Duarte,6,1,2025-07-26 23:06:39
+1617,164,Suporte,Vicente Novaes,103,3,2025-07-30 14:49:27
+1618,358,Suporte,Maria Clara Barbosa,91,1,2025-12-23 15:21:59
+1619,292,WhatsApp,Milena Cunha,98,3,2025-12-19 01:37:06
+1620,231,WhatsApp,Lorena Costela,100,4,2025-12-05 12:04:34
+1621,190,Reunião,João Vitor Martins,43,4,2026-05-10 06:31:13
+1622,161,Suporte,Gustavo Moura,100,2,2025-07-19 18:12:16
+1623,117,Suporte,Diego Almeida,26,1,2026-03-31 08:41:52
+1624,354,WhatsApp,Pietro Pires,57,4,2025-08-08 14:52:02
+1625,451,Reunião,Lorenzo Souza,46,4,2025-10-27 15:44:13
+1626,238,Reunião,Valentina Viana,62,2,2025-11-15 12:25:54
+1627,73,Reunião,Lara Lopes,58,1,2025-11-10 15:04:30
+1628,448,E-mail,Sophie da Rosa,105,3,2025-09-29 05:36:51
+1629,196,E-mail,Matheus Fernandes,56,3,2026-03-31 16:05:00
+1630,8,Reunião,Lucas Farias,106,2,2025-10-08 03:49:56
+1631,78,Suporte,Vinicius da Conceição,28,2,2025-06-02 15:03:52
+1632,49,Ligação,Carolina Gomes,55,4,2026-01-03 08:25:21
+1633,77,WhatsApp,Pietro Jesus,48,2,2026-04-07 18:44:07
+1634,12,Reunião,Dr. Luiz Fernando Souza,55,2,2025-10-14 20:40:40
+1635,156,Suporte,Yuri Porto,40,2,2025-10-13 06:55:58
+1636,98,Reunião,Raul Oliveira,82,4,2025-12-02 00:46:31
+1637,222,Reunião,Milena Castro,114,2,2026-01-09 14:11:02
+1638,250,Ligação,Maitê Fogaça,50,1,2025-11-18 21:55:24
+1639,35,WhatsApp,Danilo da Rosa,95,4,2025-07-08 22:58:35
+1640,312,WhatsApp,Gabriel Correia,23,2,2025-08-10 16:52:51
+1641,266,Reunião,Vinicius Caldeira,107,2,2026-01-06 02:05:55
+1642,214,Reunião,Sra. Luna da Cruz,6,3,2026-04-19 09:23:15
+1643,324,E-mail,Luana da Luz,48,3,2025-12-07 03:56:46
+1644,351,Suporte,Sr. João Pedro Gomes,59,5,2025-06-25 08:41:01
+1645,63,Suporte,Valentina Nascimento,21,5,2026-02-26 09:18:41
+1646,145,WhatsApp,Sabrina da Mata,97,3,2025-07-27 15:35:50
+1647,414,E-mail,Sra. Pietra Melo,52,5,2026-03-20 04:14:18
+1648,497,Reunião,Ian Melo,13,1,2025-06-25 03:08:27
+1649,229,WhatsApp,Ana Lívia das Neves,58,2,2025-12-04 10:08:49
+1650,108,WhatsApp,Erick Carvalho,93,2,2025-08-04 06:13:12
+1651,466,WhatsApp,Juan Peixoto,86,4,2025-09-24 20:46:59
+1652,403,WhatsApp,Sr. Leonardo Pires,76,3,2025-10-15 07:14:47
+1653,296,WhatsApp,Eduarda Lima,94,2,2025-07-03 05:08:11
+1654,462,E-mail,Ana Júlia Alves,46,5,2026-02-03 06:15:10
+1655,498,E-mail,Raquel da Cunha,95,5,2026-02-06 09:54:29
+1656,313,E-mail,Marina Caldeira,109,2,2025-09-29 17:14:17
+1657,251,Suporte,Heitor Vieira,65,1,2026-04-14 19:42:15
+1658,161,Suporte,Daniela Monteiro,117,1,2025-09-27 04:53:49
+1659,197,E-mail,Lucas Gabriel da Rosa,84,3,2025-08-08 09:18:53
+1660,42,Suporte,Vitor Hugo Freitas,67,4,2026-04-04 02:14:33
+1661,309,WhatsApp,Yuri Almeida,13,4,2025-06-08 17:43:55
+1662,200,E-mail,Isaac Cardoso,106,3,2026-04-14 04:24:13
+1663,365,E-mail,Sra. Maitê Souza,51,1,2025-12-16 11:22:31
+1664,243,E-mail,Enzo Gabriel Correia,33,1,2026-02-15 09:54:49
+1665,168,WhatsApp,Felipe da Mata,110,5,2025-08-20 13:02:32
+1666,248,Suporte,Bárbara Pereira,23,3,2026-03-07 04:39:21
+1667,490,WhatsApp,Augusto da Mota,67,3,2026-05-22 11:52:43
+1668,310,Suporte,Emanuella Rodrigues,30,2,2026-01-14 19:42:43
+1669,491,Suporte,André Viana,82,1,2025-07-25 23:30:15
+1670,152,Ligação,Clara Nogueira,99,2,2025-07-10 14:42:55
+1671,269,Suporte,Elisa Costa,41,2,2025-11-17 16:51:33
+1672,405,Reunião,Luana Rodrigues,59,1,2025-07-09 03:16:37
+1673,153,WhatsApp,Olivia Almeida,31,2,2025-06-25 19:34:19
+1674,152,Ligação,Miguel Gonçalves,8,4,2026-02-15 12:23:44
+1675,41,WhatsApp,Sr. Davi Luiz Gomes,64,2,2026-02-21 08:19:35
+1676,229,Reunião,Larissa da Mota,76,2,2025-05-27 20:35:41
+1677,305,Reunião,Otávio Cardoso,102,3,2025-09-06 05:30:13
+1678,56,WhatsApp,Emanuelly da Costa,63,3,2025-10-18 19:25:31
+1679,102,Suporte,Cauê Barros,63,3,2025-10-18 10:44:03
+1680,84,Suporte,Bruno Moura,21,3,2025-10-01 08:24:01
+1681,490,Ligação,Carolina Campos,20,1,2025-12-27 06:48:11
+1682,445,WhatsApp,Nicolas Fogaça,75,4,2026-04-02 11:08:56
+1683,189,E-mail,Sophie Ferreira,45,4,2026-01-13 05:44:23
+1684,282,Ligação,Isabelly da Cunha,85,4,2025-10-15 18:38:53
+1685,331,WhatsApp,Enrico Moura,55,2,2025-08-05 12:37:11
+1686,168,Suporte,Sra. Lorena Martins,112,1,2025-09-06 06:26:13
+1687,330,WhatsApp,Isadora Sales,46,5,2025-10-17 08:20:35
+1688,388,Suporte,Ana Mendes,10,5,2026-02-10 15:12:29
+1689,29,E-mail,Marcelo da Luz,68,1,2026-02-19 15:50:57
+1690,475,Ligação,Ana Beatriz Cardoso,22,2,2025-11-20 20:47:45
+1691,53,Suporte,Eduardo Teixeira,25,2,2025-12-07 11:39:22
+1692,48,WhatsApp,Sr. Cauã Ramos,50,3,2026-05-09 23:06:36
+1693,42,Reunião,Thales Azevedo,48,1,2025-11-09 03:21:04
+1694,253,Reunião,Eduarda da Cunha,74,1,2026-05-22 13:41:07
+1695,269,Reunião,Sra. Giovanna Oliveira,87,4,2026-04-24 22:31:49
+1696,356,E-mail,Dr. Murilo Vieira,75,1,2025-08-05 16:52:21
+1697,417,E-mail,Natália Caldeira,62,2,2025-12-04 20:13:29
+1698,60,WhatsApp,Dra. Maria Vitória Duarte,34,2,2026-02-24 01:06:08
+1699,29,Suporte,Vitor Hugo Rezende,8,1,2025-09-27 19:12:58
+1700,330,E-mail,Matheus Cunha,66,1,2026-05-23 23:32:37
+1701,22,E-mail,Maria Cecília Fernandes,102,2,2025-06-12 04:43:49
+1702,487,E-mail,Henrique Ferreira,116,2,2026-04-07 22:57:39
+1703,257,WhatsApp,Felipe Novaes,46,4,2025-10-27 16:30:55
+1704,388,Reunião,Pietra Melo,7,5,2026-02-02 20:07:00
+1705,392,WhatsApp,Ian Rodrigues,68,1,2026-04-06 16:53:36
+1706,343,Reunião,Raul Correia,75,1,2025-11-19 06:17:27
+1707,21,E-mail,Davi Luiz Correia,80,1,2025-11-12 03:40:55
+1708,107,E-mail,Ian Azevedo,79,4,2025-07-17 07:01:50
+1709,4,WhatsApp,Juan Nogueira,94,1,2025-10-08 09:05:46
+1710,298,WhatsApp,Dr. Theo da Rocha,70,2,2025-11-10 13:54:04
+1711,204,E-mail,Dr. Thales Melo,24,5,2026-01-09 11:09:58
+1712,4,Suporte,Heitor Sales,41,3,2025-07-30 04:12:44
+1713,285,WhatsApp,Vitor Costela,70,4,2025-09-29 08:53:01
+1714,82,E-mail,Arthur Cardoso,101,5,2025-10-02 13:42:53
+1715,132,WhatsApp,Larissa da Costa,30,3,2026-01-04 15:59:36
+1716,460,WhatsApp,Luana Teixeira,55,1,2025-10-17 12:36:39
+1717,334,WhatsApp,Luiz Gustavo da Luz,62,1,2025-06-03 15:39:53
+1718,229,Suporte,Rafael Pires,88,5,2025-12-20 01:49:46
+1719,395,Reunião,Miguel das Neves,31,2,2026-02-01 15:37:32
+1720,58,Ligação,Sr. Igor Ferreira,54,1,2026-01-02 13:43:58
+1721,381,E-mail,Calebe Ribeiro,30,5,2026-01-20 06:56:45
+1722,377,WhatsApp,Clara Souza,111,2,2025-06-08 21:02:36
+1723,454,Suporte,Theo Jesus,109,3,2026-04-15 18:32:22
+1724,185,Reunião,Amanda da Cruz,11,2,2025-05-28 07:41:33
+1725,291,WhatsApp,Dra. Carolina Silveira,32,5,2025-07-11 18:33:07
+1726,13,WhatsApp,Sophia Gomes,6,2,2025-09-04 11:37:21
+1727,425,E-mail,Luana Costa,115,3,2025-07-09 03:25:08
+1728,106,Reunião,Joaquim Oliveira,97,4,2026-03-09 19:13:53
+1729,369,WhatsApp,Raquel Freitas,63,4,2025-12-05 04:56:46
+1730,309,E-mail,Joaquim Gomes,67,4,2025-12-06 12:14:51
+1731,288,Suporte,Noah Monteiro,41,2,2026-01-11 05:19:21
+1732,40,Suporte,Laura Ferreira,18,1,2025-12-18 18:45:50
+1733,437,Ligação,Davi Lucca Alves,84,1,2025-11-07 01:02:15
+1734,439,Ligação,Eduardo Melo,40,1,2025-05-30 01:18:07
+1735,156,Reunião,Davi Luiz Alves,53,5,2025-06-14 21:25:30
+1736,493,E-mail,Dra. Cecília Rocha,17,1,2025-08-13 11:04:36
+1737,189,E-mail,Sra. Mirella Ramos,87,2,2025-11-16 04:07:56
+1738,498,Reunião,Heitor Rodrigues,99,3,2026-04-05 17:51:21
+1739,39,WhatsApp,Davi da Paz,58,1,2025-10-07 03:47:35
+1740,153,Ligação,Noah Cardoso,120,1,2026-04-19 09:25:31
+1741,155,E-mail,Raul Pinto,38,4,2026-04-06 08:31:57
+1742,477,E-mail,Dra. Emanuella das Neves,20,1,2026-04-13 09:18:18
+1743,451,Reunião,Juan Pires,27,1,2025-10-26 03:58:59
+1744,58,Ligação,Thiago Barros,97,2,2026-02-05 17:15:09
+1745,234,Suporte,Dra. Júlia Moreira,93,5,2026-02-02 10:34:44
+1746,140,WhatsApp,Milena da Paz,7,5,2025-11-01 07:24:42
+1747,246,Ligação,Lívia da Costa,98,2,2026-02-28 00:40:48
+1748,111,Ligação,Ana Vitória da Rocha,55,4,2025-09-14 05:52:56
+1749,16,Ligação,Pietra da Mota,68,4,2026-02-05 11:50:01
+1750,426,Reunião,João Guilherme da Rocha,57,2,2025-08-20 18:15:47
+1751,499,Ligação,Felipe Azevedo,78,1,2025-07-01 15:36:39
+1752,337,Ligação,Breno Mendes,103,3,2025-07-31 19:47:39
+1753,364,WhatsApp,Enzo Gabriel Dias,97,4,2026-04-22 14:26:45
+1754,104,WhatsApp,Isaac Moraes,8,3,2025-11-27 09:52:55
+1755,494,E-mail,Vicente Gonçalves,35,4,2025-06-23 09:32:48
+1756,415,Ligação,Ana Lívia da Mota,88,1,2026-02-28 07:29:27
+1757,448,Suporte,Marcelo da Rocha,111,4,2025-08-14 20:28:54
+1758,287,Reunião,Luiz Fernando Teixeira,106,2,2026-02-04 03:29:08
+1759,367,Ligação,Isabelly da Rocha,41,3,2025-12-03 13:35:52
+1760,46,Suporte,Augusto Nascimento,52,4,2026-03-21 04:35:18
+1761,421,Reunião,Murilo Monteiro,74,2,2026-02-11 17:21:52
+1762,192,WhatsApp,Sra. Juliana Moura,97,5,2026-03-23 10:55:32
+1763,277,E-mail,Brenda Pereira,46,3,2025-10-14 13:45:17
+1764,209,E-mail,Lucas Moreira,79,4,2026-02-18 10:15:12
+1765,191,Reunião,Anthony Barros,49,3,2026-03-29 06:46:34
+1766,76,Reunião,Clarice Moura,91,5,2025-12-23 14:47:55
+1767,209,WhatsApp,Pedro Henrique Jesus,60,1,2025-12-08 06:31:03
+1768,309,WhatsApp,Ana Laura Gomes,118,2,2026-02-04 02:39:10
+1769,171,WhatsApp,Antônio Nogueira,87,4,2026-01-31 19:44:09
+1770,231,Suporte,Sra. Gabrielly Lopes,115,2,2025-06-20 02:01:38
+1771,456,Ligação,Sabrina Freitas,48,5,2025-10-07 09:01:35
+1772,471,E-mail,Nicolas Pereira,81,3,2025-11-24 18:05:17
+1773,277,E-mail,Isadora Moreira,113,5,2026-01-27 13:49:08
+1774,72,E-mail,Dr. Pedro Miguel Novaes,110,4,2025-06-24 16:19:25
+1775,42,Reunião,Sofia Gonçalves,117,1,2025-07-07 04:06:02
+1776,257,Suporte,Dr. Murilo Melo,10,5,2025-05-31 14:59:49
+1777,54,Suporte,Sr. Bruno Fernandes,5,3,2025-06-04 05:18:18
+1778,479,Suporte,Dra. Mirella Campos,90,2,2025-09-19 03:30:04
+1779,379,E-mail,João Vitor Farias,92,3,2026-05-20 08:22:09
+1780,251,Ligação,Paulo Duarte,46,3,2026-01-22 02:17:44
+1781,281,Reunião,Juan Castro,71,4,2025-12-15 14:12:56
+1782,113,Suporte,João Felipe Silva,49,4,2025-09-10 01:55:20
+1783,353,Ligação,Larissa Azevedo,33,4,2025-06-23 00:23:29
+1784,80,E-mail,Isabella Freitas,96,1,2025-12-23 08:07:56
+1785,458,Suporte,Diogo Jesus,107,1,2025-10-26 18:48:07
+1786,254,E-mail,Ana Clara Lima,14,3,2025-11-20 14:53:09
+1787,124,Reunião,Vinicius Dias,43,2,2025-09-27 03:18:07
+1788,278,Ligação,Pietro Duarte,109,2,2026-05-18 17:44:37
+1789,13,Ligação,Sra. Eduarda Fernandes,8,3,2025-08-17 07:16:07
+1790,62,E-mail,Davi Lucas Vieira,28,1,2026-03-09 11:52:27
+1791,35,WhatsApp,Eduarda Mendes,62,1,2026-03-10 10:53:52
+1792,217,WhatsApp,João Guilherme Martins,89,4,2026-05-23 17:35:55
+1793,6,Suporte,Yuri Costa,43,3,2025-06-26 14:32:33
+1794,199,WhatsApp,Vicente Barbosa,31,3,2026-05-09 20:03:36
+1795,220,Suporte,Mariane Cardoso,80,4,2026-04-26 01:48:00
+1796,326,Suporte,Alana Dias,80,1,2026-03-16 02:50:00
+1797,348,Reunião,Davi Lucca da Costa,9,4,2026-04-17 15:33:41
+1798,164,WhatsApp,Srta. Evelyn da Paz,8,3,2025-06-22 00:48:10
+1799,359,Reunião,Beatriz Caldeira,115,4,2026-01-20 08:37:55
+1800,386,Suporte,Vicente Duarte,103,1,2025-07-19 16:48:41
+1801,217,Suporte,Isabel da Cruz,84,3,2025-05-31 18:51:53
+1802,486,Reunião,Clara Pinto,8,4,2026-04-14 06:19:37
+1803,20,Reunião,Dra. Alícia Teixeira,102,1,2025-09-24 10:33:53
+1804,244,WhatsApp,Sophie Moraes,74,1,2026-01-27 03:49:14
+1805,43,E-mail,Kevin Oliveira,97,1,2025-11-28 19:01:13
+1806,233,Reunião,Melissa Cavalcanti,100,3,2025-07-13 11:09:17
+1807,124,Suporte,Sofia Dias,65,1,2026-05-06 11:21:52
+1808,166,WhatsApp,Dr. Pedro Miguel Carvalho,75,4,2025-07-04 03:13:16
+1809,111,Suporte,Lorena Rodrigues,57,1,2025-06-20 05:40:31
+1810,6,E-mail,Pedro da Rocha,80,1,2025-06-20 01:01:59
+1811,479,Suporte,Danilo Martins,61,1,2025-12-14 18:49:17
+1812,258,E-mail,Isabel Barbosa,64,3,2026-02-10 01:44:44
+1813,357,Suporte,Yago Lopes,54,5,2026-03-05 21:35:20
+1814,335,Ligação,Dra. Lavínia Moura,37,5,2025-08-09 02:14:44
+1815,61,Suporte,Mariana Caldeira,67,2,2026-01-16 20:32:48
+1816,462,Reunião,Lara da Cunha,42,2,2025-08-16 20:11:22
+1817,21,WhatsApp,Nina Aragão,81,3,2026-04-06 15:26:49
+1818,219,Ligação,Kaique Lopes,92,2,2025-06-09 23:37:12
+1819,496,Ligação,Emanuel Teixeira,30,4,2026-04-15 23:02:14
+1820,249,E-mail,Samuel Fernandes,5,4,2026-03-11 04:37:10
+1821,398,E-mail,Juan Ribeiro,103,4,2025-11-13 12:18:36
+1822,23,WhatsApp,Ana Lívia Campos,28,2,2026-04-20 18:07:37
+1823,175,Suporte,Luigi Lopes,113,4,2025-12-22 12:14:45
+1824,118,Reunião,Nathan da Mota,108,1,2025-06-07 08:03:21
+1825,52,E-mail,Dr. Paulo Rocha,22,2,2025-06-11 16:29:06
+1826,380,Suporte,Mariane Almeida,77,1,2025-07-03 02:59:35
+1827,225,Reunião,Thomas Fogaça,51,4,2026-04-06 23:07:27
+1828,11,Suporte,Sophie Silva,119,3,2026-01-13 18:26:55
+1829,326,Suporte,Cauê da Mata,18,4,2025-07-06 13:05:57
+1830,243,Ligação,Sr. Davi Lucas Pires,40,4,2025-10-10 20:07:54
+1831,286,Reunião,João Vitor Silva,13,1,2026-03-23 18:27:08
+1832,45,WhatsApp,Ana Carolina das Neves,117,3,2026-02-13 11:56:13
+1833,244,Reunião,Enzo Campos,69,2,2026-03-24 01:55:37
+1834,465,E-mail,Daniel Correia,20,1,2026-03-30 16:33:58
+1835,83,Ligação,Carolina Nunes,78,2,2026-04-12 22:49:16
+1836,341,E-mail,Kevin Novaes,62,5,2026-02-07 15:11:30
+1837,192,Suporte,Helena Cardoso,38,4,2026-01-26 07:10:24
+1838,35,E-mail,Nicolas Ramos,79,4,2025-09-08 13:37:57
+1839,60,Suporte,Maria Vitória das Neves,10,2,2025-08-10 16:16:51
+1840,104,E-mail,Dra. Sabrina Pires,43,2,2026-05-16 13:59:14
+1841,383,Reunião,Ana Vitória Carvalho,6,3,2025-06-30 03:11:52
+1842,31,Suporte,Levi Rezende,105,1,2025-12-29 14:04:23
+1843,58,Suporte,Renan Nascimento,90,3,2025-10-23 13:25:47
+1844,300,Suporte,Júlia Silva,6,3,2025-07-05 03:05:14
+1845,451,E-mail,Enzo Gabriel Duarte,45,2,2025-12-12 15:44:44
+1846,441,Reunião,Srta. Alice Oliveira,107,2,2025-07-13 01:44:07
+1847,97,Reunião,Henrique Freitas,66,4,2025-11-12 02:00:30
+1848,110,Ligação,Dr. Samuel da Conceição,27,4,2025-09-09 17:41:34
+1849,284,Suporte,Pedro Henrique Freitas,114,1,2025-09-25 17:01:01
+1850,75,E-mail,Luigi Monteiro,114,5,2025-06-14 19:15:17
+1851,75,Ligação,Gabriel Gonçalves,66,5,2025-12-22 19:35:12
+1852,38,Suporte,Paulo Araújo,26,2,2026-03-29 00:14:17
+1853,321,Reunião,Clarice Dias,112,3,2025-10-02 11:17:23
+1854,481,E-mail,Manuela Porto,110,3,2026-04-06 13:57:57
+1855,209,Ligação,Dr. Cauê da Luz,101,4,2025-12-18 23:28:39
+1856,22,WhatsApp,Dr. Pedro Lucas Carvalho,104,4,2025-08-09 12:17:32
+1857,15,E-mail,Lorena Moreira,90,3,2026-01-17 15:13:36
+1858,201,Reunião,Ana Júlia Mendes,82,2,2026-05-12 02:45:14
+1859,384,E-mail,Pietra da Luz,66,5,2025-05-24 01:37:02
+1860,487,Suporte,Paulo da Rosa,118,4,2026-04-05 10:54:33
+1861,331,E-mail,Vinicius Ribeiro,35,5,2025-10-02 20:11:34
+1862,267,WhatsApp,Pedro Henrique da Rosa,68,1,2026-02-20 17:35:23
+1863,222,Suporte,Ana Luiza Nascimento,8,4,2026-03-26 01:22:44
+1864,34,Suporte,Larissa da Costa,15,2,2026-01-01 19:36:37
+1865,396,Ligação,Davi Lucca Martins,52,3,2026-05-17 17:16:28
+1866,202,WhatsApp,Júlia Porto,64,3,2025-12-13 06:42:13
+1867,156,Suporte,Levi Cavalcanti,82,3,2026-03-03 18:01:09
+1868,471,WhatsApp,Lavínia Teixeira,114,4,2025-10-30 01:28:25
+1869,262,Reunião,Valentina Martins,54,5,2026-04-12 14:24:00
+1870,356,Suporte,Cauê Duarte,92,5,2026-05-18 06:49:46
+1871,307,Suporte,João Vitor Azevedo,22,4,2025-08-05 01:23:24
+1872,173,Ligação,Olivia Freitas,93,4,2025-07-20 05:11:26
+1873,500,WhatsApp,Daniel da Rocha,73,5,2025-09-16 21:41:38
+1874,316,Ligação,Isabel Pinto,37,3,2025-12-13 01:05:39
+1875,479,WhatsApp,Dr. Gabriel da Luz,116,3,2025-05-24 04:46:56
+1876,305,Suporte,Sr. Enrico da Mota,34,3,2025-06-12 16:47:21
+1877,475,WhatsApp,Marina Aragão,35,5,2025-09-04 16:43:13
+1878,98,WhatsApp,Sr. Gustavo Nogueira,44,2,2026-01-21 16:47:52
+1879,423,WhatsApp,Emanuel Barbosa,71,4,2025-07-20 15:11:02
+1880,143,WhatsApp,Dra. Maria Julia Rodrigues,81,4,2026-04-29 06:04:51
+1881,343,E-mail,Igor Farias,103,5,2026-04-02 15:03:38
+1882,456,E-mail,Pietro Nunes,107,3,2026-02-13 03:54:05
+1883,98,WhatsApp,Thiago Dias,96,5,2025-10-15 03:31:52
+1884,284,WhatsApp,João Felipe Fogaça,31,4,2025-12-20 17:22:14
+1885,298,Suporte,Isis Nunes,27,1,2025-08-18 09:47:08
+1886,371,WhatsApp,Dr. Vicente Oliveira,86,2,2025-08-16 23:16:09
+1887,106,Suporte,Valentina Moraes,106,3,2025-06-03 00:38:16
+1888,94,Reunião,Davi Luiz Cardoso,52,2,2025-09-17 12:07:05
+1889,201,Reunião,Melissa Pires,96,3,2025-07-25 17:26:30
+1890,478,Suporte,Olivia da Cruz,63,5,2025-08-17 13:32:22
+1891,175,E-mail,Alexandre Costa,37,5,2025-07-13 23:53:00
+1892,37,WhatsApp,Rebeca Alves,20,4,2025-07-25 11:29:40
+1893,417,Suporte,João Vitor Dias,55,1,2025-10-18 02:49:10
+1894,35,E-mail,Dra. Ana Carolina Dias,108,3,2025-07-22 15:49:21
+1895,476,Reunião,Noah Rezende,63,5,2026-03-15 02:01:59
+1896,299,WhatsApp,Joana da Mata,70,5,2026-05-06 14:05:16
+1897,216,E-mail,Nicole Azevedo,39,1,2025-12-07 13:12:23
+1898,219,Reunião,Srta. Daniela Almeida,81,1,2026-03-24 13:53:43
+1899,244,Reunião,Isis Rezende,54,3,2025-11-06 06:35:00
+1900,62,E-mail,Gabriela Barbosa,28,1,2025-11-14 06:16:30
+1901,186,Ligação,Thomas da Luz,10,1,2026-01-15 00:42:21
+1902,143,Ligação,João Melo,75,5,2025-09-24 13:52:26
+1903,138,E-mail,Gabriel Moreira,105,1,2026-01-02 14:26:55
+1904,474,Reunião,Fernando da Cunha,31,1,2025-08-26 05:11:53
+1905,457,Suporte,Cauã Moreira,12,1,2025-08-27 01:15:03
+1906,58,WhatsApp,Bruna Ramos,84,3,2025-11-16 00:12:46
+1907,146,Reunião,Beatriz Freitas,35,2,2026-03-17 11:51:53
+1908,113,Suporte,Daniela Ramos,82,5,2025-08-10 18:00:53
+1909,385,WhatsApp,João Felipe Sales,75,3,2025-08-18 15:34:04
+1910,431,E-mail,Maria Melo,24,1,2026-05-22 13:19:13
+1911,284,Suporte,Sr. Davi Lucas Santos,45,2,2025-12-03 07:20:46
+1912,88,Reunião,Sofia Nascimento,31,5,2025-11-12 03:35:26
+1913,316,Ligação,Yuri Jesus,25,1,2025-08-20 13:57:42
+1914,293,Suporte,Mirella Santos,39,4,2025-12-09 22:17:21
+1915,64,Ligação,Srta. Sabrina Ferreira,36,4,2026-01-19 06:37:37
+1916,114,E-mail,Nicolas Caldeira,63,5,2025-09-28 09:37:28
+1917,85,E-mail,Letícia Lima,33,3,2025-10-16 19:12:53
+1918,55,Ligação,Gabriel Cavalcanti,35,3,2025-06-25 07:18:04
+1919,223,Suporte,Ana Sophia Souza,115,5,2025-11-20 13:37:58
+1920,435,Reunião,Kaique Gomes,62,2,2025-06-20 22:39:54
+1921,119,Ligação,Ana Lívia Lima,113,1,2025-08-06 02:45:11
+1922,210,Reunião,Enrico Costa,61,2,2025-12-27 16:19:21
+1923,379,Reunião,Gustavo Henrique Cardoso,113,5,2025-09-17 07:24:40
+1924,385,Reunião,Yasmin Ramos,7,5,2025-06-03 15:41:38
+1925,392,WhatsApp,Luana Farias,31,4,2026-04-24 11:49:11
+1926,224,Suporte,Pedro Miguel Almeida,48,3,2026-03-05 05:41:03
+1927,11,Reunião,Ana Luiza Alves,69,5,2025-09-24 03:53:35
+1928,199,Reunião,Sra. Alexia Ferreira,82,2,2026-02-24 00:10:35
+1929,191,E-mail,Ian Rezende,95,1,2026-03-23 18:35:21
+1930,308,Reunião,Bruna Araújo,26,4,2026-02-18 23:55:32
+1931,107,E-mail,Dra. Ana Vitória da Cunha,45,3,2026-05-08 12:50:46
+1932,208,WhatsApp,Lívia Araújo,36,3,2026-01-10 18:55:08
+1933,461,E-mail,Kaique da Paz,53,5,2026-02-12 02:36:45
+1934,450,Reunião,Marcos Vinicius Teixeira,8,5,2025-06-12 05:10:12
+1935,125,Ligação,Maysa Carvalho,62,1,2025-10-24 21:37:46
+1936,200,Suporte,Alana Silveira,49,3,2025-10-29 17:51:49
+1937,196,Ligação,Heloísa Pires,67,4,2025-09-02 23:02:52
+1938,371,Reunião,Dr. Yago Gomes,59,1,2025-05-28 02:52:03
+1939,224,WhatsApp,Amanda Novaes,49,2,2026-01-24 23:12:33
+1940,138,WhatsApp,Emanuella Gonçalves,38,4,2025-11-20 15:03:32
+1941,81,E-mail,Letícia Moraes,33,5,2025-08-27 01:02:55
+1942,331,Suporte,Miguel Rezende,81,5,2026-05-19 20:59:50
+1943,415,E-mail,Stephany Rezende,113,1,2025-09-24 05:41:51
+1944,196,WhatsApp,Thiago Santos,11,2,2026-02-23 18:34:14
+1945,47,E-mail,Cauê Viana,16,5,2025-08-08 03:23:56
+1946,357,Suporte,Rafaela Ribeiro,11,3,2025-10-16 02:59:31
+1947,41,Suporte,Levi Alves,37,4,2025-11-22 00:45:40
+1948,77,WhatsApp,Ana Laura Gonçalves,23,4,2025-08-22 16:15:59
+1949,143,E-mail,Sra. Valentina Alves,34,4,2026-05-10 07:01:58
+1950,160,E-mail,Pietro Souza,71,1,2025-10-29 09:47:20
+1951,119,Ligação,Pedro Henrique da Mata,84,1,2025-09-16 18:38:10
+1952,294,E-mail,Ryan Rocha,41,5,2025-11-28 14:23:00
+1953,241,Reunião,Vinicius Viana,119,2,2025-08-20 18:12:06
+1954,121,Ligação,Sra. Bianca Castro,108,2,2025-10-08 08:56:56
+1955,309,Ligação,Pedro Henrique da Cunha,13,1,2026-04-24 02:57:22
+1956,138,E-mail,Kamilly Monteiro,73,1,2025-12-05 09:10:52
+1957,399,Reunião,Kaique Cardoso,75,3,2025-08-13 20:27:57
+1958,371,E-mail,Dr. João Vitor Carvalho,24,5,2025-11-04 22:54:07
+1959,478,E-mail,Gustavo Costa,36,1,2026-04-23 02:48:01
+1960,167,E-mail,Maria Eduarda Melo,103,3,2025-11-03 20:41:31
+1961,263,Ligação,Thales Pinto,69,5,2025-06-30 01:47:07
+1962,459,Ligação,Dr. Enzo Farias,55,2,2026-05-15 16:31:50
+1963,86,Ligação,Catarina da Mota,65,2,2025-07-11 16:16:35
+1964,434,E-mail,Leonardo Martins,35,5,2025-11-10 23:06:23
+1965,428,WhatsApp,Alice Alves,78,3,2026-05-22 17:50:45
+1966,237,E-mail,Ana Beatriz Pires,63,2,2026-04-07 08:02:12
+1967,364,Ligação,Dr. Rodrigo Dias,96,2,2025-09-01 12:06:18
+1968,83,Suporte,Srta. Agatha Melo,101,1,2026-01-08 15:41:58
+1969,35,Reunião,Ana Vitória Araújo,22,1,2026-01-12 08:24:47
+1970,148,Reunião,Maria Gonçalves,72,4,2025-10-23 18:00:21
+1971,347,Reunião,Laura Campos,75,5,2025-07-28 20:20:46
+1972,372,Reunião,Igor da Luz,118,5,2025-12-24 03:12:18
+1973,239,Suporte,Gabriel Gomes,50,5,2026-04-08 19:49:15
+1974,296,Reunião,Catarina Silva,101,3,2025-09-18 08:42:31
+1975,269,Reunião,Diogo Oliveira,26,5,2025-07-02 00:19:03
+1976,440,Reunião,Lucas Gabriel da Rocha,21,1,2025-10-04 17:25:44
+1977,106,Ligação,Luiz Henrique Pereira,81,3,2026-04-06 15:15:33
+1978,432,WhatsApp,Isabel Caldeira,19,5,2025-09-29 20:59:12
+1979,463,Reunião,Noah Nascimento,53,4,2025-07-12 10:22:05
+1980,154,WhatsApp,Otávio Ribeiro,8,3,2025-07-04 01:39:23
+1981,250,E-mail,Thiago Rezende,101,1,2025-09-08 08:22:50
+1982,111,Reunião,Luiz Gustavo Ferreira,104,2,2025-06-16 18:26:45
+1983,231,Suporte,Marcos Vinicius da Cruz,106,2,2025-09-12 07:28:19
+1984,333,WhatsApp,Isis Costela,55,2,2025-08-04 15:34:32
+1985,73,Ligação,Marcela Campos,120,2,2025-06-24 17:28:38
+1986,463,Reunião,João Guilherme Silva,37,4,2025-09-18 17:29:23
+1987,205,Reunião,Gabriela Santos,96,4,2025-07-26 03:09:26
+1988,191,E-mail,Otávio Jesus,64,2,2025-07-16 15:24:22
+1989,213,Ligação,Isabelly Almeida,36,2,2026-05-06 03:30:49
+1990,460,Ligação,Caroline Souza,42,3,2026-01-31 08:53:56
+1991,28,WhatsApp,Lara Viana,64,4,2025-12-20 05:01:43
+1992,455,Reunião,João Guilherme da Mata,14,5,2026-05-22 05:23:56
+1993,151,WhatsApp,Ana Vitória Dias,110,5,2025-05-24 10:03:14
+1994,283,Reunião,Manuela da Mota,10,4,2025-09-17 02:34:39
+1995,35,WhatsApp,Srta. Isis Moura,47,2,2025-10-12 13:00:38
+1996,159,Suporte,Breno Almeida,26,1,2025-06-05 04:54:21
+1997,52,E-mail,Luana Duarte,100,5,2025-08-06 03:49:40
+1998,139,Ligação,Brenda Castro,8,5,2026-04-06 00:32:05
+1999,112,Suporte,Marcelo Sales,52,1,2025-11-27 14:25:27
+2000,230,Reunião,Diogo Mendes,47,5,2026-02-19 14:40:38
+2001,236,WhatsApp,Maria Fernanda Monteiro,84,3,2026-01-31 03:30:34
+2002,146,WhatsApp,Manuela Cardoso,11,5,2026-01-17 17:10:15
+2003,300,Ligação,Dra. Manuela Viana,118,4,2025-11-03 02:27:17
+2004,389,Reunião,Mariana Ramos,60,5,2026-05-07 23:47:10
+2005,19,Suporte,Rafaela Pinto,98,5,2026-04-01 23:31:05
+2006,260,Ligação,Agatha Nascimento,24,4,2025-12-16 15:02:11
+2007,170,Reunião,Clarice Souza,98,3,2025-09-06 11:02:35
+2008,74,E-mail,Emanuel Ramos,102,2,2025-10-28 08:44:14
+2009,48,Suporte,Luiz Fernando Castro,54,3,2025-12-10 06:15:14
+2010,202,E-mail,Alice Duarte,10,1,2025-09-27 09:06:05
+2011,156,Ligação,Davi Mendes,22,2,2025-07-29 14:10:56
+2012,215,Suporte,Gabriela Freitas,29,4,2025-06-17 12:23:08
+2013,410,E-mail,Daniela Alves,59,5,2025-06-04 01:43:06
+2014,291,WhatsApp,Luiz Felipe Cavalcanti,31,1,2025-09-25 22:03:53
+2015,34,E-mail,Rafaela Monteiro,114,1,2026-05-20 13:48:37
+2016,136,Reunião,Enrico Lopes,105,1,2025-11-02 13:40:11
+2017,113,Reunião,Sr. Calebe Nunes,26,4,2026-05-06 18:47:04
+2018,59,Ligação,Bryan Fernandes,90,4,2025-08-05 20:57:04
+2019,416,WhatsApp,Ana Julia Araújo,83,3,2026-04-08 18:39:22
+2020,436,Reunião,Emanuelly Rocha,38,5,2026-02-19 17:14:37
+2021,286,Suporte,Benjamin Silveira,118,3,2025-09-20 05:22:34
+2022,324,WhatsApp,Dra. Ana Sophia Caldeira,72,2,2025-09-21 16:24:21
+2023,342,Suporte,Maria Eduarda Moraes,71,3,2026-05-01 21:50:37
+2024,413,Suporte,Heitor Freitas,104,2,2025-09-21 07:58:58
+2025,116,Ligação,Pedro Lucas da Rosa,60,4,2025-12-18 08:43:09
+2026,140,WhatsApp,Lara Fernandes,70,3,2026-05-13 02:12:36
+2027,256,Reunião,Dra. Elisa Lima,11,5,2025-12-23 09:19:52
+2028,154,WhatsApp,Dr. Antônio Fernandes,18,2,2025-10-27 05:45:48
+2029,285,E-mail,Sophia Castro,113,2,2025-07-30 10:54:22
+2030,451,E-mail,Luiz Miguel Moreira,64,2,2026-01-13 19:18:41
+2031,475,Ligação,Luiz Fernando Rocha,94,5,2025-10-23 00:15:54
+2032,259,WhatsApp,Igor Nunes,57,4,2025-09-18 16:14:37
+2033,215,Suporte,Bruna Silva,47,3,2025-10-08 23:53:33
+2034,42,E-mail,Lucas Gabriel Cavalcanti,25,5,2025-07-21 21:13:21
+2035,247,Ligação,Sr. Theo Costela,104,3,2026-04-20 14:45:48
+2036,475,Ligação,Melissa Jesus,60,4,2026-01-08 18:17:34
+2037,418,Reunião,Fernanda Pinto,24,4,2025-07-31 10:06:21
+2038,243,Ligação,Brenda Fernandes,47,3,2025-07-07 06:01:42
+2039,61,WhatsApp,Erick Pires,35,4,2025-09-05 10:21:47
+2040,451,Reunião,Dr. Luiz Miguel da Rocha,55,5,2026-02-16 09:52:03
+2041,110,Reunião,Heloísa Caldeira,60,2,2025-12-20 06:57:28
+2042,147,E-mail,Pedro Lucas Nunes,83,2,2026-03-12 15:53:21
+2043,173,E-mail,Emanuella Cavalcanti,81,3,2026-01-31 15:37:42
+2044,304,Reunião,Murilo Campos,114,1,2025-10-27 03:07:18
+2045,52,Ligação,Paulo Moraes,15,1,2026-02-16 16:38:34
+2046,77,Suporte,Gabrielly Pereira,59,4,2026-03-28 06:35:30
+2047,460,Ligação,Sra. Catarina Cardoso,106,2,2026-03-08 14:12:12
+2048,27,Ligação,Gabriela da Mata,65,2,2025-08-23 23:14:05
+2049,17,E-mail,Samuel Monteiro,42,3,2025-06-08 01:25:17
+2050,348,WhatsApp,Mirella Pires,90,5,2026-01-18 02:37:39
+2051,45,Ligação,Yasmin Nascimento,26,3,2025-08-06 15:37:39
+2052,170,Ligação,Valentina da Conceição,9,5,2025-11-24 03:16:33
+2053,43,Ligação,Anthony Cardoso,83,1,2025-07-19 07:52:12
+2054,421,E-mail,Alícia das Neves,106,2,2025-07-14 11:00:40
+2055,460,Reunião,Larissa Silva,110,4,2025-09-26 12:02:48
+2056,56,WhatsApp,Luiza Ribeiro,80,3,2025-12-14 12:57:21
+2057,316,Suporte,Lucas Gabriel da Paz,14,5,2025-11-01 02:15:05
+2058,146,E-mail,Kevin Pinto,13,4,2026-03-18 02:45:53
+2059,311,WhatsApp,Larissa Costa,25,5,2026-01-04 17:39:04
+2060,50,Reunião,Ana Lívia Pinto,82,2,2026-01-26 11:12:30
+2061,353,WhatsApp,Luiz Henrique Nascimento,9,4,2025-06-05 13:42:14
+2062,437,WhatsApp,Kevin Costa,90,2,2025-08-17 19:08:13
+2063,356,Reunião,Dr. Benício Rocha,108,4,2025-11-22 04:51:42
+2064,184,Suporte,Theo Rezende,44,3,2025-10-29 13:16:21
+2065,335,Reunião,Srta. Amanda Peixoto,58,2,2026-03-22 19:27:49
+2066,407,WhatsApp,Sophie Melo,90,3,2026-02-17 00:25:50
+2067,108,E-mail,Ana Lívia Farias,64,2,2025-08-18 12:33:20
+2068,361,E-mail,Agatha Silveira,9,1,2025-07-06 09:28:10
+2069,31,Suporte,Vitor Hugo das Neves,117,1,2026-04-28 09:35:52
+2070,76,Ligação,Maysa Lopes,62,2,2026-03-11 06:36:38
+2071,77,Ligação,Sr. Lorenzo Sales,41,3,2026-04-06 10:37:20
+2072,353,WhatsApp,Clarice Silveira,79,2,2026-05-01 13:59:17
+2073,368,Reunião,Brenda Araújo,60,4,2026-02-24 14:29:44
+2074,63,Suporte,Marcela Pires,98,5,2025-08-22 02:57:38
+2075,155,E-mail,Lucas Cardoso,119,4,2025-08-03 19:29:59
+2076,336,Ligação,Sabrina Castro,51,2,2026-03-14 05:43:25
+2077,201,E-mail,Cauê Monteiro,49,1,2025-11-28 03:53:56
+2078,26,Ligação,Valentina Lopes,112,3,2026-01-12 16:51:26
+2079,200,E-mail,Maria Eduarda Costa,109,4,2025-09-13 16:17:22
+2080,238,Reunião,Alícia Correia,105,3,2026-05-22 06:51:30
+2081,231,E-mail,Paulo da Mota,109,3,2026-05-04 16:33:52
+2082,382,Reunião,Srta. Nina Costela,89,3,2025-11-30 07:11:04
+2083,491,Suporte,Emanuelly da Rosa,116,2,2026-04-20 22:41:40
+2084,4,E-mail,Nicole da Rosa,37,4,2026-01-15 13:29:38
+2085,48,Reunião,Maysa Sales,117,3,2026-03-09 00:47:00
+2086,76,Ligação,Bárbara Martins,118,2,2026-03-15 02:04:12
+2087,123,Suporte,Lucas Gabriel Barros,82,4,2025-07-29 18:28:25
+2088,491,WhatsApp,Vinicius da Mota,30,2,2026-02-13 20:06:57
+2089,214,Ligação,Arthur Araújo,103,1,2026-01-22 06:09:50
+2090,324,WhatsApp,Heloísa Gomes,96,3,2026-03-05 00:23:39
+2091,410,Suporte,Bianca Nunes,52,3,2025-10-11 17:41:41
+2092,2,Ligação,Lorena Araújo,66,5,2025-08-21 05:29:46
+2093,104,E-mail,Vitor da Luz,23,3,2026-03-12 17:53:47
+2094,349,Suporte,Enzo Moreira,40,5,2026-04-20 18:23:08
+2095,201,Suporte,Srta. Rebeca Oliveira,80,5,2025-12-03 11:26:07
+2096,475,Suporte,Ana Júlia Gomes,30,4,2025-09-26 15:38:41
+2097,395,Ligação,Gabriela da Mata,63,5,2025-11-04 17:47:49
+2098,281,WhatsApp,Renan Pinto,73,4,2025-07-14 10:33:08
+2099,23,WhatsApp,Rodrigo da Cunha,47,1,2026-04-28 02:47:02
+2100,209,Suporte,João Pedro Sales,85,1,2025-08-02 11:32:10
+2101,243,Reunião,Pedro Henrique Lima,64,5,2026-05-21 11:36:47
+2102,293,E-mail,Mariana Silva,45,5,2025-12-27 17:27:18
+2103,115,Reunião,Maria Julia Melo,38,3,2025-09-11 02:30:46
+2104,457,Ligação,Srta. Isabel da Mata,109,2,2025-10-15 13:59:25
+2105,343,Suporte,Luiza Silveira,37,4,2026-03-07 03:40:48
+2106,136,Ligação,Rafaela da Luz,72,2,2026-03-22 22:33:48
+2107,21,E-mail,Leandro Moreira,110,4,2025-06-01 19:10:19
+2108,123,Reunião,Davi Lucas Melo,5,4,2025-07-01 23:08:20
+2109,25,Ligação,João Correia,107,3,2025-07-21 06:56:12
+2110,275,Suporte,Luiz Otávio Nogueira,58,1,2025-11-17 16:32:36
+2111,257,WhatsApp,Rafaela Cardoso,103,5,2025-12-10 19:25:16
+2112,340,Ligação,Breno Farias,68,5,2025-06-01 18:06:07
+2113,110,Suporte,Theo Cardoso,89,5,2025-06-14 09:12:47
+2114,148,Ligação,Bruna da Cruz,114,2,2026-02-18 11:55:23
+2115,474,Reunião,Guilherme da Cunha,76,3,2025-12-27 00:40:17
+2116,91,Suporte,Leandro Rodrigues,88,2,2025-08-13 22:35:19
+2117,8,Reunião,Dra. Maria Fernanda Ferreira,15,3,2026-02-03 10:54:19
+2118,332,E-mail,Vitor Peixoto,66,1,2025-09-29 15:47:57
+2119,51,E-mail,Maysa da Rocha,100,3,2025-08-14 12:11:51
+2120,87,WhatsApp,Maria Eduarda Silveira,90,3,2025-11-27 11:04:23
+2121,213,E-mail,Diogo Silva,120,4,2026-03-24 23:25:02
+2122,105,E-mail,Maria Julia Jesus,51,1,2026-04-10 05:29:03
+2123,392,WhatsApp,Bernardo Castro,44,5,2025-09-22 11:44:24
+2124,355,Suporte,Gustavo da Rosa,86,1,2026-02-21 16:18:36
+2125,40,E-mail,Sophie da Rocha,116,1,2025-06-20 12:00:08
+2126,437,Ligação,Sophie Ramos,35,1,2025-07-29 19:18:02
+2127,399,WhatsApp,Srta. Manuela Barros,27,1,2025-11-14 07:24:10
+2128,392,Reunião,Ryan Farias,48,1,2026-04-07 10:37:35
+2129,257,Suporte,João Miguel Cardoso,64,5,2026-04-23 09:04:56
+2130,63,Reunião,Calebe Vieira,90,5,2025-06-07 15:07:22
+2131,143,Ligação,Yago Moura,50,1,2025-06-28 15:19:07
+2132,181,E-mail,Rebeca da Conceição,54,2,2025-09-20 20:29:43
+2133,280,WhatsApp,Igor da Cruz,97,1,2026-03-10 04:13:18
+2134,467,Suporte,Kaique Souza,107,1,2025-09-24 13:19:04
+2135,33,E-mail,Luiz Henrique Moreira,23,3,2026-04-27 23:24:06
+2136,83,Suporte,João Gabriel Almeida,109,5,2025-10-23 05:10:55
+2137,100,Reunião,Vitor Costela,101,3,2025-12-05 11:19:57
+2138,16,WhatsApp,Bruno Campos,114,4,2026-01-30 03:45:30
+2139,406,Reunião,Marcelo Lopes,18,5,2026-05-20 11:24:02
+2140,398,Reunião,Vitor Hugo Fogaça,32,2,2025-11-30 04:40:25
+2141,98,Suporte,Sabrina Fernandes,86,4,2026-02-11 08:38:09
+2142,397,Suporte,Emanuelly Nogueira,100,1,2025-07-18 22:45:34
+2143,500,E-mail,Felipe Araújo,111,4,2025-10-22 00:46:17
+2144,286,Reunião,Kevin Lima,54,3,2026-04-04 00:34:55
+2145,329,WhatsApp,Leonardo Almeida,30,1,2025-10-15 12:45:55
+2146,19,Reunião,Gabriel Campos,29,1,2025-08-06 08:25:52
+2147,293,WhatsApp,Otávio Peixoto,7,3,2025-07-07 18:46:29
+2148,333,WhatsApp,Alexandre da Cunha,58,1,2025-11-01 22:15:39
+2149,497,WhatsApp,Emanuelly Peixoto,115,4,2025-09-12 10:49:15
+2150,44,E-mail,Lucas Gabriel Silveira,112,1,2025-12-23 01:35:46
+2151,305,Suporte,Elisa Aragão,76,1,2025-07-18 13:42:31
+2152,304,E-mail,Isis da Paz,65,4,2025-10-23 22:59:02
+2153,284,Suporte,Gustavo Henrique Fogaça,97,3,2025-06-25 23:48:59
+2154,62,Suporte,Dr. Luiz Miguel Azevedo,108,1,2026-02-20 04:18:05
+2155,403,WhatsApp,Francisco Lima,36,3,2026-04-23 14:05:51
+2156,275,Reunião,Nina Almeida,42,1,2026-02-12 08:02:19
+2157,440,Ligação,Ana Carolina Nogueira,12,3,2025-09-21 12:18:50
+2158,341,E-mail,Anthony Pires,94,3,2025-08-29 10:45:25
+2159,418,Reunião,Alana da Cruz,24,3,2026-02-26 02:50:06
+2160,175,Reunião,Natália Moraes,14,5,2026-04-28 15:48:53
+2161,187,Ligação,Maria Fernanda da Cruz,68,3,2026-03-20 12:25:51
+2162,379,WhatsApp,Lavínia Fogaça,57,1,2026-04-02 19:21:08
+2163,14,WhatsApp,Ana Carolina Almeida,46,2,2026-03-14 17:54:00
+2164,365,Ligação,Pedro Miguel Pires,116,2,2026-05-16 21:40:26
+2165,477,Suporte,Valentina Silveira,82,5,2026-01-29 19:57:42
+2166,437,Ligação,Pietro Ferreira,51,1,2025-08-12 03:54:55
+2167,49,WhatsApp,Sr. Guilherme Ribeiro,103,3,2026-05-09 22:55:14
+2168,163,Ligação,Maitê Correia,28,5,2025-07-14 01:59:40
+2169,109,Suporte,Alícia Fogaça,107,1,2026-05-23 21:54:27
+2170,119,Ligação,João Miguel Fogaça,40,3,2025-09-18 00:26:26
+2171,431,Suporte,Thales Fernandes,101,5,2026-04-28 11:34:57
+2172,468,Ligação,Luigi Aragão,108,5,2025-11-05 01:19:25
+2173,479,Suporte,Emanuella Lima,116,5,2025-08-21 20:11:16
+2174,153,Suporte,Ana Carolina Araújo,89,3,2025-05-29 10:54:46
+2175,52,Reunião,Laura Pires,101,1,2025-11-10 04:03:28
+2176,160,Reunião,Stella Martins,16,3,2026-02-23 07:15:40
+2177,138,Ligação,Sr. Antônio da Cruz,22,1,2025-08-27 22:34:32
+2178,49,Suporte,Sophia Fogaça,5,1,2025-10-08 02:20:21
+2179,457,Reunião,Maria Eduarda Ribeiro,10,4,2025-07-18 21:54:17
+2180,415,WhatsApp,Alícia Vieira,56,5,2025-12-08 01:56:03
+2181,55,WhatsApp,Nathan Freitas,25,5,2025-06-08 22:35:07
+2182,482,Suporte,Srta. Maria Luiza Mendes,119,2,2025-06-08 14:07:44
+2183,42,WhatsApp,Pedro Lucas Melo,26,2,2025-07-07 23:23:01
+2184,333,Suporte,Dr. Antônio Silveira,94,1,2026-02-19 02:33:12
+2185,323,Ligação,Dra. Laís Duarte,65,2,2025-06-12 09:35:22
+2186,374,E-mail,Maria Fernanda das Neves,26,5,2025-12-11 01:25:24
+2187,123,Reunião,Dr. Danilo Sales,5,5,2026-01-16 16:39:35
+2188,449,WhatsApp,Ian Barbosa,78,2,2025-10-25 14:55:54
+2189,253,Suporte,Bárbara Gonçalves,35,1,2025-09-27 04:23:48
+2190,221,E-mail,Fernando Lima,83,4,2025-06-28 21:48:00
+2191,99,Suporte,Vitor Gabriel Barbosa,42,3,2025-10-15 06:17:05
+2192,70,Reunião,Kevin Teixeira,80,4,2026-03-02 08:31:29
+2193,467,Suporte,Raquel da Cunha,41,3,2025-12-15 00:00:33
+2194,128,Suporte,Daniel da Mata,114,1,2026-05-16 15:11:30
+2195,362,Reunião,Dr. Rodrigo Viana,37,5,2025-08-12 20:22:35
+2196,255,Ligação,Matheus Ferreira,19,4,2026-02-23 10:10:44
+2197,303,E-mail,Thomas Azevedo,100,3,2026-01-09 03:26:40
+2198,354,E-mail,Vitor Hugo Jesus,78,2,2025-12-25 19:51:22
+2199,417,Suporte,Danilo Aragão,20,2,2025-06-11 10:55:30
+2200,68,Ligação,Gustavo Farias,34,2,2025-05-28 02:09:04
+2201,382,Ligação,Fernando Almeida,98,1,2025-11-13 10:13:31
+2202,351,Reunião,Caio Moura,22,2,2025-12-31 05:57:05
+2203,142,Ligação,Caio Costela,78,1,2025-09-18 19:13:48
+2204,334,E-mail,Luiz Miguel Cardoso,96,1,2026-02-26 05:06:58
+2205,425,Ligação,Davi Lucca Sales,57,1,2025-08-22 08:35:51
+2206,175,E-mail,Alexandre Lopes,62,2,2025-08-23 09:50:20
+2207,76,Ligação,Augusto Jesus,116,3,2025-07-28 05:08:34
+2208,167,Reunião,Stella Souza,53,5,2026-02-21 19:35:37
+2209,349,WhatsApp,Alícia da Conceição,61,2,2025-08-18 16:46:23
+2210,440,E-mail,Davi Lucas Castro,31,4,2026-05-16 17:32:35
+2211,181,E-mail,Clara Carvalho,116,2,2026-05-16 23:00:22
+2212,251,Reunião,Cecília da Paz,40,4,2026-02-21 07:45:16
+2213,26,WhatsApp,Arthur Rodrigues,5,4,2025-10-25 08:03:05
+2214,238,E-mail,Sr. Enzo Dias,12,1,2026-03-16 07:17:11
+2215,384,Reunião,Fernanda Lopes,72,3,2025-08-10 17:12:33
+2216,105,Reunião,João Lucas Lima,19,3,2025-11-01 23:27:03
+2217,73,WhatsApp,João Pedro Pinto,40,2,2025-05-28 06:59:38
+2218,219,Ligação,Emanuel Gonçalves,65,5,2025-06-07 20:48:42
+2219,34,Suporte,Maria Julia Barros,63,3,2025-08-11 23:43:50
+2220,156,E-mail,Sr. Ryan Campos,62,2,2025-08-20 02:36:13
+2221,353,WhatsApp,Sr. Pietro Cunha,112,4,2025-09-20 12:23:37
+2222,494,Reunião,Yasmin Moreira,39,2,2026-04-27 06:55:08
+2223,246,E-mail,João Guilherme Moraes,61,2,2026-03-04 01:31:21
+2224,9,E-mail,Vitor Gabriel Costela,87,4,2025-11-28 10:29:52
+2225,197,E-mail,Alexia Pereira,75,5,2025-05-24 04:13:29
+2226,329,E-mail,Sr. Antônio Cunha,19,3,2026-03-28 06:34:39
+2227,370,WhatsApp,Lucas Gabriel Vieira,71,3,2026-05-21 05:23:04
+2228,354,Ligação,Evelyn Correia,39,5,2026-05-16 08:26:11
+2229,410,WhatsApp,Mariane Costela,100,4,2026-04-03 21:25:29
+2230,11,Ligação,Gabriel Novaes,77,1,2026-04-17 03:02:02
+2231,124,WhatsApp,Maysa Rocha,37,2,2025-06-29 06:30:55
+2232,388,Suporte,Yago Viana,114,5,2026-01-24 01:04:14
+2233,295,Suporte,Lorena Ferreira,28,4,2026-01-24 12:14:16
+2234,271,Ligação,Daniel Ramos,24,1,2025-10-04 19:20:43
+2235,168,Suporte,Valentina da Luz,58,5,2026-04-09 22:49:44
+2236,175,Ligação,Larissa Porto,66,2,2026-01-19 13:08:27
+2237,96,Ligação,Kevin Lima,98,3,2026-04-07 14:31:43
+2238,370,Reunião,Calebe da Costa,37,3,2025-10-19 08:44:03
+2239,301,E-mail,Henrique Correia,85,4,2026-04-22 10:44:44
+2240,343,Suporte,Pedro Henrique Vieira,77,5,2025-07-18 03:26:04
+2241,183,Ligação,Raquel Martins,53,4,2025-08-04 14:38:05
+2242,320,E-mail,Gustavo Porto,118,2,2025-11-07 07:23:38
+2243,167,Ligação,Daniela Alves,114,3,2025-07-16 17:56:09
+2244,183,Reunião,Pedro Duarte,102,2,2026-04-19 09:44:42
+2245,273,WhatsApp,Rodrigo Costela,68,2,2025-07-18 15:12:59
+2246,221,Suporte,Isadora Souza,7,1,2025-12-08 06:01:46
+2247,53,Suporte,Leandro Ramos,119,2,2026-04-12 06:40:16
+2248,119,Reunião,Sra. Maria Clara da Mota,115,1,2026-04-20 23:44:04
+2249,105,Reunião,Lucas Rezende,57,5,2025-11-21 23:35:34
+2250,379,Ligação,Srta. Camila Gonçalves,18,5,2025-06-15 04:22:42
+2251,226,E-mail,Gabriel Castro,33,2,2026-04-28 08:21:14
+2252,112,WhatsApp,Maria Eduarda Porto,17,1,2026-01-25 11:13:49
+2253,132,Ligação,Dr. Pedro Miguel da Luz,80,4,2026-04-26 14:06:16
+2254,62,WhatsApp,Antônio Souza,87,5,2025-10-17 08:24:48
+2255,456,Reunião,Lorena Vieira,119,2,2026-02-03 09:20:59
+2256,48,WhatsApp,Isadora da Luz,35,5,2026-04-08 06:38:54
+2257,61,Ligação,Yasmin Ramos,108,3,2025-10-07 05:09:13
+2258,406,Suporte,Pedro Henrique Peixoto,73,2,2025-11-30 13:02:20
+2259,23,Reunião,Dra. Julia Freitas,93,3,2025-10-14 13:55:53
+2260,278,E-mail,Noah Moura,89,1,2025-11-02 22:15:22
+2261,475,Reunião,Maria Fernanda Farias,109,2,2026-03-24 11:32:56
+2262,408,Reunião,João Felipe Mendes,118,3,2025-08-20 10:50:29
+2263,52,Ligação,Luiz Miguel da Rocha,69,5,2026-01-20 12:32:34
+2264,118,Suporte,Eloah Mendes,40,1,2026-05-03 07:27:52
+2265,219,WhatsApp,Enzo Gabriel Costela,50,4,2026-04-28 12:43:53
+2266,285,E-mail,Mariane da Rocha,8,1,2025-10-30 23:42:36
+2267,322,Suporte,Emilly Lima,7,3,2025-05-28 18:21:50
+2268,99,E-mail,Carolina Fernandes,110,2,2025-10-28 12:03:17
+2269,120,Ligação,Sophia Dias,98,2,2025-12-08 10:07:52
+2270,101,E-mail,Rebeca Ramos,30,2,2025-10-06 05:31:10
+2271,152,Reunião,Gustavo da Paz,12,4,2025-10-17 23:24:50
+2272,116,Suporte,Helena Aragão,22,1,2025-12-03 04:25:32
+2273,61,E-mail,Dra. Sophia Pinto,51,3,2026-05-06 04:57:58
+2274,428,Reunião,Thales da Cunha,24,1,2025-12-27 02:53:35
+2275,427,E-mail,Matheus Ramos,65,4,2025-09-25 11:14:04
+2276,4,E-mail,Lorenzo Costela,52,1,2025-12-13 21:30:46
+2277,273,E-mail,Theo Novaes,92,4,2025-11-03 06:10:21
+2278,56,Ligação,Benício Mendes,102,2,2025-07-27 10:24:32
+2279,109,Ligação,Sra. Maria Eduarda Rocha,24,4,2025-06-01 12:14:05
+2280,56,Reunião,Nina da Rosa,34,2,2026-05-17 08:22:32
+2281,137,Suporte,Sra. Valentina Rocha,96,5,2025-05-28 18:41:35
+2282,453,Suporte,Nicolas Silva,120,5,2026-04-30 03:40:20
+2283,461,Suporte,Leonardo Nunes,47,4,2026-04-23 10:50:25
+2284,81,Suporte,Joaquim Aragão,73,5,2026-02-27 13:06:11
+2285,111,Reunião,Sabrina da Paz,59,2,2026-01-28 00:31:47
+2286,313,Reunião,Nicole Almeida,40,3,2025-07-16 01:20:25
+2287,134,Suporte,Maria Luiza das Neves,32,1,2025-09-28 04:16:13
+2288,101,Reunião,Henrique Moura,42,4,2025-09-19 07:05:03
+2289,396,Suporte,Dr. Thiago Silveira,64,1,2025-11-15 22:05:40
+2290,448,Suporte,Danilo Lima,19,2,2026-04-24 13:28:36
+2291,462,Ligação,João Felipe Sales,34,5,2026-05-08 03:09:04
+2292,487,Ligação,Ian da Cunha,76,4,2025-10-12 11:57:10
+2293,203,Suporte,Clara Dias,96,2,2026-01-14 17:34:27
+2294,28,Suporte,Luiz Otávio Pires,28,5,2025-09-24 22:35:48
+2295,449,E-mail,Gustavo Henrique Campos,107,2,2026-02-21 07:53:45
+2296,124,Ligação,Alexandre Costela,70,5,2025-12-22 09:02:54
+2297,279,Ligação,Srta. Mariana Lopes,35,5,2025-07-14 20:36:21
+2298,283,Ligação,Bianca Nascimento,48,5,2025-12-21 17:20:14
+2299,276,Ligação,Matheus Silva,38,3,2025-09-04 22:00:53
+2300,171,Suporte,Sr. Rafael da Luz,22,2,2026-01-09 05:16:38
+2301,23,Reunião,Lorena da Mota,67,2,2026-05-08 17:07:06
+2302,72,E-mail,Yago Cavalcanti,94,1,2026-03-28 01:44:13
+2303,266,E-mail,Ana Sophia Fernandes,84,4,2026-01-18 19:05:44
+2304,37,Reunião,Kamilly Farias,97,5,2025-07-04 20:00:35
+2305,42,WhatsApp,Isaac Novaes,63,2,2025-05-29 13:45:05
+2306,349,WhatsApp,Ana Júlia Rezende,113,3,2026-05-20 17:14:55
+2307,16,Ligação,Srta. Larissa Viana,102,1,2025-12-27 10:46:29
+2308,400,Ligação,Pietro Viana,104,1,2025-12-13 09:41:43
+2309,442,Ligação,Bruna Pires,15,3,2026-05-01 14:31:27
+2310,85,Suporte,Ana Lívia Porto,15,1,2026-01-06 18:13:30
+2311,353,E-mail,Srta. Eduarda Gonçalves,66,1,2026-04-13 11:53:46
+2312,225,Suporte,João Felipe Costa,87,3,2025-12-20 12:52:03
+2313,30,Suporte,Alexia Teixeira,8,2,2025-10-11 09:36:11
+2314,181,WhatsApp,Sr. Diogo Peixoto,53,1,2026-04-02 12:25:38
+2315,407,Suporte,Daniel Lopes,87,3,2026-04-26 05:30:04
+2316,386,WhatsApp,Eduarda Barros,38,2,2026-02-19 03:02:44
+2317,44,Suporte,João Lucas Nogueira,109,2,2025-10-25 11:33:08
+2318,308,Suporte,Lavínia Barros,74,4,2026-03-01 02:00:23
+2319,148,Reunião,Maria Eduarda Cavalcanti,71,1,2025-12-15 01:47:58
+2320,78,E-mail,Dr. Cauê Santos,110,3,2026-01-04 05:10:58
+2321,257,Suporte,Diogo Melo,105,1,2025-09-06 11:37:16
+2322,161,Reunião,Leandro Cardoso,65,1,2025-08-01 13:10:55
+2323,260,Reunião,Srta. Raquel Farias,64,1,2025-08-28 10:44:23
+2324,23,Suporte,Breno Jesus,11,1,2025-07-04 03:53:04
+2325,339,WhatsApp,João Lucas Aragão,118,2,2025-11-14 09:48:39
+2326,194,WhatsApp,Ana Carolina Costa,86,3,2026-04-22 19:41:49
+2327,46,WhatsApp,Clara Caldeira,97,5,2026-03-05 20:23:45
+2328,141,Suporte,Stephany Caldeira,24,4,2026-03-21 21:15:36
+2329,194,Suporte,João Vitor Teixeira,20,2,2025-08-28 11:01:46
+2330,212,E-mail,Luna Pires,107,3,2025-10-05 08:47:10
+2331,262,E-mail,Dr. João Felipe da Paz,46,3,2026-01-26 04:59:43
+2332,339,Ligação,Srta. Agatha Pires,51,3,2025-10-24 02:36:04
+2333,421,E-mail,Evelyn Monteiro,105,5,2026-01-04 01:33:50
+2334,193,Ligação,Marcelo Martins,75,1,2025-09-04 03:48:06
+2335,321,Reunião,Cauê Novaes,11,4,2026-02-06 19:42:19
+2336,107,E-mail,Maysa da Cunha,57,5,2026-02-26 19:10:50
+2337,439,Suporte,Ana Lívia da Rocha,76,4,2026-01-07 02:55:38
+2338,317,WhatsApp,Sr. Pedro Lucas Alves,105,1,2025-08-08 21:25:08
+2339,396,Suporte,Lara Rocha,104,5,2026-03-12 16:36:19
+2340,95,E-mail,Maria Alice Ferreira,13,1,2026-01-31 00:06:33
+2341,138,Ligação,Pedro Miguel Caldeira,20,4,2026-03-18 09:08:17
+2342,130,Suporte,Ana Luiza Barbosa,20,5,2026-03-08 21:07:12
+2343,469,Suporte,Pietra Castro,99,1,2025-09-26 02:20:47
+2344,134,WhatsApp,Alana Farias,114,2,2026-03-04 06:50:14
+2345,281,Reunião,Raul Barros,68,2,2026-03-26 07:49:57
+2346,265,E-mail,Enrico da Rosa,53,2,2025-09-26 11:37:11
+2347,271,Ligação,Sophie Porto,56,3,2026-04-09 21:24:14
+2348,125,E-mail,Maria Cecília Fogaça,91,1,2025-06-05 05:25:16
+2349,73,Reunião,Noah da Cruz,84,3,2025-06-16 02:29:51
+2350,372,E-mail,Raquel Campos,71,5,2025-11-25 07:46:15
+2351,331,WhatsApp,Leandro Freitas,57,3,2025-06-19 03:11:12
+2352,82,Ligação,Cauã Peixoto,36,4,2025-08-13 00:55:49
+2353,388,E-mail,Maria Clara Cardoso,52,5,2025-06-23 17:16:26
+2354,221,E-mail,Dr. Guilherme Alves,18,3,2025-06-01 15:54:53
+2355,492,WhatsApp,Srta. Vitória Jesus,15,4,2026-01-07 15:30:00
+2356,448,Ligação,Marina Mendes,110,4,2025-07-24 18:36:42
+2357,150,Reunião,Lucas Gabriel Duarte,25,3,2025-07-03 07:09:00
+2358,485,WhatsApp,Evelyn Nogueira,101,3,2026-04-25 16:30:08
+2359,444,Ligação,Gabriela Costa,28,4,2026-03-07 00:25:52
+2360,404,E-mail,Dra. Caroline da Mota,97,3,2025-08-28 21:33:58
+2361,175,Suporte,Maria Clara da Paz,92,2,2026-04-26 18:09:44
+2362,151,E-mail,Ian Teixeira,115,1,2025-12-14 03:11:38
+2363,343,Ligação,Ryan Mendes,65,4,2026-04-04 21:10:18
+2364,158,Reunião,Marcelo da Rocha,106,3,2026-01-20 09:00:20
+2365,442,WhatsApp,Melissa da Mota,70,5,2025-11-14 00:12:54
+2366,492,Suporte,Dr. Otávio Silveira,69,1,2025-06-19 23:16:06
+2367,396,E-mail,Dra. Alexia Farias,98,1,2025-07-25 20:15:52
+2368,189,E-mail,Gustavo da Cunha,76,5,2025-12-17 05:44:29
+2369,266,E-mail,Raul da Paz,111,3,2025-08-26 16:25:43
+2370,170,E-mail,Ana Luiza Gomes,64,5,2025-07-14 05:09:41
+2371,426,Ligação,Lívia Fernandes,91,3,2026-02-01 19:25:42
+2372,20,WhatsApp,Dra. Marina da Rocha,92,1,2025-06-29 09:07:59
+2373,437,WhatsApp,Breno Duarte,35,2,2026-04-22 19:13:55
+2374,470,E-mail,Calebe Sales,31,3,2025-10-30 01:40:14
+2375,100,Suporte,Bianca Rezende,37,5,2025-11-10 03:41:53
+2376,162,Ligação,Rafaela Campos,55,2,2025-08-12 10:59:15
+2377,414,E-mail,Isabelly Vieira,108,1,2025-06-23 23:06:40
+2378,47,Ligação,Kevin Porto,96,5,2026-01-30 15:08:38
+2379,233,Suporte,Mariane Duarte,64,1,2026-01-10 07:40:28
+2380,279,Ligação,Gustavo Henrique da Cunha,82,2,2025-11-21 15:53:16
+2381,124,Suporte,Beatriz Castro,16,2,2025-12-17 10:26:30
+2382,253,E-mail,Maria Fernanda Gomes,22,4,2025-12-05 03:20:28
+2383,330,WhatsApp,Rebeca Ribeiro,33,1,2026-01-23 09:22:31
+2384,452,Reunião,Juan Santos,114,1,2025-09-29 23:02:41
+2385,371,Ligação,Augusto Ramos,15,5,2026-04-29 15:07:23
+2386,390,Suporte,Otávio Silveira,68,3,2025-06-26 02:09:54
+2387,200,Ligação,Augusto Moraes,64,5,2026-04-22 23:54:22
+2388,440,Reunião,Maria Gomes,104,5,2025-06-28 23:17:29
+2389,369,Suporte,Sarah Teixeira,119,1,2025-12-04 07:30:28
+2390,6,E-mail,Agatha Freitas,31,1,2025-09-13 03:56:32
+2391,416,Ligação,Caroline Pires,80,1,2025-09-19 16:32:27
+2392,172,Reunião,Marcos Vinicius Moreira,19,5,2026-02-23 13:49:08
+2393,66,Suporte,Anthony Fogaça,72,1,2025-07-01 04:54:59
+2394,126,Reunião,Dra. Ana Júlia Martins,47,4,2025-06-12 04:00:26
+2395,327,Reunião,Thales da Luz,38,3,2025-11-14 08:22:37
+2396,422,Suporte,Kaique Novaes,20,4,2025-08-11 16:53:21
+2397,470,Ligação,Sr. Matheus Barros,117,5,2025-07-07 02:14:10
+2398,349,E-mail,Clara Correia,55,3,2026-05-19 13:33:39
+2399,313,WhatsApp,Sra. Maria Sophia Nogueira,22,1,2025-11-14 00:40:48
+2400,40,WhatsApp,Ana Julia Barros,82,1,2025-05-27 01:19:06
+2401,414,Ligação,Milena Caldeira,116,5,2025-11-18 09:04:07
+2402,328,Suporte,Antônio Peixoto,41,1,2025-09-04 09:38:28
+2403,277,WhatsApp,Daniel Aragão,33,2,2026-03-27 06:00:01
+2404,204,Suporte,Matheus da Mota,66,3,2026-03-01 12:32:42
+2405,430,Ligação,Beatriz Carvalho,80,2,2025-07-16 05:58:12
+2406,388,Reunião,Sophie Costa,29,2,2026-03-23 16:44:29
+2407,418,E-mail,João Pedro Lopes,32,5,2025-11-02 22:03:27
+2408,309,Suporte,Antônio Correia,23,1,2025-07-16 16:51:41
+2409,123,Reunião,Raquel Melo,40,3,2025-10-01 20:15:10
+2410,173,Reunião,Alice da Paz,14,1,2025-11-20 19:19:35
+2411,131,Ligação,Gustavo Henrique Rocha,94,3,2025-11-15 11:58:04
+2412,67,Suporte,Ana Beatriz Nunes,73,4,2025-08-10 11:22:10
+2413,482,Ligação,Yuri da Cruz,111,3,2025-08-05 07:16:42
+2414,323,Ligação,Emilly Almeida,104,3,2026-01-12 22:18:51
+2415,122,Reunião,Alícia Cardoso,55,4,2025-10-05 11:48:13
+2416,223,Ligação,João Miguel da Mota,71,1,2025-08-19 03:15:25
+2417,60,E-mail,Agatha Mendes,59,1,2025-09-22 06:51:15
+2418,481,Ligação,Ian Moraes,29,1,2026-02-07 18:20:14
+2419,267,E-mail,Maitê Campos,51,4,2026-03-30 11:16:54
+2420,204,Suporte,Lucca Jesus,16,1,2026-03-13 06:06:06
+2421,198,E-mail,Marina Peixoto,92,4,2025-05-26 11:06:56
+2422,38,WhatsApp,Enrico Monteiro,100,2,2025-06-04 10:12:42
+2423,52,E-mail,Alice Moura,103,2,2025-09-27 08:57:38
+2424,131,WhatsApp,Sr. Diego Silveira,50,1,2025-06-01 01:29:00
+2425,419,Reunião,Valentina Cardoso,70,5,2025-07-24 11:51:23
+2426,94,Reunião,Elisa Moraes,78,1,2026-02-07 19:55:18
+2427,249,Reunião,Sra. Emanuelly Ramos,59,5,2025-07-22 08:44:53
+2428,330,E-mail,Sra. Alícia Santos,84,2,2025-07-16 16:32:59
+2429,269,WhatsApp,Isaac da Costa,42,1,2025-07-28 16:16:06
+2430,60,E-mail,Mariane Almeida,43,5,2025-11-17 10:38:05
+2431,3,Suporte,Emilly Ribeiro,62,2,2025-08-20 19:56:36
+2432,176,WhatsApp,Gabrielly Novaes,35,4,2026-04-21 05:51:52
+2433,442,Suporte,Ana Sophia Barbosa,99,5,2025-12-27 13:31:48
+2434,70,Reunião,Sra. Agatha Teixeira,10,2,2025-05-29 15:18:47
+2435,120,WhatsApp,Theo Campos,83,1,2025-12-16 05:28:26
+2436,28,Ligação,Luana Nascimento,90,3,2026-01-31 05:47:12
+2437,232,Ligação,Raul Moraes,82,1,2025-05-25 02:30:48
+2438,260,WhatsApp,Dr. Marcos Vinicius Duarte,77,5,2026-02-20 09:13:05
+2439,363,Ligação,Lavínia Cunha,107,3,2025-06-03 18:23:54
+2440,147,Suporte,Gabriela da Rosa,28,1,2026-04-01 21:49:23
+2441,366,Reunião,Helena Silveira,37,5,2025-07-28 04:37:54
+2442,414,E-mail,Matheus Ramos,56,5,2026-04-27 06:02:16
+2443,362,Suporte,Heloísa Oliveira,84,4,2025-10-11 20:05:25
+2444,393,Suporte,Miguel Araújo,78,4,2026-02-14 03:55:05
+2445,446,WhatsApp,Arthur Novaes,111,5,2026-04-09 14:19:27
+2446,329,Suporte,Gustavo Henrique Rodrigues,102,5,2025-11-03 20:02:33
+2447,382,Reunião,Sra. Bruna Ferreira,16,5,2026-02-18 21:23:33
+2448,152,E-mail,Luigi Alves,73,3,2026-03-16 07:38:06
+2449,297,Reunião,Natália Costa,86,5,2025-06-02 02:31:30
+2450,128,E-mail,Raquel Oliveira,47,5,2025-07-10 13:15:00
+2451,53,WhatsApp,Sophia Aragão,7,5,2026-01-07 13:43:41
+2452,455,WhatsApp,João Felipe Correia,77,5,2025-10-02 22:57:03
+2453,406,E-mail,Luigi Almeida,27,2,2025-08-24 08:38:09
+2454,56,E-mail,Marcelo Cavalcanti,112,2,2026-01-24 21:30:30
+2455,151,E-mail,Juliana Castro,104,4,2025-12-29 17:39:47
+2456,207,Suporte,Bruno da Rocha,76,1,2025-10-20 20:23:35
+2457,209,Suporte,João Pedro Souza,94,1,2026-03-15 02:32:00
+2458,286,Reunião,Vitor Hugo Lima,24,4,2025-11-01 08:44:04
+2459,328,Ligação,Joaquim Souza,63,4,2026-03-08 17:07:49
+2460,498,Ligação,Giovanna Farias,87,4,2026-01-10 11:12:15
+2461,90,E-mail,Maria Julia Pinto,44,5,2025-08-04 20:37:42
+2462,483,E-mail,Ana Lívia Oliveira,71,5,2026-04-01 14:25:35
+2463,113,WhatsApp,Dr. Gabriel Castro,90,5,2026-05-16 04:35:53
+2464,465,WhatsApp,Carolina Teixeira,88,2,2025-12-08 10:59:23
+2465,461,Suporte,Yago Cardoso,22,5,2026-02-07 04:07:13
+2466,388,Ligação,Enzo Gabriel Pinto,112,3,2025-06-14 17:00:32
+2467,424,Ligação,Vitória Fernandes,119,3,2025-07-18 05:26:11
+2468,492,Reunião,Renan da Conceição,118,1,2025-07-31 00:38:43
+2469,73,Suporte,Maria Vitória Campos,83,4,2025-10-02 03:17:17
+2470,175,Ligação,Daniel da Luz,75,2,2025-11-30 17:33:29
+2471,208,Suporte,Beatriz Barros,102,3,2025-12-04 15:55:01
+2472,279,E-mail,Sr. Miguel Cavalcanti,60,3,2026-05-03 21:22:22
+2473,48,Suporte,Luiz Otávio Peixoto,53,5,2025-07-24 07:53:18
+2474,194,WhatsApp,Sr. Thales Freitas,57,1,2026-03-18 00:42:03
+2475,473,E-mail,Ana Clara Barros,6,5,2026-04-28 14:55:57
+2476,247,Reunião,Isis Freitas,17,2,2025-07-26 10:13:50
+2477,393,E-mail,Pedro Lucas Araújo,108,5,2026-05-21 08:02:37
+2478,161,Suporte,Bruna Ribeiro,48,1,2025-07-20 14:43:35
+2479,129,E-mail,Sr. João Miguel Farias,104,3,2025-08-29 06:52:53
+2480,205,Suporte,Isabelly Silveira,24,2,2026-04-06 13:06:19
+2481,301,WhatsApp,Sra. Maria Luiza da Mota,113,5,2026-04-16 15:43:15
+2482,140,Ligação,Davi Lucas da Paz,114,1,2025-09-10 14:05:56
+2483,427,E-mail,Davi Ribeiro,66,2,2026-04-25 20:29:45
+2484,1,Ligação,Thales das Neves,90,5,2026-01-26 02:30:36
+2485,223,Suporte,Davi Lucas Aragão,55,4,2025-09-12 01:41:34
+2486,33,Ligação,Thales Rodrigues,19,4,2025-11-30 07:02:34
+2487,258,E-mail,Dra. Natália Moreira,14,1,2025-12-20 06:45:36
+2488,343,E-mail,Diego Freitas,109,5,2025-09-03 04:04:03
+2489,172,Ligação,Olivia Fogaça,11,1,2025-06-12 15:53:50
+2490,193,Suporte,Emanuelly Moura,12,5,2025-08-15 06:17:46
+2491,332,WhatsApp,Cecília Mendes,15,3,2026-02-16 01:22:36
+2492,323,Suporte,Caroline Sales,14,3,2025-10-03 16:27:25
+2493,28,Reunião,Bianca Ferreira,57,2,2025-12-05 04:08:38
+2494,442,Suporte,Ana Lívia Peixoto,30,5,2025-10-04 21:02:46
+2495,487,Reunião,Kaique da Rosa,87,4,2026-03-20 05:58:02
+2496,322,E-mail,Mirella Lima,11,3,2025-11-12 12:11:37
+2497,113,WhatsApp,Dr. Rafael Melo,39,1,2026-01-07 00:21:50
+2498,459,Reunião,Leandro Martins,61,4,2026-03-25 01:14:05
+2499,307,WhatsApp,Dr. Ryan Souza,55,2,2025-09-20 09:48:36
+2500,30,Reunião,Breno Campos,118,2,2026-04-11 23:25:27
